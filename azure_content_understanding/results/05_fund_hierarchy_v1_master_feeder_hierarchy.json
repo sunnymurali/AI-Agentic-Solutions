@@ -1,0 +1,138 @@
+{
+  "title": "Orion Strategies - Master-Feeder Structure",
+  "nodes": [
+    {
+      "id": "capital_gp",
+      "name": "Orion Capital GP Ltd",
+      "entity_type": "general_partner",
+      "jurisdiction": "",
+      "sublabel": "General Partner / Investment Manager"
+    },
+    {
+      "id": "master_fund",
+      "name": "Orion Master Fund LP",
+      "entity_type": "master_fund",
+      "jurisdiction": "Cayman Islands",
+      "sublabel": "Cayman Islands"
+    },
+    {
+      "id": "onshore_feeder",
+      "name": "Orion Onshore Feeder LP",
+      "entity_type": "feeder_fund",
+      "jurisdiction": "Delaware",
+      "sublabel": "Delaware - US taxable"
+    },
+    {
+      "id": "offshore_feeder",
+      "name": "Orion Offshore Feeder Ltd",
+      "entity_type": "feeder_fund",
+      "jurisdiction": "Cayman",
+      "sublabel": "Cayman - non-US / tax-exempt"
+    },
+    {
+      "id": "europe_feeder",
+      "name": "Orion Europe Feeder SICAV",
+      "entity_type": "feeder_fund",
+      "jurisdiction": "Luxembourg",
+      "sublabel": "Luxembourg - UCITS-like"
+    },
+    {
+      "id": "us_investors",
+      "name": "US Taxable Investors",
+      "entity_type": "investor_group",
+      "jurisdiction": "",
+      "sublabel": ""
+    },
+    {
+      "id": "non_us_investors",
+      "name": "Non-US Investors",
+      "entity_type": "investor_group",
+      "jurisdiction": "",
+      "sublabel": ""
+    },
+    {
+      "id": "eu_investors",
+      "name": "EU Investors",
+      "entity_type": "investor_group",
+      "jurisdiction": "",
+      "sublabel": ""
+    },
+    {
+      "id": "prime_broker",
+      "name": "Prime Broker: Goldman Sachs",
+      "entity_type": "prime_broker",
+      "jurisdiction": "",
+      "sublabel": ""
+    },
+    {
+      "id": "administrator",
+      "name": "Administrator: Apex Fund Services",
+      "entity_type": "administrator",
+      "jurisdiction": "",
+      "sublabel": ""
+    },
+    {
+      "id": "custodian",
+      "name": "Custodian: BNP Paribas",
+      "entity_type": "custodian",
+      "jurisdiction": "",
+      "sublabel": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "capital_gp",
+      "target": "master_fund",
+      "relation": "manages",
+      "label_printed": true,
+      "style": "solid"
+    },
+    {
+      "source": "onshore_feeder",
+      "target": "master_fund",
+      "relation": "invests",
+      "label_printed": true,
+      "style": "solid"
+    },
+    {
+      "source": "offshore_feeder",
+      "target": "master_fund",
+      "relation": "invests",
+      "label_printed": true,
+      "style": "solid"
+    },
+    {
+      "source": "europe_feeder",
+      "target": "master_fund",
+      "relation": "invests",
+      "label_printed": true,
+      "style": "solid"
+    },
+    {
+      "source": "us_investors",
+      "target": "onshore_feeder",
+      "relation": "invests in",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "non_us_investors",
+      "target": "offshore_feeder",
+      "relation": "invests in",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "eu_investors",
+      "target": "europe_feeder",
+      "relation": "invests in",
+      "label_printed": false,
+      "style": "solid"
+    }
+  ],
+  "notes": "The three feeder connections share an upward arrow to the Master Fund and a single printed 'invests' label. Service-provider boxes have no connectors, so no edges are included for them.",
+  "_usage": {
+    "input_tokens": 3279,
+    "output_tokens": 980
+  }
+}

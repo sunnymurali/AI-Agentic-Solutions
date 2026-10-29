@@ -1,0 +1,801 @@
+{
+  "analyzerId": "prebuilt-layout",
+  "apiVersion": "2025-11-01",
+  "createdAt": "2026-10-29T02:43:50Z",
+  "stringEncoding": "codePoint",
+  "warnings": [],
+  "contents": [
+    {
+      "path": "input1",
+      "markdown": "# TRADE ORDER INSTRUCTION Halden & Roe Securities - Dealing Desk | dealing@haldenroe.example\n\nAccount No.:\n\nSide (Buy/Sell):\n\nSecurity / ISIN:\n\nQuantity:\n\nOrder type:\n\nLimit price:\n\nSpecial instructions / certification\n\nPlease process Order\n\nClient name (print): Tomasz Wr\u00f3bel\n\nT. Wrobel\n\nAuthorised signature\n\nDate: 24/09/2026\n",
+      "kind": "document",
+      "startPageNumber": 1,
+      "endPageNumber": 1,
+      "unit": "inch",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "angle": 0,
+          "width": 8.2639,
+          "height": 11.6806,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 328
+            }
+          ],
+          "words": [
+            {
+              "content": "TRADE",
+              "span": {
+                "offset": 2,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6804,0.6411,1.4373,0.6389,1.438,0.8583,0.6814,0.8593)"
+            },
+            {
+              "content": "ORDER",
+              "span": {
+                "offset": 8,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.5104,0.6386,2.3074,0.6375,2.3079,0.8575,1.5111,0.8582)"
+            },
+            {
+              "content": "INSTRUCTION",
+              "span": {
+                "offset": 14,
+                "length": 11
+              },
+              "confidence": 0.996,
+              "source": "D(1,2.3733,0.6374,3.8979,0.6385,3.8979,0.857,2.3737,0.8574)"
+            },
+            {
+              "content": "Halden",
+              "span": {
+                "offset": 26,
+                "length": 6
+              },
+              "confidence": 0.995,
+              "source": "D(1,0.6784,0.9538,1.1249,0.9541,1.1249,1.1161,0.6784,1.1147)"
+            },
+            {
+              "content": "&",
+              "span": {
+                "offset": 33,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.166,0.9541,1.2537,0.9542,1.2537,1.1165,1.166,1.1162)"
+            },
+            {
+              "content": "Roe",
+              "span": {
+                "offset": 35,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.3003,0.9542,1.5496,0.9544,1.5496,1.1174,1.3003,1.1166)"
+            },
+            {
+              "content": "Securities",
+              "span": {
+                "offset": 39,
+                "length": 10
+              },
+              "confidence": 0.991,
+              "source": "D(1,1.5934,0.9544,2.1989,0.9548,2.1988,1.1193,1.5934,1.1175)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 50,
+                "length": 1
+              },
+              "confidence": 0.988,
+              "source": "D(1,2.2372,0.9548,2.2865,0.9549,2.2865,1.1195,2.2372,1.1194)"
+            },
+            {
+              "content": "Dealing",
+              "span": {
+                "offset": 52,
+                "length": 7
+              },
+              "confidence": 0.988,
+              "source": "D(1,2.3303,0.9549,2.7879,0.9554,2.7879,1.1205,2.3303,1.1196)"
+            },
+            {
+              "content": "Desk",
+              "span": {
+                "offset": 60,
+                "length": 4
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.8344,0.9554,3.1632,0.9558,3.1632,1.1212,2.8344,1.1206)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 65,
+                "length": 1
+              },
+              "confidence": 0.961,
+              "source": "D(1,3.2563,0.9559,3.2974,0.9559,3.2974,1.1215,3.2563,1.1214)"
+            },
+            {
+              "content": "dealing@haldenroe.example",
+              "span": {
+                "offset": 67,
+                "length": 25
+              },
+              "confidence": 0.877,
+              "source": "D(1,3.4043,0.956,5.1932,0.9583,5.1932,1.1236,3.4042,1.1217)"
+            },
+            {
+              "content": "Account",
+              "span": {
+                "offset": 94,
+                "length": 7
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6744,1.6797,1.1963,1.6758,1.1966,1.82,0.6754,1.8221)"
+            },
+            {
+              "content": "No",
+              "span": {
+                "offset": 102,
+                "length": 2
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.2278,1.6755,1.4026,1.6741,1.4027,1.8192,1.2281,1.8198)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 104,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.405,1.674,1.4317,1.6738,1.4318,1.8191,1.4051,1.8192)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 105,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.4438,1.6737,1.49,1.6733,1.49,1.8189,1.4439,1.8191)"
+            },
+            {
+              "content": "Side",
+              "span": {
+                "offset": 108,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,0.6794,2.1483,0.9583,2.1474,0.9587,2.3123,0.6799,2.3135)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 113,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,0.9997,2.1473,1.0439,2.1473,1.0442,2.3122,1.0001,2.3122)"
+            },
+            {
+              "content": "Buy",
+              "span": {
+                "offset": 114,
+                "length": 3
+              },
+              "confidence": 0.991,
+              "source": "D(1,1.0467,2.1473,1.2896,2.1476,1.2898,2.3126,1.047,2.3122)"
+            },
+            {
+              "content": "/",
+              "span": {
+                "offset": 117,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.2869,2.1476,1.3366,2.1477,1.3368,2.3128,1.2871,2.3126)"
+            },
+            {
+              "content": "Sell",
+              "span": {
+                "offset": 118,
+                "length": 4
+              },
+              "confidence": 0.989,
+              "source": "D(1,1.3283,2.1477,1.5575,2.149,1.5575,2.3145,1.3285,2.3127)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 122,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.563,2.149,1.6044,2.1492,1.6044,2.3149,1.5631,2.3145)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 123,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.6072,2.1492,1.6514,2.1495,1.6514,2.3152,1.6072,2.3149)"
+            },
+            {
+              "content": "Security",
+              "span": {
+                "offset": 126,
+                "length": 8
+              },
+              "confidence": 0.99,
+              "source": "D(1,0.6794,2.6221,1.1925,2.6219,1.193,2.7844,0.6804,2.7838)"
+            },
+            {
+              "content": "/",
+              "span": {
+                "offset": 135,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.2193,2.6217,1.2727,2.6214,1.2731,2.784,1.2197,2.7842)"
+            },
+            {
+              "content": "ISIN",
+              "span": {
+                "offset": 137,
+                "length": 4
+              },
+              "confidence": 0.977,
+              "source": "D(1,1.3074,2.6212,1.564,2.6174,1.564,2.7799,1.3078,2.7838)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 141,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.5773,2.6172,1.6201,2.6166,1.6201,2.7791,1.5774,2.7797)"
+            },
+            {
+              "content": "Quantity",
+              "span": {
+                "offset": 144,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6819,3.0959,1.2077,3.0953,1.2068,3.2544,0.6819,3.2518)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 152,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.2077,3.0953,1.2509,3.0954,1.2499,3.2553,1.2068,3.2544)"
+            },
+            {
+              "content": "Order",
+              "span": {
+                "offset": 155,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6839,3.5668,1.0521,3.5677,1.0516,3.727,0.6829,3.7268)"
+            },
+            {
+              "content": "type",
+              "span": {
+                "offset": 161,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.078,3.5677,1.3398,3.5673,1.3398,3.7283,1.0776,3.7271)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 165,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.3476,3.5673,1.3891,3.5672,1.3891,3.7285,1.3475,3.7283)"
+            },
+            {
+              "content": "Limit",
+              "span": {
+                "offset": 168,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6799,4.0412,0.9846,4.0407,0.9846,4.1946,0.6799,4.1977)"
+            },
+            {
+              "content": "price",
+              "span": {
+                "offset": 174,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.0174,4.0408,1.3145,4.0419,1.3145,4.1989,1.0174,4.1947)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 179,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.3221,4.042,1.3649,4.0422,1.3649,4.2,1.3221,4.1991)"
+            },
+            {
+              "content": "Special",
+              "span": {
+                "offset": 182,
+                "length": 7
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6779,4.775,1.2115,4.7752,1.2123,4.9464,0.6789,4.9456)"
+            },
+            {
+              "content": "instructions",
+              "span": {
+                "offset": 190,
+                "length": 12
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.2657,4.7753,2.1275,4.7749,2.1279,4.9458,1.2665,4.9465)"
+            },
+            {
+              "content": "/",
+              "span": {
+                "offset": 203,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.1674,4.7748,2.2359,4.7748,2.2363,4.9457,2.1678,4.9458)"
+            },
+            {
+              "content": "certification",
+              "span": {
+                "offset": 205,
+                "length": 13
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.2616,4.7747,3.1433,4.7728,3.1433,4.9416,2.262,4.9456)"
+            },
+            {
+              "content": "Please",
+              "span": {
+                "offset": 220,
+                "length": 6
+              },
+              "confidence": 0.938,
+              "source": "D(1,1.0643,5.273,2.2865,5.3025,2.2813,5.7348,1.0572,5.7016)"
+            },
+            {
+              "content": "process",
+              "span": {
+                "offset": 227,
+                "length": 7
+              },
+              "confidence": 0.983,
+              "source": "D(1,2.4008,5.3053,3.8446,5.3411,3.8421,5.7709,2.3959,5.7379)"
+            },
+            {
+              "content": "Order",
+              "span": {
+                "offset": 235,
+                "length": 5
+              },
+              "confidence": 0.989,
+              "source": "D(1,3.9732,5.3444,5.1811,5.3751,5.1811,5.7955,3.971,5.7732)"
+            },
+            {
+              "content": "Client",
+              "span": {
+                "offset": 242,
+                "length": 6
+              },
+              "confidence": 0.975,
+              "source": "D(1,0.6839,6.7231,1.0421,6.725,1.0429,6.8839,0.685,6.8837)"
+            },
+            {
+              "content": "name",
+              "span": {
+                "offset": 249,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,1.0845,6.7253,1.4214,6.7271,1.4221,6.8841,1.0854,6.8839)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 254,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.4692,6.7271,1.509,6.727,1.5096,6.884,1.4698,6.8841)"
+            },
+            {
+              "content": "print",
+              "span": {
+                "offset": 255,
+                "length": 5
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.5143,6.727,1.7849,6.7266,1.7854,6.8833,1.5149,6.8839)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 260,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.7849,6.7266,1.8273,6.7266,1.8278,6.8831,1.7854,6.8833)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 261,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.8379,6.7266,1.8645,6.7265,1.8649,6.8831,1.8384,6.8831)"
+            },
+            {
+              "content": "Tomasz",
+              "span": {
+                "offset": 263,
+                "length": 6
+              },
+              "confidence": 0.877,
+              "source": "D(1,1.9387,6.7264,2.4401,6.724,2.4403,6.8808,1.9392,6.8829)"
+            },
+            {
+              "content": "Wr\u00f3bel",
+              "span": {
+                "offset": 270,
+                "length": 6
+              },
+              "confidence": 0.792,
+              "source": "D(1,2.4719,6.7237,2.9335,6.7199,2.9335,6.878,2.4721,6.8806)"
+            },
+            {
+              "content": "T",
+              "span": {
+                "offset": 278,
+                "length": 1
+              },
+              "confidence": 0.917,
+              "source": "D(1,0.9513,6.8498,1.3015,6.8305,1.3144,7.2793,0.9624,7.2965)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 279,
+                "length": 1
+              },
+              "confidence": 0.922,
+              "source": "D(1,1.1921,6.8366,1.4547,6.8221,1.4685,7.2718,1.2044,7.2847)"
+            },
+            {
+              "content": "Wrobel",
+              "span": {
+                "offset": 281,
+                "length": 6
+              },
+              "confidence": 0.889,
+              "source": "D(1,1.5131,6.8189,3.4016,6.6927,3.4238,7.1296,1.5271,7.2689)"
+            },
+            {
+              "content": "Authorised",
+              "span": {
+                "offset": 289,
+                "length": 10
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6744,7.4772,1.34,7.4772,1.3402,7.6368,0.6749,7.6368)"
+            },
+            {
+              "content": "signature",
+              "span": {
+                "offset": 300,
+                "length": 9
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.386,7.4772,1.9732,7.4772,1.9732,7.6368,1.3862,7.6368)"
+            },
+            {
+              "content": "Date",
+              "span": {
+                "offset": 311,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.5677,7.4772,4.8669,7.4772,4.8669,7.6254,4.5677,7.6254)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 315,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.8766,7.4772,4.9058,7.4772,4.9058,7.6254,4.8766,7.6254)"
+            },
+            {
+              "content": "24/09/2026",
+              "span": {
+                "offset": 317,
+                "length": 10
+              },
+              "confidence": 0.995,
+              "source": "D(1,4.9422,7.4772,5.6572,7.4772,5.6572,7.6254,4.9422,7.6254)"
+            }
+          ],
+          "lines": [
+            {
+              "content": "TRADE ORDER INSTRUCTION",
+              "source": "D(1,0.6804,0.6386,3.8979,0.6363,3.898,0.857,0.6806,0.8593)",
+              "span": {
+                "offset": 2,
+                "length": 23
+              }
+            },
+            {
+              "content": "Halden & Roe Securities - Dealing Desk | dealing@haldenroe.example",
+              "source": "D(1,0.6784,0.9533,5.1933,0.9578,5.1932,1.1238,0.6782,1.1193)",
+              "span": {
+                "offset": 26,
+                "length": 66
+              }
+            },
+            {
+              "content": "Account No.:",
+              "source": "D(1,0.6744,1.6791,1.49,1.6733,1.491,1.8189,0.6754,1.8247)",
+              "span": {
+                "offset": 94,
+                "length": 12
+              }
+            },
+            {
+              "content": "Side (Buy/Sell):",
+              "source": "D(1,0.6794,2.1465,1.6517,2.1482,1.6514,2.3152,0.6791,2.3135)",
+              "span": {
+                "offset": 108,
+                "length": 16
+              }
+            },
+            {
+              "content": "Security / ISIN:",
+              "source": "D(1,0.6794,2.6221,1.6201,2.6166,1.6208,2.7819,0.6804,2.7875)",
+              "span": {
+                "offset": 126,
+                "length": 16
+              }
+            },
+            {
+              "content": "Quantity:",
+              "source": "D(1,0.682,3.092,1.2509,3.0954,1.2499,3.2553,0.681,3.2518)",
+              "span": {
+                "offset": 144,
+                "length": 9
+              }
+            },
+            {
+              "content": "Order type:",
+              "source": "D(1,0.6833,3.5655,1.3895,3.5672,1.3891,3.7285,0.6829,3.7268)",
+              "span": {
+                "offset": 155,
+                "length": 11
+              }
+            },
+            {
+              "content": "Limit price:",
+              "source": "D(1,0.6799,4.0394,1.3654,4.0417,1.3649,4.2,0.6794,4.1977)",
+              "span": {
+                "offset": 168,
+                "length": 12
+              }
+            },
+            {
+              "content": "Special instructions / certification",
+              "source": "D(1,0.6779,4.775,3.1433,4.7728,3.1435,4.9454,0.678,4.9476)",
+              "span": {
+                "offset": 182,
+                "length": 36
+              }
+            },
+            {
+              "content": "Please process Order",
+              "source": "D(1,1.0643,5.273,5.1821,5.3726,5.1808,5.8004,1.0558,5.7056)",
+              "span": {
+                "offset": 220,
+                "length": 20
+              }
+            },
+            {
+              "content": "Client name (print): Tomasz Wr\u00f3bel",
+              "source": "D(1,0.6839,6.7231,2.9335,6.7199,2.9337,6.882,0.6842,6.8852)",
+              "span": {
+                "offset": 242,
+                "length": 34
+              }
+            },
+            {
+              "content": "T. Wrobel",
+              "source": "D(1,0.9474,6.8509,3.4016,6.6927,3.4243,7.1508,0.9632,7.3003)",
+              "span": {
+                "offset": 278,
+                "length": 9
+              }
+            },
+            {
+              "content": "Authorised signature",
+              "source": "D(1,0.6744,7.4772,1.9732,7.4772,1.9732,7.6368,0.6744,7.6368)",
+              "span": {
+                "offset": 289,
+                "length": 20
+              }
+            },
+            {
+              "content": "Date: 24/09/2026",
+              "source": "D(1,4.5677,7.4772,5.6572,7.4772,5.6572,7.6254,4.5677,7.6254)",
+              "span": {
+                "offset": 311,
+                "length": 16
+              }
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "role": "title",
+          "content": "TRADE ORDER INSTRUCTION Halden & Roe Securities - Dealing Desk | dealing@haldenroe.example",
+          "source": "D(1,0.6787,0.6331,5.1937,0.6376,5.1932,1.1238,0.6782,1.1193)",
+          "span": {
+            "offset": 0,
+            "length": 92
+          }
+        },
+        {
+          "content": "Account No.:",
+          "source": "D(1,0.6744,1.6791,1.49,1.6733,1.491,1.8189,0.6754,1.8247)",
+          "span": {
+            "offset": 94,
+            "length": 12
+          }
+        },
+        {
+          "content": "Side (Buy/Sell):",
+          "source": "D(1,0.6794,2.1465,1.6517,2.1482,1.6514,2.3152,0.6791,2.3135)",
+          "span": {
+            "offset": 108,
+            "length": 16
+          }
+        },
+        {
+          "content": "Security / ISIN:",
+          "source": "D(1,0.6794,2.6221,1.6201,2.6166,1.6211,2.7819,0.6804,2.7875)",
+          "span": {
+            "offset": 126,
+            "length": 16
+          }
+        },
+        {
+          "content": "Quantity:",
+          "source": "D(1,0.682,3.092,1.2509,3.0954,1.2499,3.2553,0.681,3.2518)",
+          "span": {
+            "offset": 144,
+            "length": 9
+          }
+        },
+        {
+          "content": "Order type:",
+          "source": "D(1,0.6833,3.5655,1.3895,3.5672,1.3891,3.7285,0.6829,3.7268)",
+          "span": {
+            "offset": 155,
+            "length": 11
+          }
+        },
+        {
+          "content": "Limit price:",
+          "source": "D(1,0.6799,4.0394,1.3654,4.0417,1.3649,4.2,0.6794,4.1977)",
+          "span": {
+            "offset": 168,
+            "length": 12
+          }
+        },
+        {
+          "content": "Special instructions / certification",
+          "source": "D(1,0.6779,4.775,3.1433,4.7728,3.1435,4.9454,0.678,4.9476)",
+          "span": {
+            "offset": 182,
+            "length": 36
+          }
+        },
+        {
+          "content": "Please process Order",
+          "source": "D(1,1.0643,5.273,5.1908,5.3678,5.1808,5.8004,1.0543,5.7056)",
+          "span": {
+            "offset": 220,
+            "length": 20
+          }
+        },
+        {
+          "content": "Client name (print): Tomasz Wr\u00f3bel",
+          "source": "D(1,0.6839,6.7231,2.9335,6.7199,2.9337,6.882,0.6842,6.8852)",
+          "span": {
+            "offset": 242,
+            "length": 34
+          }
+        },
+        {
+          "content": "T. Wrobel",
+          "source": "D(1,0.9353,6.8426,3.4016,6.6927,3.4294,7.1505,0.9632,7.3003)",
+          "span": {
+            "offset": 278,
+            "length": 9
+          }
+        },
+        {
+          "content": "Authorised signature",
+          "source": "D(1,0.6744,7.4772,1.9732,7.4772,1.9732,7.6368,0.6744,7.6368)",
+          "span": {
+            "offset": 289,
+            "length": 20
+          }
+        },
+        {
+          "content": "Date: 24/09/2026",
+          "source": "D(1,4.5677,7.4772,5.6572,7.4772,5.6572,7.6254,4.5677,7.6254)",
+          "span": {
+            "offset": 311,
+            "length": 16
+          }
+        }
+      ],
+      "sections": [
+        {
+          "span": {
+            "offset": 0,
+            "length": 327
+          },
+          "elements": [
+            "/paragraphs/0",
+            "/paragraphs/1",
+            "/paragraphs/2",
+            "/paragraphs/3",
+            "/paragraphs/4",
+            "/paragraphs/5",
+            "/paragraphs/6",
+            "/paragraphs/7",
+            "/paragraphs/8",
+            "/paragraphs/9",
+            "/paragraphs/10",
+            "/paragraphs/11",
+            "/paragraphs/12"
+          ]
+        }
+      ],
+      "analyzerId": "prebuilt-layout",
+      "mimeType": "application/pdf"
+    }
+  ]
+}

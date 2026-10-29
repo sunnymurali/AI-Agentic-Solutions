@@ -1,0 +1,215 @@
+{
+  "title": "Aldgate Umbrella ICAV - Sub-funds and Share Classes",
+  "nodes": [
+    {
+      "id": "management_company",
+      "name": "Aldgate ManCo (Ireland) Ltd",
+      "entity_type": "management_company",
+      "jurisdiction": "",
+      "sublabel": "Management Company"
+    },
+    {
+      "id": "umbrella",
+      "name": "Aldgate UCITS ICAV",
+      "entity_type": "umbrella_fund",
+      "jurisdiction": "Ireland",
+      "sublabel": "Umbrella - Ireland"
+    },
+    {
+      "id": "depositary",
+      "name": "State Street Custodial Services",
+      "entity_type": "depositary",
+      "jurisdiction": "",
+      "sublabel": "Depositary"
+    },
+    {
+      "id": "global_equity",
+      "name": "Global Equity Fund",
+      "entity_type": "sub_fund",
+      "jurisdiction": "",
+      "sublabel": "Sub-fund"
+    },
+    {
+      "id": "euro_bond",
+      "name": "Euro Bond Fund",
+      "entity_type": "sub_fund",
+      "jurisdiction": "",
+      "sublabel": "Sub-fund"
+    },
+    {
+      "id": "multi_asset_income",
+      "name": "Multi-Asset Income Fund",
+      "entity_type": "sub_fund",
+      "jurisdiction": "",
+      "sublabel": "Sub-fund"
+    },
+    {
+      "id": "global_equity_a",
+      "name": "Class A",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(EUR Acc)"
+    },
+    {
+      "id": "global_equity_i",
+      "name": "Class I",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(USD Dist)"
+    },
+    {
+      "id": "global_equity_z",
+      "name": "Class Z",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(GBP Acc)"
+    },
+    {
+      "id": "euro_bond_a",
+      "name": "Class A",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(EUR Acc)"
+    },
+    {
+      "id": "euro_bond_i",
+      "name": "Class I",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(USD Dist)"
+    },
+    {
+      "id": "euro_bond_z",
+      "name": "Class Z",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(GBP Acc)"
+    },
+    {
+      "id": "multi_asset_income_a",
+      "name": "Class A",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(EUR Acc)"
+    },
+    {
+      "id": "multi_asset_income_i",
+      "name": "Class I",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(USD Dist)"
+    },
+    {
+      "id": "multi_asset_income_z",
+      "name": "Class Z",
+      "entity_type": "share_class",
+      "jurisdiction": "",
+      "sublabel": "(GBP Acc)"
+    }
+  ],
+  "edges": [
+    {
+      "source": "management_company",
+      "target": "umbrella",
+      "relation": "manages",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "umbrella",
+      "target": "depositary",
+      "relation": "has depositary",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "umbrella",
+      "target": "global_equity",
+      "relation": "has sub-fund",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "umbrella",
+      "target": "euro_bond",
+      "relation": "has sub-fund",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "umbrella",
+      "target": "multi_asset_income",
+      "relation": "has sub-fund",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "global_equity",
+      "target": "global_equity_a",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "global_equity",
+      "target": "global_equity_i",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "global_equity",
+      "target": "global_equity_z",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "euro_bond",
+      "target": "euro_bond_a",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "euro_bond",
+      "target": "euro_bond_i",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "euro_bond",
+      "target": "euro_bond_z",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "multi_asset_income",
+      "target": "multi_asset_income_a",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "multi_asset_income",
+      "target": "multi_asset_income_i",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    },
+    {
+      "source": "multi_asset_income",
+      "target": "multi_asset_income_z",
+      "relation": "has share class",
+      "label_printed": false,
+      "style": "solid"
+    }
+  ],
+  "notes": "The two horizontal service-provider connectors have no arrowheads, and their boxes are at the same vertical level, so the higher-to-lower rule cannot determine direction. They are represented left-to-right for serialization only; the chart does not assert their direction. All sub-fund and share-class connectors follow downward arrowheads. The footer lists Investment Manager: Aldgate Asset Management LLP, Administrator: Northern Trust, and Auditor: KPMG; these are outside boxes and have no connectors, so they are excluded.",
+  "_usage": {
+    "input_tokens": 3321,
+    "output_tokens": 1635
+  }
+}

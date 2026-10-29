@@ -1,0 +1,2301 @@
+{
+  "analyzerId": "prebuilt-layout",
+  "apiVersion": "2025-11-01",
+  "createdAt": "2026-10-29T02:43:20Z",
+  "stringEncoding": "codePoint",
+  "warnings": [],
+  "contents": [
+    {
+      "path": "input1",
+      "markdown": "Meridian Capin DIST\nDR\nMeridian Capital Partners LLP\n12 Fenchurch Street, London EC3M 3BY\n\\- NOT\n\nDear Investor,\nThis documen Credit Opportunities Rposed terms ot . NOT FOR DIST\nDF\n\nWe are pleased to confirm the proposed terms of your commitment of EUR 5,000,000 to\nthe Meridian Credit Opportunities Fund III. Closing is expected on 30 September 2026.\nThis document remains subject to legal review and must not be relied upon.\n\n\\- NOT FOR DIST BBAYTONOT FOR DISTRH\n\nNOT FOR DIST BABAYT.NOT FOR DISTRA\n\nTRue 1 2R DIST BAYTONOT FOR DISTB\nPage 1 of 2\n\nOT FOR DISTRIE\n\n<!-- PageBreak -->\n\nMeridian Capin DIST\nDR\nMeridian Capital Partners LLP\n12 Fenchurch Street, London EC3M 3BY\n\\- NOT\n\nDear Investor,\nThis documen Credit Opportunities Funsed terms of . NOT FOR DIST\nDF\n\nWe are pleased to confirm the proposed terms of your commitment of EUR 5,000,000 to\nthe Meridian Credit Opportunities Fund III. Closing is expected on 30 September 2026.\nThis document remains subject to legal review and must not be relied upon.\n\n\\- NOT FOR DIST BABAYT.NOT FOR DISTRH\n\nNOT FOR DIST BBAYTONOT FOR DISTRA\n\nTROR 2012R DIST BBAYTONOT FOR DISTB\n\n<!-- PageNumber: Page 2 of 2 -->\n\nOT FOR DISTRIE\n",
+      "kind": "document",
+      "startPageNumber": 1,
+      "endPageNumber": 2,
+      "unit": "inch",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "angle": -18.5528,
+          "width": 8.5,
+          "height": 11,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 585
+            }
+          ],
+          "words": [
+            {
+              "content": "Meridian",
+              "span": {
+                "offset": 0,
+                "length": 8
+              },
+              "confidence": 0.962,
+              "source": "D(1,0.9354,0.8446,1.4889,0.7644,1.6308,1.0909,1.0677,1.1951)"
+            },
+            {
+              "content": "Capin",
+              "span": {
+                "offset": 9,
+                "length": 5
+              },
+              "confidence": 0.703,
+              "source": "D(1,1.5006,0.7598,1.9568,0.5581,2.1202,0.907,1.6429,1.0864)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 15,
+                "length": 4
+              },
+              "confidence": 0.973,
+              "source": "D(1,2.1268,0.4746,3.0754,0,3.2518,0.3139,2.2953,0.8239)"
+            },
+            {
+              "content": "DR",
+              "span": {
+                "offset": 20,
+                "length": 2
+              },
+              "confidence": 0.97,
+              "source": "D(1,3.1667,0.2651,3.8101,0,4.0031,0.2799,3.3535,0.6061)"
+            },
+            {
+              "content": "Meridian",
+              "span": {
+                "offset": 23,
+                "length": 8
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.9862,0.8689,1.5679,0.8681,1.5705,1.0372,0.9883,1.0364)"
+            },
+            {
+              "content": "Capital",
+              "span": {
+                "offset": 32,
+                "length": 7
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.6182,0.868,2.0936,0.8654,2.0968,1.0351,1.6209,1.0373)"
+            },
+            {
+              "content": "Partners",
+              "span": {
+                "offset": 40,
+                "length": 8
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.1467,0.8651,2.7116,0.8601,2.7154,1.0295,2.15,1.0349)"
+            },
+            {
+              "content": "LLP",
+              "span": {
+                "offset": 49,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.7591,0.8596,3.0443,0.8566,3.0485,1.0255,2.763,1.0289)"
+            },
+            {
+              "content": "12",
+              "span": {
+                "offset": 53,
+                "length": 2
+              },
+              "confidence": 0.974,
+              "source": "D(1,1.0018,1.1142,1.1613,1.1141,1.1628,1.2816,1.0034,1.2807)"
+            },
+            {
+              "content": "Fenchurch",
+              "span": {
+                "offset": 56,
+                "length": 9
+              },
+              "confidence": 0.983,
+              "source": "D(1,1.2125,1.114,1.9187,1.1136,1.9204,1.2857,1.2141,1.2818)"
+            },
+            {
+              "content": "Street",
+              "span": {
+                "offset": 66,
+                "length": 6
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.9671,1.1135,2.3829,1.1121,2.3847,1.2852,1.9689,1.2858)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 72,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.3829,1.1121,2.417,1.112,2.4189,1.2852,2.3847,1.2852)"
+            },
+            {
+              "content": "London",
+              "span": {
+                "offset": 74,
+                "length": 6
+              },
+              "confidence": 0.996,
+              "source": "D(1,2.4683,1.1119,2.9638,1.11,2.9657,1.2838,2.4701,1.2851)"
+            },
+            {
+              "content": "EC3M",
+              "span": {
+                "offset": 81,
+                "length": 4
+              },
+              "confidence": 0.968,
+              "source": "D(1,3.0179,1.1097,3.4222,1.1075,3.4242,1.2801,3.0198,1.2834)"
+            },
+            {
+              "content": "3BY",
+              "span": {
+                "offset": 86,
+                "length": 3
+              },
+              "confidence": 0.98,
+              "source": "D(1,3.4706,1.1072,3.781,1.1054,3.7831,1.2773,3.4726,1.2798)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 90,
+                "length": 2
+              },
+              "confidence": 0.696,
+              "source": "D(1,0,1.7295,0.1353,1.6469,0.2438,2.0218,0.0998,2.0981)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 93,
+                "length": 3
+              },
+              "confidence": 0.947,
+              "source": "D(1,0.1861,1.6159,1.0044,1.1444,1.1455,1.5197,0.2978,1.9932)"
+            },
+            {
+              "content": "Dear",
+              "span": {
+                "offset": 98,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.9904,1.6787,1.3307,1.6769,1.3314,1.8358,0.9914,1.8376)"
+            },
+            {
+              "content": "Investor",
+              "span": {
+                "offset": 103,
+                "length": 8
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.3726,1.6769,1.9119,1.6776,1.912,1.8382,1.3732,1.8358)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 111,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.9119,1.6776,1.9538,1.6777,1.9538,1.8385,1.912,1.8382)"
+            },
+            {
+              "content": "This",
+              "span": {
+                "offset": 113,
+                "length": 4
+              },
+              "confidence": 0.93,
+              "source": "D(1,0.8737,2.4895,1.1628,2.4551,1.4049,2.9354,1.1175,2.9836)"
+            },
+            {
+              "content": "documen",
+              "span": {
+                "offset": 118,
+                "length": 7
+              },
+              "confidence": 0.837,
+              "source": "D(1,1.19,2.4519,1.7806,2.3486,2.0199,2.8086,1.4318,2.9308)"
+            },
+            {
+              "content": "Credit",
+              "span": {
+                "offset": 126,
+                "length": 6
+              },
+              "confidence": 0.878,
+              "source": "D(1,1.816,2.3401,2.1813,2.2649,2.4217,2.7296,2.0553,2.7999)"
+            },
+            {
+              "content": "Opportunities",
+              "span": {
+                "offset": 133,
+                "length": 13
+              },
+              "confidence": 0.53,
+              "source": "D(1,2.1813,2.2649,3.04,2.1128,3.2815,2.5777,2.4217,2.7296)"
+            },
+            {
+              "content": "Rposed",
+              "span": {
+                "offset": 147,
+                "length": 6
+              },
+              "confidence": 0.068,
+              "source": "D(1,3.0741,2.1001,3.4567,1.9542,3.7045,2.4361,3.3162,2.5667)"
+            },
+            {
+              "content": "terms",
+              "span": {
+                "offset": 154,
+                "length": 5
+              },
+              "confidence": 0.187,
+              "source": "D(1,3.5896,1.8946,3.905,1.7529,4.1624,2.2569,3.8401,2.3829)"
+            },
+            {
+              "content": "ot",
+              "span": {
+                "offset": 160,
+                "length": 2
+              },
+              "confidence": 0.068,
+              "source": "D(1,3.8303,1.7864,4.1016,1.6575,4.3672,2.1804,4.086,2.2865)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 163,
+                "length": 1
+              },
+              "confidence": 0.34,
+              "source": "D(1,4.355,1.5335,4.5769,1.4281,4.8621,1.9959,4.6316,2.0817)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 165,
+                "length": 3
+              },
+              "confidence": 0.847,
+              "source": "D(1,4.5937,1.421,5.6621,1.0068,5.9259,1.5232,4.8791,1.9896)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 169,
+                "length": 3
+              },
+              "confidence": 0.947,
+              "source": "D(1,5.7947,0.9467,6.7034,0.5055,6.954,0.9937,6.0545,1.4548)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 173,
+                "length": 4
+              },
+              "confidence": 0.953,
+              "source": "D(1,6.8263,0.4461,7.8069,0,8.0352,0.4357,7.0772,0.9347)"
+            },
+            {
+              "content": "DF",
+              "span": {
+                "offset": 178,
+                "length": 2
+              },
+              "confidence": 0.214,
+              "source": "D(1,7.894,0.2198,8.4045,0,8.4945,0.3905,8.0559,0.6234)"
+            },
+            {
+              "content": "We",
+              "span": {
+                "offset": 182,
+                "length": 2
+              },
+              "confidence": 0.991,
+              "source": "D(1,0.981,2.086,1.2177,2.0854,1.2197,2.2699,0.9831,2.27)"
+            },
+            {
+              "content": "are",
+              "span": {
+                "offset": 185,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,1.2582,2.0853,1.4762,2.0847,1.4781,2.2697,1.2602,2.2698)"
+            },
+            {
+              "content": "pleased",
+              "span": {
+                "offset": 189,
+                "length": 7
+              },
+              "confidence": 0.987,
+              "source": "D(1,1.5229,2.0846,2.0523,2.0832,2.054,2.2694,1.5248,2.2697)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 197,
+                "length": 2
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.099,2.0831,2.2298,2.0828,2.2315,2.2693,2.1007,2.2694)"
+            },
+            {
+              "content": "confirm",
+              "span": {
+                "offset": 200,
+                "length": 7
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.2734,2.0827,2.7686,2.0814,2.77,2.269,2.275,2.2693)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 208,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.8153,2.0813,3.027,2.0808,3.0284,2.2688,2.8167,2.269)"
+            },
+            {
+              "content": "proposed",
+              "span": {
+                "offset": 212,
+                "length": 8
+              },
+              "confidence": 0.991,
+              "source": "D(1,3.0706,2.0807,3.6997,2.0795,3.7008,2.2678,3.072,2.2688)"
+            },
+            {
+              "content": "terms",
+              "span": {
+                "offset": 221,
+                "length": 5
+              },
+              "confidence": 0.99,
+              "source": "D(1,3.7464,2.0794,4.1326,2.0787,4.1335,2.2672,3.7475,2.2678)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 227,
+                "length": 2
+              },
+              "confidence": 0.989,
+              "source": "D(1,4.1762,2.0786,4.3194,2.0784,4.3203,2.2669,4.1771,2.2671)"
+            },
+            {
+              "content": "your",
+              "span": {
+                "offset": 230,
+                "length": 4
+              },
+              "confidence": 0.98,
+              "source": "D(1,4.3443,2.0783,4.6495,2.0777,4.6503,2.2664,4.3452,2.2669)"
+            },
+            {
+              "content": "commitment",
+              "span": {
+                "offset": 235,
+                "length": 10
+              },
+              "confidence": 0.956,
+              "source": "D(1,4.6838,2.0777,5.5215,2.0765,5.522,2.2646,4.6846,2.2664)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 246,
+                "length": 2
+              },
+              "confidence": 0.986,
+              "source": "D(1,5.5588,2.0764,5.6959,2.0762,5.6963,2.2642,5.5593,2.2645)"
+            },
+            {
+              "content": "EUR",
+              "span": {
+                "offset": 249,
+                "length": 3
+              },
+              "confidence": 0.893,
+              "source": "D(1,5.7363,2.0762,6.0446,2.0758,6.045,2.2633,5.7368,2.2641)"
+            },
+            {
+              "content": "5,000,000",
+              "span": {
+                "offset": 253,
+                "length": 9
+              },
+              "confidence": 0.716,
+              "source": "D(1,6.0851,2.0758,6.7702,2.0749,6.7703,2.2616,6.0854,2.2632)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 263,
+                "length": 2
+              },
+              "confidence": 0.877,
+              "source": "D(1,6.8107,2.0748,6.9602,2.0747,6.9602,2.2611,6.8108,2.2615)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 266,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,0.981,2.3331,1.1998,2.3327,1.2021,2.5208,0.9831,2.5201)"
+            },
+            {
+              "content": "Meridian",
+              "span": {
+                "offset": 270,
+                "length": 8
+              },
+              "confidence": 0.994,
+              "source": "D(1,1.248,2.3326,1.827,2.3315,1.83,2.5228,1.2504,2.521)"
+            },
+            {
+              "content": "Credit",
+              "span": {
+                "offset": 279,
+                "length": 6
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.8753,2.3314,2.2838,2.3307,2.2872,2.5243,1.8783,2.523)"
+            },
+            {
+              "content": "Opportunities",
+              "span": {
+                "offset": 286,
+                "length": 13
+              },
+              "confidence": 0.991,
+              "source": "D(1,2.3192,2.3306,3.223,2.3292,3.2275,2.5262,2.3227,2.5244)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 300,
+                "length": 4
+              },
+              "confidence": 0.93,
+              "source": "D(1,3.2745,2.3291,3.6154,2.3288,3.6203,2.5259,3.279,2.5261)"
+            },
+            {
+              "content": "III",
+              "span": {
+                "offset": 305,
+                "length": 3
+              },
+              "confidence": 0.576,
+              "source": "D(1,3.6766,2.3288,3.7763,2.3287,3.7813,2.5258,3.6815,2.5258)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 308,
+                "length": 1
+              },
+              "confidence": 0.937,
+              "source": "D(1,3.7924,2.3286,3.8245,2.3286,3.8296,2.5257,3.7974,2.5258)"
+            },
+            {
+              "content": "Closing",
+              "span": {
+                "offset": 310,
+                "length": 7
+              },
+              "confidence": 0.657,
+              "source": "D(1,3.8663,2.3286,4.3746,2.3281,4.3803,2.5253,3.8715,2.5257)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 318,
+                "length": 2
+              },
+              "confidence": 0.996,
+              "source": "D(1,4.4228,2.3281,4.5322,2.328,4.538,2.5252,4.4286,2.5253)"
+            },
+            {
+              "content": "expected",
+              "span": {
+                "offset": 321,
+                "length": 8
+              },
+              "confidence": 0.967,
+              "source": "D(1,4.5708,2.3279,5.1852,2.3276,5.1917,2.5236,4.5767,2.5252)"
+            },
+            {
+              "content": "on",
+              "span": {
+                "offset": 330,
+                "length": 2
+              },
+              "confidence": 0.943,
+              "source": "D(1,5.2334,2.3276,5.4007,2.3276,5.4074,2.5226,5.24,2.5233)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 333,
+                "length": 2
+              },
+              "confidence": 0.846,
+              "source": "D(1,5.4521,2.3276,5.6194,2.3276,5.6264,2.5215,5.459,2.5223)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 336,
+                "length": 9
+              },
+              "confidence": 0.561,
+              "source": "D(1,5.6644,2.3276,6.4203,2.3276,6.4282,2.5178,5.6715,2.5213)"
+            },
+            {
+              "content": "2026",
+              "span": {
+                "offset": 346,
+                "length": 4
+              },
+              "confidence": 0.926,
+              "source": "D(1,6.4493,2.3276,6.787,2.3276,6.7953,2.516,6.4572,2.5176)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 350,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,6.7935,2.3276,6.8481,2.3276,6.8564,2.5158,6.8017,2.516)"
+            },
+            {
+              "content": "This",
+              "span": {
+                "offset": 352,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,0.9826,2.5864,1.271,2.5853,1.2734,2.7722,0.9852,2.7717)"
+            },
+            {
+              "content": "document",
+              "span": {
+                "offset": 357,
+                "length": 8
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.3158,2.5851,1.9951,2.5824,1.9972,2.7733,1.3183,2.7722)"
+            },
+            {
+              "content": "remains",
+              "span": {
+                "offset": 366,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.04,2.5822,2.5751,2.5802,2.5769,2.7742,2.0421,2.7734)"
+            },
+            {
+              "content": "subject",
+              "span": {
+                "offset": 374,
+                "length": 7
+              },
+              "confidence": 0.985,
+              "source": "D(1,2.6232,2.58,3.107,2.5794,3.1085,2.7746,2.6249,2.7743)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 382,
+                "length": 2
+              },
+              "confidence": 0.977,
+              "source": "D(1,3.1423,2.5794,3.2768,2.5793,3.2783,2.7747,3.1438,2.7746)"
+            },
+            {
+              "content": "legal",
+              "span": {
+                "offset": 385,
+                "length": 5
+              },
+              "confidence": 0.937,
+              "source": "D(1,3.3217,2.5793,3.6357,2.5791,3.637,2.7749,3.3231,2.7747)"
+            },
+            {
+              "content": "review",
+              "span": {
+                "offset": 391,
+                "length": 6
+              },
+              "confidence": 0.947,
+              "source": "D(1,3.687,2.579,4.126,2.5787,4.127,2.7752,3.6882,2.7749)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 398,
+                "length": 3
+              },
+              "confidence": 0.948,
+              "source": "D(1,4.1644,2.5787,4.4143,2.5786,4.4152,2.7753,4.1654,2.7752)"
+            },
+            {
+              "content": "must",
+              "span": {
+                "offset": 402,
+                "length": 4
+              },
+              "confidence": 0.846,
+              "source": "D(1,4.4624,2.5787,4.7988,2.5796,4.7995,2.7752,4.4632,2.7753)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 407,
+                "length": 3
+              },
+              "confidence": 0.715,
+              "source": "D(1,4.8405,2.5797,5.0552,2.5802,5.0557,2.7751,4.8411,2.7752)"
+            },
+            {
+              "content": "be",
+              "span": {
+                "offset": 411,
+                "length": 2
+              },
+              "confidence": 0.691,
+              "source": "D(1,5.1,2.5804,5.2635,2.5808,5.2639,2.775,5.1006,2.7751)"
+            },
+            {
+              "content": "relied",
+              "span": {
+                "offset": 414,
+                "length": 6
+              },
+              "confidence": 0.531,
+              "source": "D(1,5.3083,2.5809,5.6704,2.5818,5.6706,2.7748,5.3087,2.775)"
+            },
+            {
+              "content": "upon",
+              "span": {
+                "offset": 421,
+                "length": 4
+              },
+              "confidence": 0.965,
+              "source": "D(1,5.7185,2.582,6.0549,2.5828,6.0549,2.7747,5.7187,2.7748)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 425,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,6.0645,2.5828,6.1094,2.583,6.1094,2.7747,6.0645,2.7747)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 428,
+                "length": 2
+              },
+              "confidence": 0.573,
+              "source": "D(1,0,6.2788,0.1377,6.1974,0.2487,6.9243,0.1107,7.0039)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 431,
+                "length": 3
+              },
+              "confidence": 0.965,
+              "source": "D(1,0.2119,6.1536,1.0699,5.6719,1.1791,6.4034,0.3231,6.8814)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 435,
+                "length": 3
+              },
+              "confidence": 0.972,
+              "source": "D(1,1.2001,5.6022,2.0557,5.1413,2.1652,5.8822,1.3086,6.3336)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 439,
+                "length": 4
+              },
+              "confidence": 0.408,
+              "source": "D(1,2.1842,5.0686,3.11,4.5828,3.2225,5.3384,2.2953,5.8134)"
+            },
+            {
+              "content": "BBAYTONOT",
+              "span": {
+                "offset": 444,
+                "length": 9
+              },
+              "confidence": 0.057,
+              "source": "D(1,3.0776,4.6005,5.7984,3.2218,5.8985,3.9764,3.1896,5.3548)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 454,
+                "length": 3
+              },
+              "confidence": 0.951,
+              "source": "D(1,5.9203,3.163,6.7792,2.7349,6.8739,3.4878,6.0186,3.9151)"
+            },
+            {
+              "content": "DISTRH",
+              "span": {
+                "offset": 458,
+                "length": 6
+              },
+              "confidence": 0.278,
+              "source": "D(1,6.9005,2.6751,8.417,2.0061,8.4945,2.7339,6.9943,3.4272)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 466,
+                "length": 3
+              },
+              "confidence": 0.965,
+              "source": "D(1,0.0138,8.5669,1.0559,8.0537,1.1683,8.7719,0.1294,9.2812)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 470,
+                "length": 3
+              },
+              "confidence": 0.973,
+              "source": "D(1,1.1928,7.9794,2.0579,7.5137,2.1658,8.2329,1.3043,8.6973)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 474,
+                "length": 4
+              },
+              "confidence": 0.494,
+              "source": "D(1,2.1836,7.4439,3.0932,6.9598,3.2045,7.6953,2.2926,8.1663)"
+            },
+            {
+              "content": "BABAYT.NOT",
+              "span": {
+                "offset": 479,
+                "length": 10
+              },
+              "confidence": 0.029,
+              "source": "D(1,3.0719,6.9708,5.8,5.5966,5.8997,6.3348,3.183,7.7056)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 490,
+                "length": 3
+              },
+              "confidence": 0.936,
+              "source": "D(1,5.9086,5.5458,6.7697,5.1249,6.8581,5.8499,6.0066,6.2819)"
+            },
+            {
+              "content": "DISTRA",
+              "span": {
+                "offset": 494,
+                "length": 6
+              },
+              "confidence": 0.2,
+              "source": "D(1,6.8879,5.0665,8.417,4.3828,8.4945,5.0999,6.975,5.7901)"
+            },
+            {
+              "content": "TRue",
+              "span": {
+                "offset": 502,
+                "length": 4
+              },
+              "confidence": 0.037,
+              "source": "D(1,0.3157,10.5435,1.2939,10.1812,1.5584,10.8545,0.565,10.9945)"
+            },
+            {
+              "content": "1",
+              "span": {
+                "offset": 507,
+                "length": 1
+              },
+              "confidence": 0.047,
+              "source": "D(1,1.2029,10.2214,1.3849,10.1411,1.6484,10.8177,1.4684,10.8912)"
+            },
+            {
+              "content": "2R",
+              "span": {
+                "offset": 509,
+                "length": 2
+              },
+              "confidence": 0.278,
+              "source": "D(1,1.3508,10.1561,1.952,9.8583,2.2127,10.5616,1.6146,10.8315)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 512,
+                "length": 4
+              },
+              "confidence": 0.366,
+              "source": "D(1,2.0731,9.7949,3.0282,9.3152,3.2782,10.0578,2.3337,10.5048)"
+            },
+            {
+              "content": "BAYTONOT",
+              "span": {
+                "offset": 517,
+                "length": 8
+              },
+              "confidence": 0.055,
+              "source": "D(1,3.0172,9.3211,5.715,7.9634,5.8935,8.7126,3.2674,10.0634)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 526,
+                "length": 3
+              },
+              "confidence": 0.937,
+              "source": "D(1,5.8608,7.8937,6.736,7.4765,6.8886,8.2297,6.0354,8.6431)"
+            },
+            {
+              "content": "DISTB",
+              "span": {
+                "offset": 530,
+                "length": 5
+              },
+              "confidence": 0.191,
+              "source": "D(1,6.8581,7.4149,8.3962,6.7192,8.4945,7.4497,7.0082,8.1701)"
+            },
+            {
+              "content": "Page",
+              "span": {
+                "offset": 536,
+                "length": 4
+              },
+              "confidence": 0.99,
+              "source": "D(1,0.9888,10.341,1.2817,10.3355,1.2868,10.4758,0.993,10.4805)"
+            },
+            {
+              "content": "1",
+              "span": {
+                "offset": 541,
+                "length": 1
+              },
+              "confidence": 0.981,
+              "source": "D(1,1.3232,10.3346,1.3785,10.3333,1.3839,10.4736,1.3284,10.4748)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 543,
+                "length": 2
+              },
+              "confidence": 0.977,
+              "source": "D(1,1.4177,10.3325,1.5399,10.3293,1.5458,10.469,1.4232,10.4727)"
+            },
+            {
+              "content": "2",
+              "span": {
+                "offset": 546,
+                "length": 1
+              },
+              "confidence": 0.967,
+              "source": "D(1,1.5584,10.3288,1.6529,10.3263,1.6591,10.4655,1.5643,10.4684)"
+            },
+            {
+              "content": "OT",
+              "span": {
+                "offset": 549,
+                "length": 2
+              },
+              "confidence": 0.971,
+              "source": "D(1,5.134,10.7261,5.7354,10.4724,5.9524,10.9272,5.3374,10.9945)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 552,
+                "length": 3
+              },
+              "confidence": 0.991,
+              "source": "D(1,5.8463,10.4178,6.7398,9.9744,6.9314,10.4792,6.0616,10.8806)"
+            },
+            {
+              "content": "DISTRIE",
+              "span": {
+                "offset": 556,
+                "length": 7
+              },
+              "confidence": 0.833,
+              "source": "D(1,6.8624,9.9045,8.4004,9.0557,8.4945,9.5659,7.0504,10.4139)"
+            }
+          ],
+          "lines": [
+            {
+              "content": "Meridian Capin DIST",
+              "source": "D(1,0.9352,0.8466,3.121,0,3.2539,0.4463,1.1134,1.1958)",
+              "span": {
+                "offset": 0,
+                "length": 19
+              }
+            },
+            {
+              "content": "DR",
+              "source": "D(1,3.1654,0.2335,3.8129,0,4.0031,0.2799,3.341,0.609)",
+              "span": {
+                "offset": 20,
+                "length": 2
+              }
+            },
+            {
+              "content": "Meridian Capital Partners LLP",
+              "source": "D(1,0.9862,0.8689,3.0474,0.8565,3.0485,1.0296,0.9873,1.0408)",
+              "span": {
+                "offset": 23,
+                "length": 29
+              }
+            },
+            {
+              "content": "12 Fenchurch Street, London EC3M 3BY",
+              "source": "D(1,1.0018,1.1142,3.7825,1.1054,3.7831,1.2817,1.0024,1.2899)",
+              "span": {
+                "offset": 53,
+                "length": 36
+              }
+            },
+            {
+              "content": "- NOT",
+              "source": "D(1,0,1.7525,1.0044,1.1444,1.1455,1.4971,0.1038,2.0981)",
+              "span": {
+                "offset": 90,
+                "length": 6
+              }
+            },
+            {
+              "content": "Dear Investor,",
+              "source": "D(1,0.9904,1.676,1.954,1.6769,1.9538,1.8385,0.9902,1.8376)",
+              "span": {
+                "offset": 98,
+                "length": 14
+              }
+            },
+            {
+              "content": "This documen Credit Opportunities Rposed terms ot . NOT FOR DIST",
+              "source": "D(1,0.8737,2.4895,7.8636,0,8.0352,0.822,1.1848,2.9839)",
+              "span": {
+                "offset": 113,
+                "length": 64
+              }
+            },
+            {
+              "content": "DF",
+              "source": "D(1,7.8913,0.1837,8.3862,0,8.4945,0.3933,8.0559,0.6234)",
+              "span": {
+                "offset": 178,
+                "length": 2
+              }
+            },
+            {
+              "content": "We are pleased to confirm the proposed terms of your commitment of EUR 5,000,000 to",
+              "source": "D(1,0.981,2.0831,6.9602,2.0742,6.9605,2.263,0.9813,2.2719)",
+              "span": {
+                "offset": 182,
+                "length": 83
+              }
+            },
+            {
+              "content": "the Meridian Credit Opportunities Fund III. Closing is expected on 30 September 2026.",
+              "source": "D(1,0.981,2.3313,6.8563,2.3258,6.8564,2.5231,0.9812,2.5286)",
+              "span": {
+                "offset": 266,
+                "length": 85
+              }
+            },
+            {
+              "content": "This document remains subject to legal review and must not be relied upon.",
+              "source": "D(1,0.9826,2.5786,6.1094,2.5786,6.1094,2.7753,0.9826,2.7753)",
+              "span": {
+                "offset": 352,
+                "length": 74
+              }
+            },
+            {
+              "content": "- NOT FOR DIST BBAYTONOT FOR DISTRH",
+              "source": "D(1,0,6.2696,8.3537,2.004,8.4945,2.616,0.1107,7.0039)",
+              "span": {
+                "offset": 428,
+                "length": 36
+              }
+            },
+            {
+              "content": "NOT FOR DIST BABAYT.NOT FOR DISTRA",
+              "source": "D(1,0.0111,8.594,8.3627,4.379,8.4945,4.9866,0.1417,9.2838)",
+              "span": {
+                "offset": 466,
+                "length": 34
+              }
+            },
+            {
+              "content": "TRue 1 2R DIST BAYTONOT FOR DISTB",
+              "source": "D(1,0.3157,10.5435,8.3707,6.7151,8.4945,7.4391,0.6875,10.9945)",
+              "span": {
+                "offset": 502,
+                "length": 33
+              }
+            },
+            {
+              "content": "Page 1 of 2",
+              "source": "D(1,0.9888,10.341,1.656,10.3262,1.6592,10.4676,0.992,10.4823)",
+              "span": {
+                "offset": 536,
+                "length": 11
+              }
+            },
+            {
+              "content": "OT FOR DISTRIE",
+              "source": "D(1,5.134,10.7261,8.4004,9.0557,8.4945,9.5921,5.4082,10.9945)",
+              "span": {
+                "offset": 549,
+                "length": 14
+              }
+            }
+          ]
+        },
+        {
+          "pageNumber": 2,
+          "angle": -18.5673,
+          "width": 8.5,
+          "height": 11,
+          "spans": [
+            {
+              "offset": 585,
+              "length": 588
+            }
+          ],
+          "words": [
+            {
+              "content": "Meridian",
+              "span": {
+                "offset": 585,
+                "length": 8
+              },
+              "confidence": 0.956,
+              "source": "D(2,0.9333,0.8446,1.4874,0.765,1.6293,1.0916,1.0656,1.1951)"
+            },
+            {
+              "content": "Capin",
+              "span": {
+                "offset": 594,
+                "length": 5
+              },
+              "confidence": 0.674,
+              "source": "D(2,1.4992,0.7604,1.9619,0.5568,2.1252,0.9053,1.6415,1.0871)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 600,
+                "length": 4
+              },
+              "confidence": 0.975,
+              "source": "D(2,2.1259,0.475,3.0754,0,3.2518,0.3139,2.2944,0.8243)"
+            },
+            {
+              "content": "DR",
+              "span": {
+                "offset": 605,
+                "length": 2
+              },
+              "confidence": 0.971,
+              "source": "D(2,3.1667,0.267,3.808,0,4.0051,0.2785,3.3535,0.6073)"
+            },
+            {
+              "content": "Meridian",
+              "span": {
+                "offset": 608,
+                "length": 8
+              },
+              "confidence": 0.998,
+              "source": "D(2,0.9862,0.8686,1.5679,0.8679,1.5705,1.0375,0.9883,1.0364)"
+            },
+            {
+              "content": "Capital",
+              "span": {
+                "offset": 617,
+                "length": 7
+              },
+              "confidence": 0.998,
+              "source": "D(2,1.6182,0.8679,2.0936,0.8654,2.0968,1.0355,1.6209,1.0376)"
+            },
+            {
+              "content": "Partners",
+              "span": {
+                "offset": 625,
+                "length": 8
+              },
+              "confidence": 0.994,
+              "source": "D(2,2.1467,0.8651,2.7088,0.8601,2.7126,1.0297,2.15,1.0352)"
+            },
+            {
+              "content": "LLP",
+              "span": {
+                "offset": 634,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(2,2.7591,0.8596,3.0443,0.8565,3.0485,1.0255,2.763,1.029)"
+            },
+            {
+              "content": "12",
+              "span": {
+                "offset": 638,
+                "length": 2
+              },
+              "confidence": 0.979,
+              "source": "D(2,1.0018,1.1143,1.1614,1.1142,1.163,1.2816,1.0034,1.2807)"
+            },
+            {
+              "content": "Fenchurch",
+              "span": {
+                "offset": 641,
+                "length": 9
+              },
+              "confidence": 0.987,
+              "source": "D(2,1.2127,1.1142,1.9194,1.1136,1.9211,1.2857,1.2143,1.2819)"
+            },
+            {
+              "content": "Street",
+              "span": {
+                "offset": 651,
+                "length": 6
+              },
+              "confidence": 0.998,
+              "source": "D(2,1.9678,1.1135,2.3839,1.1122,2.3857,1.2852,1.9696,1.2857)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 657,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(2,2.3839,1.1122,2.4152,1.1121,2.4171,1.2851,2.3857,1.2852)"
+            },
+            {
+              "content": "London",
+              "span": {
+                "offset": 659,
+                "length": 6
+              },
+              "confidence": 0.997,
+              "source": "D(2,2.4694,1.1119,2.9652,1.11,2.9672,1.2837,2.4712,1.2851)"
+            },
+            {
+              "content": "EC3M",
+              "span": {
+                "offset": 666,
+                "length": 4
+              },
+              "confidence": 0.979,
+              "source": "D(2,3.0194,1.1097,3.4212,1.1075,3.4232,1.2799,3.0213,1.2832)"
+            },
+            {
+              "content": "3BY",
+              "span": {
+                "offset": 671,
+                "length": 3
+              },
+              "confidence": 0.984,
+              "source": "D(2,3.4696,1.1072,3.7831,1.1054,3.7852,1.277,3.4716,1.2795)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 675,
+                "length": 2
+              },
+              "confidence": 0.716,
+              "source": "D(2,0,1.7293,0.1355,1.6469,0.2437,2.0214,0.0994,2.0975)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 678,
+                "length": 3
+              },
+              "confidence": 0.948,
+              "source": "D(2,0.1863,1.6161,1.0039,1.1428,1.1455,1.5182,0.2978,1.9929)"
+            },
+            {
+              "content": "Dear",
+              "span": {
+                "offset": 683,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(2,0.9904,1.6787,1.3307,1.6769,1.3314,1.8358,0.9914,1.8376)"
+            },
+            {
+              "content": "Investor",
+              "span": {
+                "offset": 688,
+                "length": 8
+              },
+              "confidence": 0.993,
+              "source": "D(2,1.3726,1.6769,1.9119,1.6776,1.912,1.8382,1.3732,1.8358)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 696,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(2,1.9119,1.6776,1.9538,1.6777,1.9538,1.8385,1.912,1.8382)"
+            },
+            {
+              "content": "This",
+              "span": {
+                "offset": 698,
+                "length": 4
+              },
+              "confidence": 0.948,
+              "source": "D(2,0.8705,2.4962,1.1807,2.4566,1.4199,2.9235,1.1113,2.9756)"
+            },
+            {
+              "content": "documen",
+              "span": {
+                "offset": 703,
+                "length": 7
+              },
+              "confidence": 0.879,
+              "source": "D(2,1.1984,2.4543,1.7601,2.3524,1.9977,2.8042,1.4376,2.9206)"
+            },
+            {
+              "content": "Credit",
+              "span": {
+                "offset": 711,
+                "length": 6
+              },
+              "confidence": 0.808,
+              "source": "D(2,1.7948,2.3439,2.2152,2.2616,2.4541,2.7167,2.0324,2.7958)"
+            },
+            {
+              "content": "Opportunities",
+              "span": {
+                "offset": 718,
+                "length": 13
+              },
+              "confidence": 0.445,
+              "source": "D(2,2.2328,2.2589,3.039,2.1044,3.2798,2.5619,2.4718,2.7139)"
+            },
+            {
+              "content": "Funsed",
+              "span": {
+                "offset": 732,
+                "length": 6
+              },
+              "confidence": 0.164,
+              "source": "D(2,3.0306,2.1073,3.4929,1.9418,3.7399,2.4162,3.2712,2.5644)"
+            },
+            {
+              "content": "terms",
+              "span": {
+                "offset": 739,
+                "length": 5
+              },
+              "confidence": 0.208,
+              "source": "D(2,3.558,1.9123,3.8916,1.7612,4.149,2.259,3.8067,2.3905)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 745,
+                "length": 2
+              },
+              "confidence": 0.055,
+              "source": "D(2,3.9241,1.7463,4.1485,1.6358,4.4167,2.1577,4.1824,2.2463)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 748,
+                "length": 1
+              },
+              "confidence": 0.333,
+              "source": "D(2,4.3889,1.5173,4.6158,1.4121,4.9024,1.9755,4.6676,2.0627)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 750,
+                "length": 3
+              },
+              "confidence": 0.784,
+              "source": "D(2,4.6404,1.4017,5.6403,1.0168,5.9045,1.5254,4.9276,1.9662)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 754,
+                "length": 3
+              },
+              "confidence": 0.949,
+              "source": "D(2,5.7708,0.9585,6.6962,0.5128,6.9472,0.9911,6.031,1.4585)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 758,
+                "length": 4
+              },
+              "confidence": 0.956,
+              "source": "D(2,6.8088,0.4584,7.811,0,8.0393,0.423,7.0603,0.9374)"
+            },
+            {
+              "content": "DF",
+              "span": {
+                "offset": 763,
+                "length": 2
+              },
+              "confidence": 0.208,
+              "source": "D(2,7.894,0.2199,8.4045,0,8.4945,0.3905,8.0559,0.6231)"
+            },
+            {
+              "content": "We",
+              "span": {
+                "offset": 767,
+                "length": 2
+              },
+              "confidence": 0.991,
+              "source": "D(2,0.981,2.086,1.2177,2.0854,1.2197,2.2699,0.9831,2.27)"
+            },
+            {
+              "content": "are",
+              "span": {
+                "offset": 770,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(2,1.2582,2.0853,1.4762,2.0847,1.4781,2.2697,1.2602,2.2698)"
+            },
+            {
+              "content": "pleased",
+              "span": {
+                "offset": 774,
+                "length": 7
+              },
+              "confidence": 0.988,
+              "source": "D(2,1.5229,2.0846,2.0523,2.0833,2.054,2.2694,1.5248,2.2697)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 782,
+                "length": 2
+              },
+              "confidence": 0.997,
+              "source": "D(2,2.099,2.0832,2.2298,2.0829,2.2315,2.2693,2.1007,2.2694)"
+            },
+            {
+              "content": "confirm",
+              "span": {
+                "offset": 785,
+                "length": 7
+              },
+              "confidence": 0.986,
+              "source": "D(2,2.2734,2.0828,2.7686,2.0815,2.77,2.269,2.275,2.2693)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 793,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(2,2.8153,2.0814,3.027,2.0809,3.0284,2.2688,2.8167,2.269)"
+            },
+            {
+              "content": "proposed",
+              "span": {
+                "offset": 797,
+                "length": 8
+              },
+              "confidence": 0.991,
+              "source": "D(2,3.0706,2.0809,3.6997,2.0797,3.7008,2.2678,3.072,2.2688)"
+            },
+            {
+              "content": "terms",
+              "span": {
+                "offset": 806,
+                "length": 5
+              },
+              "confidence": 0.989,
+              "source": "D(2,3.7464,2.0796,4.1326,2.0789,4.1335,2.2672,3.7475,2.2678)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 812,
+                "length": 2
+              },
+              "confidence": 0.989,
+              "source": "D(2,4.1762,2.0788,4.3194,2.0786,4.3203,2.2669,4.1771,2.2671)"
+            },
+            {
+              "content": "your",
+              "span": {
+                "offset": 815,
+                "length": 4
+              },
+              "confidence": 0.98,
+              "source": "D(2,4.3443,2.0785,4.6495,2.078,4.6503,2.2664,4.3452,2.2669)"
+            },
+            {
+              "content": "commitment",
+              "span": {
+                "offset": 820,
+                "length": 10
+              },
+              "confidence": 0.956,
+              "source": "D(2,4.6838,2.0779,5.5215,2.0767,5.522,2.2646,4.6846,2.2664)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 831,
+                "length": 2
+              },
+              "confidence": 0.985,
+              "source": "D(2,5.5588,2.0767,5.6959,2.0765,5.6963,2.2642,5.5593,2.2645)"
+            },
+            {
+              "content": "EUR",
+              "span": {
+                "offset": 834,
+                "length": 3
+              },
+              "confidence": 0.892,
+              "source": "D(2,5.7363,2.0765,6.0446,2.0761,6.045,2.2633,5.7368,2.2641)"
+            },
+            {
+              "content": "5,000,000",
+              "span": {
+                "offset": 838,
+                "length": 9
+              },
+              "confidence": 0.716,
+              "source": "D(2,6.0851,2.076,6.7702,2.0752,6.7703,2.2616,6.0854,2.2632)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 848,
+                "length": 2
+              },
+              "confidence": 0.877,
+              "source": "D(2,6.8107,2.0752,6.9602,2.075,6.9602,2.2611,6.8108,2.2615)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 851,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(2,0.981,2.3327,1.1998,2.3323,1.2021,2.5213,0.9831,2.5206)"
+            },
+            {
+              "content": "Meridian",
+              "span": {
+                "offset": 855,
+                "length": 8
+              },
+              "confidence": 0.994,
+              "source": "D(2,1.248,2.3322,1.827,2.3313,1.83,2.5233,1.2504,2.5215)"
+            },
+            {
+              "content": "Credit",
+              "span": {
+                "offset": 864,
+                "length": 6
+              },
+              "confidence": 0.997,
+              "source": "D(2,1.8753,2.3312,2.2838,2.3305,2.2872,2.5248,1.8783,2.5235)"
+            },
+            {
+              "content": "Opportunities",
+              "span": {
+                "offset": 871,
+                "length": 13
+              },
+              "confidence": 0.991,
+              "source": "D(2,2.3192,2.3304,3.223,2.3291,3.2275,2.5267,2.3227,2.5249)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 885,
+                "length": 4
+              },
+              "confidence": 0.928,
+              "source": "D(2,3.2745,2.3291,3.6155,2.3288,3.6203,2.5263,3.279,2.5266)"
+            },
+            {
+              "content": "III",
+              "span": {
+                "offset": 890,
+                "length": 3
+              },
+              "confidence": 0.572,
+              "source": "D(2,3.6766,2.3287,3.7763,2.3286,3.7813,2.5262,3.6815,2.5263)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 893,
+                "length": 1
+              },
+              "confidence": 0.937,
+              "source": "D(2,3.7924,2.3286,3.8245,2.3286,3.8296,2.5261,3.7974,2.5262)"
+            },
+            {
+              "content": "Closing",
+              "span": {
+                "offset": 895,
+                "length": 7
+              },
+              "confidence": 0.657,
+              "source": "D(2,3.8663,2.3286,4.3746,2.3281,4.3803,2.5257,3.8715,2.5261)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 903,
+                "length": 2
+              },
+              "confidence": 0.996,
+              "source": "D(2,4.4228,2.3281,4.5322,2.328,4.538,2.5256,4.4286,2.5256)"
+            },
+            {
+              "content": "expected",
+              "span": {
+                "offset": 906,
+                "length": 8
+              },
+              "confidence": 0.968,
+              "source": "D(2,4.5708,2.3279,5.1852,2.3276,5.1917,2.5238,4.5767,2.5255)"
+            },
+            {
+              "content": "on",
+              "span": {
+                "offset": 915,
+                "length": 2
+              },
+              "confidence": 0.943,
+              "source": "D(2,5.2334,2.3276,5.4007,2.3276,5.4074,2.5228,5.24,2.5236)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 918,
+                "length": 2
+              },
+              "confidence": 0.846,
+              "source": "D(2,5.4521,2.3276,5.6194,2.3276,5.6264,2.5217,5.459,2.5225)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 921,
+                "length": 9
+              },
+              "confidence": 0.558,
+              "source": "D(2,5.6644,2.3276,6.4203,2.3275,6.4282,2.5178,5.6715,2.5215)"
+            },
+            {
+              "content": "2026",
+              "span": {
+                "offset": 931,
+                "length": 4
+              },
+              "confidence": 0.926,
+              "source": "D(2,6.4493,2.3275,6.787,2.3275,6.7953,2.516,6.4572,2.5177)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 935,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(2,6.7935,2.3275,6.8481,2.3275,6.8564,2.5157,6.8017,2.516)"
+            },
+            {
+              "content": "This",
+              "span": {
+                "offset": 937,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(2,0.9826,2.5867,1.271,2.5854,1.2734,2.7725,0.9852,2.7721)"
+            },
+            {
+              "content": "document",
+              "span": {
+                "offset": 942,
+                "length": 8
+              },
+              "confidence": 0.995,
+              "source": "D(2,1.3158,2.5852,1.9951,2.5823,1.9972,2.7735,1.3183,2.7726)"
+            },
+            {
+              "content": "remains",
+              "span": {
+                "offset": 951,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(2,2.04,2.5821,2.5751,2.5799,2.5769,2.7743,2.0421,2.7736)"
+            },
+            {
+              "content": "subject",
+              "span": {
+                "offset": 959,
+                "length": 7
+              },
+              "confidence": 0.985,
+              "source": "D(2,2.6232,2.5797,3.107,2.5792,3.1085,2.7748,2.6249,2.7744)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 967,
+                "length": 2
+              },
+              "confidence": 0.977,
+              "source": "D(2,3.1423,2.5792,3.2768,2.5791,3.2783,2.775,3.1438,2.7748)"
+            },
+            {
+              "content": "legal",
+              "span": {
+                "offset": 970,
+                "length": 5
+              },
+              "confidence": 0.938,
+              "source": "D(2,3.3217,2.5791,3.6357,2.579,3.637,2.7752,3.3231,2.775)"
+            },
+            {
+              "content": "review",
+              "span": {
+                "offset": 976,
+                "length": 6
+              },
+              "confidence": 0.946,
+              "source": "D(2,3.687,2.5789,4.126,2.5788,4.127,2.7756,3.6882,2.7753)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 983,
+                "length": 3
+              },
+              "confidence": 0.947,
+              "source": "D(2,4.1644,2.5787,4.4143,2.5787,4.4152,2.7759,4.1654,2.7757)"
+            },
+            {
+              "content": "must",
+              "span": {
+                "offset": 987,
+                "length": 4
+              },
+              "confidence": 0.842,
+              "source": "D(2,4.4624,2.5788,4.8021,2.58,4.8027,2.776,4.4632,2.7759)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 992,
+                "length": 3
+              },
+              "confidence": 0.709,
+              "source": "D(2,4.8405,2.5801,5.0552,2.5809,5.0557,2.776,4.8411,2.776)"
+            },
+            {
+              "content": "be",
+              "span": {
+                "offset": 996,
+                "length": 2
+              },
+              "confidence": 0.704,
+              "source": "D(2,5.1,2.581,5.2635,2.5816,5.2639,2.7761,5.1006,2.776)"
+            },
+            {
+              "content": "relied",
+              "span": {
+                "offset": 999,
+                "length": 6
+              },
+              "confidence": 0.531,
+              "source": "D(2,5.3083,2.5817,5.6704,2.583,5.6706,2.7762,5.3087,2.7761)"
+            },
+            {
+              "content": "upon",
+              "span": {
+                "offset": 1006,
+                "length": 4
+              },
+              "confidence": 0.963,
+              "source": "D(2,5.7185,2.5831,6.0549,2.5843,6.0549,2.7763,5.7187,2.7762)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1010,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(2,6.0645,2.5843,6.1094,2.5844,6.1094,2.7763,6.0645,2.7763)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 1013,
+                "length": 2
+              },
+              "confidence": 0.476,
+              "source": "D(2,0,6.2681,0.1387,6.1884,0.2535,6.9193,0.1154,6.9985)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 1016,
+                "length": 3
+              },
+              "confidence": 0.957,
+              "source": "D(2,0.2027,6.1517,1.0623,5.6729,1.175,6.4096,0.3172,6.8827)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 1020,
+                "length": 3
+              },
+              "confidence": 0.969,
+              "source": "D(2,1.1921,5.6026,2.0383,5.1505,2.1489,5.8935,1.305,6.3412)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 1024,
+                "length": 4
+              },
+              "confidence": 0.429,
+              "source": "D(2,2.1668,5.078,3.1141,4.5804,3.2264,5.3376,2.2792,5.8255)"
+            },
+            {
+              "content": "BABAYT.NOT",
+              "span": {
+                "offset": 1029,
+                "length": 10
+              },
+              "confidence": 0.031,
+              "source": "D(2,3.0815,4.5977,5.78,3.2298,5.8786,3.9885,3.1933,5.3537)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 1040,
+                "length": 3
+              },
+              "confidence": 0.942,
+              "source": "D(2,5.9131,3.1661,6.76,2.7421,6.8516,3.4974,6.0101,3.923)"
+            },
+            {
+              "content": "DISTRH",
+              "span": {
+                "offset": 1044,
+                "length": 6
+              },
+              "confidence": 0.325,
+              "source": "D(2,6.8925,2.677,8.4211,2.0061,8.4945,2.7366,6.9831,3.4318)"
+            },
+            {
+              "content": "NOT",
+              "span": {
+                "offset": 1052,
+                "length": 3
+              },
+              "confidence": 0.972,
+              "source": "D(2,0.0158,8.5615,1.0595,8.0523,1.1723,8.7702,0.1296,9.2705)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 1056,
+                "length": 3
+              },
+              "confidence": 0.977,
+              "source": "D(2,1.1964,7.978,2.0502,7.5169,2.1583,8.2354,1.3083,8.6956)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 1060,
+                "length": 4
+              },
+              "confidence": 0.4,
+              "source": "D(2,2.1758,7.4471,3.1066,6.9523,3.2182,7.687,2.2852,8.1689)"
+            },
+            {
+              "content": "BBAYTONOT",
+              "span": {
+                "offset": 1065,
+                "length": 9
+              },
+              "confidence": 0.066,
+              "source": "D(2,3.096,6.9577,5.8031,5.5964,5.9024,6.3322,3.2074,7.6921)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 1075,
+                "length": 3
+              },
+              "confidence": 0.954,
+              "source": "D(2,5.9118,5.5459,6.7835,5.1198,6.8718,5.8429,6.0092,6.2791)"
+            },
+            {
+              "content": "DISTRA",
+              "span": {
+                "offset": 1079,
+                "length": 6
+              },
+              "confidence": 0.186,
+              "source": "D(2,6.9021,5.0623,8.417,4.3774,8.4945,5.0918,6.9887,5.7831)"
+            },
+            {
+              "content": "TROR",
+              "span": {
+                "offset": 1087,
+                "length": 4
+              },
+              "confidence": 0.087,
+              "source": "D(2,0.3183,10.5435,1.3771,10.1489,1.6406,10.8256,0.567,10.9945)"
+            },
+            {
+              "content": "2012R",
+              "span": {
+                "offset": 1092,
+                "length": 5
+              },
+              "confidence": 0.112,
+              "source": "D(2,1.1717,10.2374,1.9642,9.8514,2.2232,10.5519,1.4373,10.9062)"
+            },
+            {
+              "content": "DIST",
+              "span": {
+                "offset": 1098,
+                "length": 4
+              },
+              "confidence": 0.476,
+              "source": "D(2,2.0953,9.7805,3.0411,9.3104,3.29,10.0517,2.3538,10.487)"
+            },
+            {
+              "content": "BBAYTONOT",
+              "span": {
+                "offset": 1103,
+                "length": 9
+              },
+              "confidence": 0.097,
+              "source": "D(2,3.0191,9.322,5.7389,7.9545,5.9151,8.7,3.2684,10.0629)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 1113,
+                "length": 3
+              },
+              "confidence": 0.948,
+              "source": "D(2,5.8728,7.8887,6.7491,7.4745,6.8998,8.2243,6.0454,8.6345)"
+            },
+            {
+              "content": "DISTB",
+              "span": {
+                "offset": 1117,
+                "length": 5
+              },
+              "confidence": 0.208,
+              "source": "D(2,6.8707,7.412,8.3962,6.7192,8.4945,7.4497,7.0189,8.1636)"
+            },
+            {
+              "content": "Page",
+              "span": {
+                "offset": 1141,
+                "length": 4
+              },
+              "confidence": 0.985,
+              "source": "D(2,0.9893,10.341,1.2838,10.3355,1.2883,10.4751,0.9925,10.4806)"
+            },
+            {
+              "content": "2",
+              "span": {
+                "offset": 1146,
+                "length": 1
+              },
+              "confidence": 0.985,
+              "source": "D(2,1.3137,10.3348,1.3896,10.3331,1.3946,10.4727,1.3184,10.4744)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1148,
+                "length": 2
+              },
+              "confidence": 0.979,
+              "source": "D(2,1.4172,10.3325,1.5391,10.3293,1.5448,10.4689,1.4224,10.4721)"
+            },
+            {
+              "content": "2",
+              "span": {
+                "offset": 1151,
+                "length": 1
+              },
+              "confidence": 0.966,
+              "source": "D(2,1.5576,10.3288,1.6519,10.3263,1.6581,10.4659,1.5633,10.4685)"
+            },
+            {
+              "content": "OT",
+              "span": {
+                "offset": 1158,
+                "length": 2
+              },
+              "confidence": 0.971,
+              "source": "D(2,5.134,10.7314,5.7338,10.4725,5.9588,10.9242,5.3457,10.9945)"
+            },
+            {
+              "content": "FOR",
+              "span": {
+                "offset": 1161,
+                "length": 3
+              },
+              "confidence": 0.991,
+              "source": "D(2,5.8373,10.4227,6.7389,9.9749,6.9356,10.478,6.0601,10.8817)"
+            },
+            {
+              "content": "DISTRIE",
+              "span": {
+                "offset": 1165,
+                "length": 7
+              },
+              "confidence": 0.826,
+              "source": "D(2,6.8537,9.9089,8.4004,9.0557,8.4945,9.5659,7.0467,10.4165)"
+            }
+          ],
+          "lines": [
+            {
+              "content": "Meridian Capin DIST",
+              "source": "D(2,0.9297,0.8466,3.1211,0,3.2539,0.4476,1.1117,1.1958)",
+              "span": {
+                "offset": 585,
+                "length": 19
+              }
+            },
+            {
+              "content": "DR",
+              "source": "D(2,3.1654,0.2354,3.8146,0,4.0051,0.2785,3.3414,0.609)",
+              "span": {
+                "offset": 605,
+                "length": 2
+              }
+            },
+            {
+              "content": "Meridian Capital Partners LLP",
+              "source": "D(2,0.9862,0.8686,3.0475,0.8565,3.0485,1.03,0.9873,1.0408)",
+              "span": {
+                "offset": 608,
+                "length": 29
+              }
+            },
+            {
+              "content": "12 Fenchurch Street, London EC3M 3BY",
+              "source": "D(2,1.0018,1.1143,3.7846,1.1054,3.7852,1.2816,1.0024,1.2899)",
+              "span": {
+                "offset": 638,
+                "length": 36
+              }
+            },
+            {
+              "content": "- NOT",
+              "source": "D(2,0,1.7568,1.0039,1.1428,1.1455,1.4941,0.1054,2.0981)",
+              "span": {
+                "offset": 675,
+                "length": 6
+              }
+            },
+            {
+              "content": "Dear Investor,",
+              "source": "D(2,0.9904,1.676,1.954,1.6769,1.9538,1.8385,0.9902,1.8376)",
+              "span": {
+                "offset": 683,
+                "length": 14
+              }
+            },
+            {
+              "content": "This documen Credit Opportunities Funsed terms of . NOT FOR DIST",
+              "source": "D(2,0.8705,2.4962,7.872,0,8.0407,0.8113,1.1783,2.9784)",
+              "span": {
+                "offset": 698,
+                "length": 64
+              }
+            },
+            {
+              "content": "DF",
+              "source": "D(2,7.8913,0.184,8.3863,0,8.4945,0.3929,8.0559,0.6231)",
+              "span": {
+                "offset": 763,
+                "length": 2
+              }
+            },
+            {
+              "content": "We are pleased to confirm the proposed terms of your commitment of EUR 5,000,000 to",
+              "source": "D(2,0.981,2.0833,6.9602,2.0744,6.9605,2.263,0.9813,2.2719)",
+              "span": {
+                "offset": 767,
+                "length": 83
+              }
+            },
+            {
+              "content": "the Meridian Credit Opportunities Fund III. Closing is expected on 30 September 2026.",
+              "source": "D(2,0.981,2.3311,6.8563,2.3259,6.8564,2.5235,0.9812,2.5287)",
+              "span": {
+                "offset": 851,
+                "length": 85
+              }
+            },
+            {
+              "content": "This document remains subject to legal review and must not be relied upon.",
+              "source": "D(2,0.9826,2.5778,6.1094,2.5791,6.1094,2.7763,0.9826,2.775)",
+              "span": {
+                "offset": 937,
+                "length": 74
+              }
+            },
+            {
+              "content": "- NOT FOR DIST BABAYT.NOT FOR DISTRH",
+              "source": "D(2,0,6.2679,8.3602,2.004,8.4945,2.6168,0.1154,6.9985)",
+              "span": {
+                "offset": 1013,
+                "length": 37
+              }
+            },
+            {
+              "content": "NOT FOR DIST BBAYTONOT FOR DISTRA",
+              "source": "D(2,0.0111,8.5964,8.3632,4.3734,8.4945,4.9787,0.1466,9.2728)",
+              "span": {
+                "offset": 1052,
+                "length": 33
+              }
+            },
+            {
+              "content": "TROR 2012R DIST BBAYTONOT FOR DISTB",
+              "source": "D(2,0.3183,10.5435,8.3721,6.7151,8.4945,7.4405,0.6892,10.9945)",
+              "span": {
+                "offset": 1087,
+                "length": 35
+              }
+            },
+            {
+              "content": "Page 2 of 2",
+              "source": "D(2,0.9893,10.341,1.655,10.3262,1.6581,10.4669,0.9925,10.4817)",
+              "span": {
+                "offset": 1141,
+                "length": 11
+              }
+            },
+            {
+              "content": "OT FOR DISTRIE",
+              "source": "D(2,5.134,10.7315,8.3994,9.0538,8.4945,9.5894,5.409,10.9945)",
+              "span": {
+                "offset": 1158,
+                "length": 14
+              }
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "content": "Meridian Capin DIST DR Meridian Capital Partners LLP 12 Fenchurch Street, London EC3M 3BY - NOT",
+          "source": "D(1,0,0.7422,3.9026,0,4.2043,1.1883,0.0779,2.1039)",
+          "span": {
+            "offset": 0,
+            "length": 96
+          }
+        },
+        {
+          "content": "Dear Investor, This documen Credit Opportunities Rposed terms ot . NOT FOR DIST DF",
+          "source": "D(1,0.6509,1.7831,8.1991,0,8.5918,0.6463,1.0436,3.0285)",
+          "span": {
+            "offset": 98,
+            "length": 82
+          }
+        },
+        {
+          "content": "We are pleased to confirm the proposed terms of your commitment of EUR 5,000,000 to the Meridian Credit Opportunities Fund III. Closing is expected on 30 September 2026. This document remains subject to legal review and must not be relied upon.",
+          "source": "D(1,0.9815,2.783,0.9807,2.0831,6.9603,2.0742,6.9611,2.7741)",
+          "span": {
+            "offset": 182,
+            "length": 244
+          }
+        },
+        {
+          "content": "- NOT FOR DIST BBAYTONOT FOR DISTRH",
+          "source": "D(1,8.3111,1.9226,8.6364,2.5447,0.1107,7.0039,0,6.3818)",
+          "span": {
+            "offset": 428,
+            "length": 36
+          }
+        },
+        {
+          "content": "NOT FOR DIST BABAYT.NOT FOR DISTRA",
+          "source": "D(1,8.3307,4.3166,8.6384,4.9154,0.1417,9.2838,0,8.685)",
+          "span": {
+            "offset": 466,
+            "length": 34
+          }
+        },
+        {
+          "content": "TRue 1 2R DIST BAYTONOT FOR DISTB Page 1 of 2",
+          "source": "D(1,8.3707,6.7151,8.6751,7.3559,0.6201,11.1842,0.3157,10.5435)",
+          "span": {
+            "offset": 502,
+            "length": 45
+          }
+        },
+        {
+          "content": "OT FOR DISTRIE",
+          "source": "D(1,8.4004,9.0557,8.6384,9.5213,5.3721,11.1917,5.134,10.7261)",
+          "span": {
+            "offset": 549,
+            "length": 14
+          }
+        },
+        {
+          "content": "Meridian Capin DIST DR Meridian Capital Partners LLP 12 Fenchurch Street, London EC3M 3BY - NOT",
+          "source": "D(2,0,0.7425,3.9049,0,4.2067,1.188,0.077,2.1044)",
+          "span": {
+            "offset": 585,
+            "length": 96
+          }
+        },
+        {
+          "content": "Dear Investor, This documen Credit Opportunities Funsed terms of . NOT FOR DIST DF",
+          "source": "D(2,0.6461,1.7847,8.1986,0,8.5893,0.6381,1.0368,3.0231)",
+          "span": {
+            "offset": 683,
+            "length": 82
+          }
+        },
+        {
+          "content": "We are pleased to confirm the proposed terms of your commitment of EUR 5,000,000 to the Meridian Credit Opportunities Fund III. Closing is expected on 30 September 2026. This document remains subject to legal review and must not be relied upon.",
+          "source": "D(2,0.9815,2.7839,0.9807,2.0833,6.9603,2.0744,6.961,2.775)",
+          "span": {
+            "offset": 767,
+            "length": 244
+          }
+        },
+        {
+          "content": "- NOT FOR DIST BABAYT.NOT FOR DISTRH",
+          "source": "D(2,8.3171,1.9215,8.6416,2.5427,0.1154,6.9985,0,6.3773)",
+          "span": {
+            "offset": 1013,
+            "length": 37
+          }
+        },
+        {
+          "content": "NOT FOR DIST BBAYTONOT FOR DISTRA",
+          "source": "D(2,8.3345,4.3176,8.6378,4.9078,0.1466,9.2728,0,8.6826)",
+          "span": {
+            "offset": 1052,
+            "length": 33
+          }
+        },
+        {
+          "content": "TROR 2012R DIST BBAYTONOT FOR DISTB",
+          "source": "D(2,8.3721,6.7151,8.6768,7.3565,0.623,11.1848,0.3183,10.5435)",
+          "span": {
+            "offset": 1087,
+            "length": 35
+          }
+        },
+        {
+          "role": "pageNumber",
+          "content": "Page 2 of 2",
+          "source": "D(2,0.9924,10.4817,0.9894,10.341,1.655,10.3262,1.6581,10.4669)",
+          "span": {
+            "offset": 1124,
+            "length": 32
+          }
+        },
+        {
+          "content": "OT FOR DISTRIE",
+          "source": "D(2,8.3994,9.0538,8.6381,9.5185,5.3727,11.1961,5.134,10.7315)",
+          "span": {
+            "offset": 1158,
+            "length": 14
+          }
+        }
+      ],
+      "sections": [
+        {
+          "span": {
+            "offset": 0,
+            "length": 1172
+          },
+          "elements": [
+            "/paragraphs/0",
+            "/paragraphs/1",
+            "/paragraphs/2",
+            "/paragraphs/3",
+            "/paragraphs/4",
+            "/paragraphs/5",
+            "/paragraphs/6",
+            "/paragraphs/7",
+            "/paragraphs/8",
+            "/paragraphs/9",
+            "/paragraphs/10",
+            "/paragraphs/11",
+            "/paragraphs/12",
+            "/paragraphs/14"
+          ]
+        }
+      ],
+      "analyzerId": "prebuilt-layout",
+      "mimeType": "application/pdf"
+    }
+  ]
+}

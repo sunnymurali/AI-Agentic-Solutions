@@ -1,0 +1,1543 @@
+{
+  "analyzerId": "prebuilt-layout",
+  "apiVersion": "2025-11-01",
+  "createdAt": "2026-10-29T02:43:40Z",
+  "stringEncoding": "codePoint",
+  "warnings": [],
+  "contents": [
+    {
+      "path": "input1",
+      "markdown": "# Aldgate Umbrella ICAV - Sub-funds and Share Classes\n\n\n![Management Company Aldgate ManCo (Ireland) Ltd Aldgate UCITS ICAV Umbrella - Ireland Depositary State Street Custodial Services Global Equity Fund Sub-fund Euro Bond Fund Sub-fund Multi-Asset Income Fund Sub-fund Class A (EUR Acc) Class I (USD Dist) Class Z (GBP Acc) Class A (EUR Acc) Class I (USD Dist) Class Z (GBP Acc) Class A (EUR Acc) Class I (USD Dist) Class Z (GBP Acc)](figures/1.1)\n\n\n<!-- PageFooter: Investment Manager: Aldgate Asset Management LLP | Administrator: Northern Trust | Auditor: KPMG -->\n",
+      "kind": "document",
+      "startPageNumber": 1,
+      "endPageNumber": 1,
+      "unit": "inch",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "angle": 0,
+          "width": 11.6944,
+          "height": 8.2639,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 570
+            }
+          ],
+          "words": [
+            {
+              "content": "Aldgate",
+              "span": {
+                "offset": 2,
+                "length": 7
+              },
+              "confidence": 0.992,
+              "source": "D(1,0.4019,0.3159,1.1176,0.3133,1.1176,0.5266,0.4019,0.5283)"
+            },
+            {
+              "content": "Umbrella",
+              "span": {
+                "offset": 10,
+                "length": 8
+              },
+              "confidence": 0.99,
+              "source": "D(1,1.1743,0.3131,2.0105,0.3101,2.0105,0.5245,1.1743,0.5265)"
+            },
+            {
+              "content": "ICAV",
+              "span": {
+                "offset": 19,
+                "length": 4
+              },
+              "confidence": 0.984,
+              "source": "D(1,2.0743,0.3099,2.5385,0.3094,2.5385,0.5237,2.0743,0.5243)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 24,
+                "length": 1
+              },
+              "confidence": 0.992,
+              "source": "D(1,2.581,0.3094,2.6518,0.3093,2.6518,0.5236,2.581,0.5237)"
+            },
+            {
+              "content": "Sub",
+              "span": {
+                "offset": 26,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,2.6979,0.3093,3.0558,0.309,3.0558,0.523,2.6979,0.5235)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 29,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,3.0558,0.309,3.1196,0.3089,3.1196,0.5229,3.0558,0.523)"
+            },
+            {
+              "content": "funds",
+              "span": {
+                "offset": 30,
+                "length": 5
+              },
+              "confidence": 0.991,
+              "source": "D(1,3.1125,0.3089,3.6475,0.3085,3.6475,0.5222,3.1125,0.523)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 36,
+                "length": 3
+              },
+              "confidence": 0.99,
+              "source": "D(1,3.7042,0.3084,4.0444,0.3089,4.0444,0.522,3.7042,0.5222)"
+            },
+            {
+              "content": "Share",
+              "span": {
+                "offset": 40,
+                "length": 5
+              },
+              "confidence": 0.979,
+              "source": "D(1,4.1081,0.309,4.6503,0.31,4.6503,0.5219,4.1081,0.522)"
+            },
+            {
+              "content": "Classes",
+              "span": {
+                "offset": 46,
+                "length": 7
+              },
+              "confidence": 0.936,
+              "source": "D(1,4.707,0.3101,5.4475,0.3115,5.4475,0.5217,4.707,0.5219)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 58,
+                "length": 10
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.1035,0.8837,1.8783,0.8872,1.8782,1.0357,1.1035,1.0315)"
+            },
+            {
+              "content": "Company",
+              "span": {
+                "offset": 69,
+                "length": 7
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.9104,0.8874,2.4896,0.8907,2.4896,1.0374,1.9104,1.0358)"
+            },
+            {
+              "content": "Aldgate",
+              "span": {
+                "offset": 77,
+                "length": 7
+              },
+              "confidence": 0.992,
+              "source": "D(1,1.0899,1.046,1.4749,1.0456,1.4749,1.1877,1.0899,1.1872)"
+            },
+            {
+              "content": "ManCo",
+              "span": {
+                "offset": 85,
+                "length": 5
+              },
+              "confidence": 0.982,
+              "source": "D(1,1.5083,1.0456,1.8694,1.0452,1.8694,1.1875,1.5083,1.1878)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 91,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.8981,1.0452,1.9339,1.0451,1.9339,1.1874,1.8981,1.1874)"
+            },
+            {
+              "content": "Ireland",
+              "span": {
+                "offset": 92,
+                "length": 7
+              },
+              "confidence": 0.94,
+              "source": "D(1,1.9411,1.0451,2.2686,1.0448,2.2686,1.1864,1.9411,1.1874)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 99,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.2734,1.0448,2.3117,1.0448,2.3117,1.1862,2.2734,1.1864)"
+            },
+            {
+              "content": "Ltd",
+              "span": {
+                "offset": 101,
+                "length": 3
+              },
+              "confidence": 0.988,
+              "source": "D(1,2.3404,1.0447,2.5053,1.0446,2.5053,1.1855,2.3404,1.1861)"
+            },
+            {
+              "content": "Aldgate",
+              "span": {
+                "offset": 105,
+                "length": 7
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.2277,0.882,5.6944,0.8813,5.6944,1.0281,5.2277,1.028)"
+            },
+            {
+              "content": "UCITS",
+              "span": {
+                "offset": 113,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.7339,0.8812,6.1068,0.88,6.1068,1.0272,5.7339,1.0281)"
+            },
+            {
+              "content": "ICAV",
+              "span": {
+                "offset": 119,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,6.1463,0.8798,6.4525,0.8784,6.4525,1.0256,6.1463,1.027)"
+            },
+            {
+              "content": "Umbrella",
+              "span": {
+                "offset": 124,
+                "length": 8
+              },
+              "confidence": 0.99,
+              "source": "D(1,5.3933,1.05,5.8429,1.0492,5.8429,1.1726,5.3933,1.1736)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 133,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,5.8721,1.0492,5.9158,1.0493,5.9158,1.1727,5.8721,1.1727)"
+            },
+            {
+              "content": "Ireland",
+              "span": {
+                "offset": 135,
+                "length": 7
+              },
+              "confidence": 0.869,
+              "source": "D(1,5.947,1.0493,6.2926,1.0505,6.2926,1.1747,5.947,1.1727)"
+            },
+            {
+              "content": "Depositary",
+              "span": {
+                "offset": 143,
+                "length": 10
+              },
+              "confidence": 0.998,
+              "source": "D(1,9.5474,0.89,10.2155,0.8937,10.2155,1.0367,9.5474,1.0347)"
+            },
+            {
+              "content": "State",
+              "span": {
+                "offset": 154,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,9.102,1.0493,9.371,1.0481,9.371,1.1775,9.102,1.1784)"
+            },
+            {
+              "content": "Street",
+              "span": {
+                "offset": 160,
+                "length": 6
+              },
+              "confidence": 0.996,
+              "source": "D(1,9.4007,1.048,9.7078,1.047,9.7078,1.1764,9.4007,1.1774)"
+            },
+            {
+              "content": "Custodial",
+              "span": {
+                "offset": 167,
+                "length": 9
+              },
+              "confidence": 0.996,
+              "source": "D(1,9.7311,1.047,10.1907,1.047,10.1907,1.1754,9.7311,1.1764)"
+            },
+            {
+              "content": "Services",
+              "span": {
+                "offset": 177,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,10.2225,1.0471,10.6609,1.0487,10.6609,1.175,10.2225,1.1754)"
+            },
+            {
+              "content": "Global",
+              "span": {
+                "offset": 186,
+                "length": 6
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.2198,3.2488,1.6143,3.2486,1.6143,3.3978,1.2198,3.3982)"
+            },
+            {
+              "content": "Equity",
+              "span": {
+                "offset": 193,
+                "length": 6
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.6543,3.2486,2.0337,3.2484,2.0337,3.3975,1.6543,3.3977)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 200,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.0687,3.2484,2.3783,3.2483,2.3783,3.3974,2.0687,3.3975)"
+            },
+            {
+              "content": "Sub",
+              "span": {
+                "offset": 205,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.5674,3.4097,1.771,3.4097,1.771,3.5303,1.5674,3.5311)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 208,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.769,3.4097,1.8064,3.4097,1.8064,3.5303,1.769,3.5303)"
+            },
+            {
+              "content": "fund",
+              "span": {
+                "offset": 209,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.8043,3.4097,2.0328,3.4097,2.0328,3.5307,1.8043,3.5303)"
+            },
+            {
+              "content": "Euro",
+              "span": {
+                "offset": 214,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.3447,3.2481,5.633,3.2487,5.633,3.3836,5.3447,3.3832)"
+            },
+            {
+              "content": "Bond",
+              "span": {
+                "offset": 219,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.6707,3.2487,5.979,3.2483,5.979,3.3836,5.6707,3.3836)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 224,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,6.0234,3.2481,6.3383,3.2465,6.3383,3.3829,6.0234,3.3835)"
+            },
+            {
+              "content": "Sub",
+              "span": {
+                "offset": 229,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.6102,3.4097,5.8119,3.4097,5.8119,3.5287,5.6102,3.5289)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 232,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.81,3.4097,5.8488,3.4097,5.8488,3.5289,5.81,3.5287)"
+            },
+            {
+              "content": "fund",
+              "span": {
+                "offset": 233,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.8449,3.4097,6.0756,3.4097,6.0756,3.5311,5.8449,3.5289)"
+            },
+            {
+              "content": "Multi",
+              "span": {
+                "offset": 238,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,9.1306,3.2463,9.427,3.2475,9.427,3.3847,9.1306,3.3835)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 243,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,9.4362,3.2475,9.4753,3.2477,9.4753,3.3849,9.4362,3.3847)"
+            },
+            {
+              "content": "Asset",
+              "span": {
+                "offset": 244,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,9.4661,3.2477,9.8131,3.2483,9.8131,3.3855,9.4661,3.3849)"
+            },
+            {
+              "content": "Income",
+              "span": {
+                "offset": 250,
+                "length": 6
+              },
+              "confidence": 0.984,
+              "source": "D(1,9.8521,3.2483,10.2819,3.2475,10.2819,3.3847,9.8521,3.3854)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 257,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,10.3186,3.2473,10.6381,3.2458,10.6381,3.383,10.3186,3.3845)"
+            },
+            {
+              "content": "Sub",
+              "span": {
+                "offset": 262,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,9.6502,3.4097,9.8546,3.4097,9.8546,3.5307,9.6502,3.5291)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 265,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,9.8526,3.4097,9.8918,3.4097,9.8918,3.5308,9.8526,3.5307)"
+            },
+            {
+              "content": "fund",
+              "span": {
+                "offset": 266,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,9.8877,3.4097,10.1127,3.4097,10.1127,3.5304,9.8877,3.5308)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 271,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.4511,4.9094,0.7892,4.9124,0.7893,5.0416,0.4515,5.0386)"
+            },
+            {
+              "content": "A",
+              "span": {
+                "offset": 277,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.8207,4.9113,0.9215,4.9075,0.9215,5.0366,0.8208,5.0404)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 279,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.4229,5.0809,0.4629,5.0805,0.4629,5.2096,0.4229,5.21)"
+            },
+            {
+              "content": "EUR",
+              "span": {
+                "offset": 280,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.4607,5.0805,0.7008,5.0783,0.7008,5.2074,0.4607,5.2097)"
+            },
+            {
+              "content": "Acc",
+              "span": {
+                "offset": 284,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,0.7164,5.0781,0.9164,5.0757,0.9164,5.2049,0.7164,5.2073)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 287,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.9164,5.0757,0.9565,5.0752,0.9565,5.2044,0.9164,5.2049)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 289,
+                "length": 5
+              },
+              "confidence": 0.96,
+              "source": "D(1,1.5889,4.906,1.9246,4.9116,1.9246,5.0407,1.5889,5.0351)"
+            },
+            {
+              "content": "I",
+              "span": {
+                "offset": 295,
+                "length": 1
+              },
+              "confidence": 0.531,
+              "source": "D(1,1.9624,4.9093,2.0157,4.9061,2.0157,5.0352,1.9624,5.0384)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 297,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5275,5.0816,1.575,5.0794,1.5751,5.2137,1.5275,5.215)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 298,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.5682,5.0797,1.8016,5.072,1.8017,5.2095,1.5683,5.2139)"
+            },
+            {
+              "content": "Dist",
+              "span": {
+                "offset": 302,
+                "length": 4
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.8356,5.0715,2.0306,5.0731,2.0306,5.2098,1.8357,5.2092)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 306,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.0283,5.0731,2.0714,5.0738,2.0714,5.2101,2.0283,5.2098)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 308,
+                "length": 5
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.6781,4.9073,3.0166,4.9154,3.0166,5.0439,2.6781,5.0366)"
+            },
+            {
+              "content": "Z",
+              "span": {
+                "offset": 314,
+                "length": 1
+              },
+              "confidence": 0.982,
+              "source": "D(1,3.0482,4.9149,3.1492,4.9135,3.1492,5.0433,3.0482,5.0438)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 316,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.6424,5.0731,2.6872,5.0729,2.6872,5.2093,2.6424,5.2093)"
+            },
+            {
+              "content": "GBP",
+              "span": {
+                "offset": 317,
+                "length": 3
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.685,5.0729,2.9137,5.0723,2.9137,5.2093,2.685,5.2093)"
+            },
+            {
+              "content": "Acc",
+              "span": {
+                "offset": 321,
+                "length": 3
+              },
+              "confidence": 0.988,
+              "source": "D(1,2.9429,5.0723,3.1357,5.0721,3.1357,5.2093,2.9429,5.2093)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 324,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.1357,5.0721,3.1806,5.0721,3.1806,5.2093,3.1357,5.2093)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 326,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.4939,4.9191,4.8324,4.9162,4.8324,5.0398,4.4939,5.0398)"
+            },
+            {
+              "content": "A",
+              "span": {
+                "offset": 332,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.8663,4.9157,4.9679,4.9141,4.9679,5.0398,4.8663,5.0398)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 334,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.4596,5.0762,4.5041,5.0762,4.5041,5.2053,4.4596,5.2053)"
+            },
+            {
+              "content": "EUR",
+              "span": {
+                "offset": 335,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.4999,5.0762,4.7394,5.0762,4.7394,5.2053,4.4999,5.2053)"
+            },
+            {
+              "content": "Acc",
+              "span": {
+                "offset": 339,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,4.7563,5.0762,4.9555,5.0762,4.9555,5.2053,4.7563,5.2053)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 342,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.9534,5.0762,5.0021,5.0762,5.0021,5.2053,4.9534,5.2053)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 344,
+                "length": 5
+              },
+              "confidence": 0.956,
+              "source": "D(1,5.6359,4.9136,5.9683,4.9114,5.9683,5.0392,5.6359,5.0403)"
+            },
+            {
+              "content": "I",
+              "span": {
+                "offset": 350,
+                "length": 1
+              },
+              "confidence": 0.602,
+              "source": "D(1,6.0035,4.9098,6.0585,4.9072,6.0585,5.0366,6.0035,5.0382)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 352,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.5731,5.0762,5.6172,5.0762,5.6172,5.2053,5.5731,5.2053)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 353,
+                "length": 3
+              },
+              "confidence": 0.992,
+              "source": "D(1,5.6109,5.0762,5.8457,5.0762,5.8457,5.2053,5.6109,5.2053)"
+            },
+            {
+              "content": "Dist",
+              "span": {
+                "offset": 357,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,5.8814,5.0762,6.0742,5.0762,6.0742,5.2053,5.8814,5.2053)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 361,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,6.0701,5.0762,6.1099,5.0762,6.1099,5.2053,6.0701,5.2053)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 363,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,6.7209,4.9148,7.0574,4.9148,7.0574,5.0428,6.7209,5.0392)"
+            },
+            {
+              "content": "Z",
+              "span": {
+                "offset": 369,
+                "length": 1
+              },
+              "confidence": 0.986,
+              "source": "D(1,7.093,4.9148,7.1891,4.9148,7.1891,5.0443,7.093,5.0432)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 371,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,6.6866,5.0762,6.7286,5.0762,6.7286,5.2053,6.6866,5.2053)"
+            },
+            {
+              "content": "GBP",
+              "span": {
+                "offset": 372,
+                "length": 3
+              },
+              "confidence": 0.986,
+              "source": "D(1,6.7265,5.0762,6.9529,5.0762,6.9529,5.2053,6.7265,5.2053)"
+            },
+            {
+              "content": "Acc",
+              "span": {
+                "offset": 376,
+                "length": 3
+              },
+              "confidence": 0.988,
+              "source": "D(1,6.9802,5.0762,7.1772,5.0762,7.1772,5.2053,6.9802,5.2053)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 379,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,7.1772,5.0762,7.2234,5.0762,7.2234,5.2053,7.1772,5.2053)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 381,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,8.531,4.91,8.8715,4.915,8.8714,5.0433,8.531,5.0353)"
+            },
+            {
+              "content": "A",
+              "span": {
+                "offset": 387,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,8.9079,4.9148,9.0107,4.9144,9.0107,5.0437,8.9079,5.0434)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 389,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,8.5082,5.0771,8.548,5.0771,8.548,5.2062,8.5082,5.2062)"
+            },
+            {
+              "content": "EUR",
+              "span": {
+                "offset": 390,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,8.5436,5.0771,8.7848,5.0768,8.7848,5.2059,8.5436,5.2062)"
+            },
+            {
+              "content": "Acc",
+              "span": {
+                "offset": 394,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,8.8025,5.0768,8.9994,5.0759,8.9994,5.205,8.8025,5.2059)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 397,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,8.9972,5.0759,9.0392,5.0756,9.0392,5.2048,8.9972,5.205)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 399,
+                "length": 5
+              },
+              "confidence": 0.961,
+              "source": "D(1,9.673,4.9148,10.0123,4.9148,10.0123,5.0428,9.673,5.0399)"
+            },
+            {
+              "content": "I",
+              "span": {
+                "offset": 405,
+                "length": 1
+              },
+              "confidence": 0.716,
+              "source": "D(1,10.0468,4.9148,10.0956,4.9148,10.0956,5.0447,10.0468,5.0436)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 407,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,9.6102,5.0775,9.6573,5.0767,9.6573,5.2067,9.6102,5.2055)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 408,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,9.6552,5.0768,9.8865,5.0745,9.8865,5.2101,9.6552,5.2066)"
+            },
+            {
+              "content": "Dist",
+              "span": {
+                "offset": 412,
+                "length": 4
+              },
+              "confidence": 0.995,
+              "source": "D(1,9.9229,5.0745,10.1156,5.0765,10.1156,5.2072,9.9229,5.2101)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 416,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,10.1113,5.0764,10.1584,5.0771,10.1584,5.2063,10.1113,5.2073)"
+            },
+            {
+              "content": "Class",
+              "span": {
+                "offset": 418,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,10.7694,4.9193,11.0977,4.9149,11.0978,5.0407,10.7694,5.0401)"
+            },
+            {
+              "content": "Z",
+              "span": {
+                "offset": 424,
+                "length": 1
+              },
+              "confidence": 0.983,
+              "source": "D(1,11.1344,4.9149,11.2262,4.9149,11.2262,5.0457,11.1345,5.0421)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 426,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,10.7294,5.0808,10.7719,5.0792,10.7719,5.2136,10.7294,5.2146)"
+            },
+            {
+              "content": "GBP",
+              "span": {
+                "offset": 427,
+                "length": 3
+              },
+              "confidence": 0.983,
+              "source": "D(1,10.7697,5.0793,10.9955,5.0727,10.9955,5.2095,10.7697,5.2137)"
+            },
+            {
+              "content": "Acc",
+              "span": {
+                "offset": 431,
+                "length": 3
+              },
+              "confidence": 0.989,
+              "source": "D(1,11.0268,5.0723,11.2214,5.0726,11.2214,5.2097,11.0269,5.2093)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 434,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,11.2214,5.0726,11.2662,5.073,11.2662,5.2101,11.2214,5.2097)"
+            },
+            {
+              "content": "Investment",
+              "span": {
+                "offset": 469,
+                "length": 10
+              },
+              "confidence": 0.983,
+              "source": "D(1,0.3979,6.4797,1.0252,6.4801,1.0249,6.6259,0.3976,6.6251)"
+            },
+            {
+              "content": "Manager",
+              "span": {
+                "offset": 480,
+                "length": 7
+              },
+              "confidence": 0.988,
+              "source": "D(1,1.0592,6.4801,1.5552,6.4804,1.5549,6.6266,1.0589,6.626)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 487,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.5504,6.4804,1.5795,6.4804,1.5792,6.6266,1.5501,6.6266)"
+            },
+            {
+              "content": "Aldgate",
+              "span": {
+                "offset": 489,
+                "length": 7
+              },
+              "confidence": 0.986,
+              "source": "D(1,1.6087,6.4804,2.0415,6.4807,2.0412,6.6272,1.6084,6.6267)"
+            },
+            {
+              "content": "Asset",
+              "span": {
+                "offset": 497,
+                "length": 5
+              },
+              "confidence": 0.987,
+              "source": "D(1,2.0755,6.4807,2.3916,6.4809,2.3913,6.6276,2.0753,6.6273)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 503,
+                "length": 10
+              },
+              "confidence": 0.944,
+              "source": "D(1,2.4232,6.4809,3.155,6.4806,3.1548,6.6272,2.423,6.6276)"
+            },
+            {
+              "content": "LLP",
+              "span": {
+                "offset": 514,
+                "length": 3
+              },
+              "confidence": 0.877,
+              "source": "D(1,3.1915,6.4805,3.4103,6.4804,3.4101,6.627,3.1913,6.6271)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 518,
+                "length": 1
+              },
+              "confidence": 0.979,
+              "source": "D(1,3.5075,6.4804,3.5416,6.4804,3.5414,6.6269,3.5074,6.6269)"
+            },
+            {
+              "content": "Administrator",
+              "span": {
+                "offset": 520,
+                "length": 13
+              },
+              "confidence": 0.914,
+              "source": "D(1,3.634,6.4803,4.3901,6.48,4.39,6.6264,3.6338,6.6269)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 533,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.3852,6.48,4.4144,6.4799,4.4143,6.6263,4.3851,6.6264)"
+            },
+            {
+              "content": "Northern",
+              "span": {
+                "offset": 535,
+                "length": 8
+              },
+              "confidence": 0.958,
+              "source": "D(1,4.4509,6.4799,4.9347,6.4792,4.9346,6.625,4.4508,6.6262)"
+            },
+            {
+              "content": "Trust",
+              "span": {
+                "offset": 544,
+                "length": 5
+              },
+              "confidence": 0.886,
+              "source": "D(1,4.9712,6.4791,5.2727,6.4787,5.2726,6.6242,4.9711,6.6249)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 550,
+                "length": 1
+              },
+              "confidence": 0.941,
+              "source": "D(1,5.3626,6.4786,5.3967,6.4785,5.3966,6.6239,5.3626,6.624)"
+            },
+            {
+              "content": "Auditor",
+              "span": {
+                "offset": 552,
+                "length": 7
+              },
+              "confidence": 0.525,
+              "source": "D(1,5.4842,6.4784,5.8951,6.4778,5.895,6.6226,5.4841,6.6237)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 559,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.8975,6.4778,5.9242,6.4777,5.9242,6.6226,5.8975,6.6226)"
+            },
+            {
+              "content": "KPMG",
+              "span": {
+                "offset": 561,
+                "length": 4
+              },
+              "confidence": 0.531,
+              "source": "D(1,5.968,6.4777,6.3497,6.4771,6.3497,6.6215,5.968,6.6225)"
+            }
+          ],
+          "lines": [
+            {
+              "content": "Aldgate Umbrella ICAV - Sub-funds and Share Classes",
+              "source": "D(1,0.4016,0.3121,5.4475,0.3054,5.4475,0.5217,0.4019,0.5283)",
+              "span": {
+                "offset": 2,
+                "length": 51
+              }
+            },
+            {
+              "content": "Management Company",
+              "source": "D(1,1.1035,0.8837,2.4896,0.8896,2.4896,1.0383,1.1029,1.0324)",
+              "span": {
+                "offset": 58,
+                "length": 18
+              }
+            },
+            {
+              "content": "Aldgate ManCo (Ireland) Ltd",
+              "source": "D(1,1.0898,1.046,2.5053,1.0446,2.5055,1.1869,1.0899,1.1879)",
+              "span": {
+                "offset": 77,
+                "length": 27
+              }
+            },
+            {
+              "content": "Aldgate UCITS ICAV",
+              "source": "D(1,5.2272,0.882,6.4525,0.8784,6.4525,1.0263,5.2277,1.0299)",
+              "span": {
+                "offset": 105,
+                "length": 18
+              }
+            },
+            {
+              "content": "Umbrella - Ireland",
+              "source": "D(1,5.3933,1.0485,6.2926,1.0497,6.2926,1.1747,5.3931,1.1736)",
+              "span": {
+                "offset": 124,
+                "length": 18
+              }
+            },
+            {
+              "content": "Depositary",
+              "source": "D(1,9.5474,0.8899,10.2155,0.8919,10.2155,1.0367,9.5474,1.0347)",
+              "span": {
+                "offset": 143,
+                "length": 10
+              }
+            },
+            {
+              "content": "State Street Custodial Services",
+              "source": "D(1,9.102,1.0482,10.6609,1.0451,10.6609,1.175,9.102,1.1784)",
+              "span": {
+                "offset": 154,
+                "length": 31
+              }
+            },
+            {
+              "content": "Global Equity Fund",
+              "source": "D(1,1.2198,3.2488,2.3783,3.2483,2.3784,3.3977,1.2198,3.3982)",
+              "span": {
+                "offset": 186,
+                "length": 18
+              }
+            },
+            {
+              "content": "Sub-fund",
+              "source": "D(1,1.5674,3.4097,2.0328,3.4097,2.0328,3.5311,1.5674,3.5311)",
+              "span": {
+                "offset": 205,
+                "length": 8
+              }
+            },
+            {
+              "content": "Euro Bond Fund",
+              "source": "D(1,5.3447,3.2481,6.3383,3.2465,6.3383,3.383,5.3447,3.3846)",
+              "span": {
+                "offset": 214,
+                "length": 14
+              }
+            },
+            {
+              "content": "Sub-fund",
+              "source": "D(1,5.6102,3.4097,6.0756,3.4097,6.0756,3.5311,5.6102,3.5311)",
+              "span": {
+                "offset": 229,
+                "length": 8
+              }
+            },
+            {
+              "content": "Multi-Asset Income Fund",
+              "source": "D(1,9.1306,3.2463,10.6381,3.2458,10.6381,3.3852,9.1306,3.3857)",
+              "span": {
+                "offset": 238,
+                "length": 23
+              }
+            },
+            {
+              "content": "Sub-fund",
+              "source": "D(1,9.6502,3.4097,10.1127,3.4097,10.1127,3.531,9.6502,3.531)",
+              "span": {
+                "offset": 262,
+                "length": 8
+              }
+            },
+            {
+              "content": "Class A",
+              "source": "D(1,0.4511,4.9094,0.9215,4.9075,0.922,5.0418,0.4515,5.0438)",
+              "span": {
+                "offset": 271,
+                "length": 7
+              }
+            },
+            {
+              "content": "(EUR Acc)",
+              "source": "D(1,0.4226,5.0809,0.9565,5.0752,0.9578,5.2047,0.4229,5.2104)",
+              "span": {
+                "offset": 279,
+                "length": 9
+              }
+            },
+            {
+              "content": "Class I",
+              "source": "D(1,1.5889,4.906,2.0157,4.9061,2.0157,5.0439,1.5888,5.0438)",
+              "span": {
+                "offset": 289,
+                "length": 7
+              }
+            },
+            {
+              "content": "(USD Dist)",
+              "source": "D(1,1.5262,5.074,2.0713,5.0691,2.0726,5.2101,1.5275,5.215)",
+              "span": {
+                "offset": 297,
+                "length": 10
+              }
+            },
+            {
+              "content": "Class Z",
+              "source": "D(1,2.6781,4.9073,3.1509,4.9135,3.1491,5.0461,2.6781,5.0399)",
+              "span": {
+                "offset": 308,
+                "length": 7
+              }
+            },
+            {
+              "content": "(GBP Acc)",
+              "source": "D(1,2.6424,5.0721,3.1806,5.0721,3.1806,5.2093,2.6424,5.2093)",
+              "span": {
+                "offset": 316,
+                "length": 9
+              }
+            },
+            {
+              "content": "Class A",
+              "source": "D(1,4.4939,4.9141,4.9679,4.9141,4.9679,5.0398,4.4939,5.0398)",
+              "span": {
+                "offset": 326,
+                "length": 7
+              }
+            },
+            {
+              "content": "(EUR Acc)",
+              "source": "D(1,4.4596,5.0762,5.0021,5.0762,5.0021,5.2053,4.4596,5.2053)",
+              "span": {
+                "offset": 334,
+                "length": 9
+              }
+            },
+            {
+              "content": "Class I",
+              "source": "D(1,5.6359,4.9136,6.0585,4.9072,6.0585,5.0385,5.636,5.0429)",
+              "span": {
+                "offset": 344,
+                "length": 7
+              }
+            },
+            {
+              "content": "(USD Dist)",
+              "source": "D(1,5.5731,5.0762,6.1099,5.0762,6.1099,5.2053,5.5731,5.2053)",
+              "span": {
+                "offset": 352,
+                "length": 10
+              }
+            },
+            {
+              "content": "Class Z",
+              "source": "D(1,6.7209,4.9148,7.1891,4.9148,7.1891,5.0443,6.7209,5.0443)",
+              "span": {
+                "offset": 363,
+                "length": 7
+              }
+            },
+            {
+              "content": "(GBP Acc)",
+              "source": "D(1,6.6866,5.0762,7.2234,5.0762,7.2234,5.2053,6.6866,5.2053)",
+              "span": {
+                "offset": 371,
+                "length": 9
+              }
+            },
+            {
+              "content": "Class A",
+              "source": "D(1,8.531,4.91,9.0107,4.9144,9.0106,5.0447,8.531,5.0403)",
+              "span": {
+                "offset": 381,
+                "length": 7
+              }
+            },
+            {
+              "content": "(EUR Acc)",
+              "source": "D(1,8.5082,5.0771,9.0392,5.0756,9.0392,5.2052,8.5082,5.2067)",
+              "span": {
+                "offset": 389,
+                "length": 9
+              }
+            },
+            {
+              "content": "Class I",
+              "source": "D(1,9.673,4.9148,10.0956,4.9148,10.0956,5.0447,9.673,5.0447)",
+              "span": {
+                "offset": 399,
+                "length": 7
+              }
+            },
+            {
+              "content": "(USD Dist)",
+              "source": "D(1,9.6102,5.0744,10.1584,5.0744,10.1584,5.2102,9.6102,5.2102)",
+              "span": {
+                "offset": 407,
+                "length": 10
+              }
+            },
+            {
+              "content": "Class Z",
+              "source": "D(1,10.7694,4.9149,11.2262,4.9149,11.2262,5.0457,10.7694,5.0457)",
+              "span": {
+                "offset": 418,
+                "length": 7
+              }
+            },
+            {
+              "content": "(GBP Acc)",
+              "source": "D(1,10.7294,5.0745,11.2662,5.0699,11.2662,5.2101,10.7294,5.2146)",
+              "span": {
+                "offset": 426,
+                "length": 9
+              }
+            },
+            {
+              "content": "Investment Manager: Aldgate Asset Management LLP | Administrator: Northern Trust | Auditor: KPMG",
+              "source": "D(1,0.3975,6.4797,6.3497,6.4771,6.3497,6.6259,0.3976,6.6285)",
+              "span": {
+                "offset": 469,
+                "length": 96
+              }
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "role": "title",
+          "content": "Aldgate Umbrella ICAV - Sub-funds and Share Classes",
+          "source": "D(1,0.4016,0.3121,5.4475,0.3054,5.4478,0.5217,0.4019,0.5283)",
+          "span": {
+            "offset": 0,
+            "length": 53
+          }
+        },
+        {
+          "content": "Management Company Aldgate ManCo (Ireland) Ltd",
+          "source": "D(1,1.0897,0.8837,2.5053,0.8827,2.5055,1.1869,1.0899,1.1879)",
+          "span": {
+            "offset": 58,
+            "length": 46
+          }
+        },
+        {
+          "content": "Aldgate UCITS ICAV Umbrella - Ireland",
+          "source": "D(1,5.2272,0.882,6.4525,0.8784,6.4534,1.1742,5.2281,1.1778)",
+          "span": {
+            "offset": 105,
+            "length": 37
+          }
+        },
+        {
+          "content": "Depositary State Street Custodial Services",
+          "source": "D(1,9.1014,0.8909,10.6605,0.8874,10.6612,1.175,9.102,1.1784)",
+          "span": {
+            "offset": 143,
+            "length": 42
+          }
+        },
+        {
+          "content": "Global Equity Fund Sub-fund",
+          "source": "D(1,1.2198,3.2488,2.3783,3.2483,2.3784,3.5309,1.2199,3.5314)",
+          "span": {
+            "offset": 186,
+            "length": 27
+          }
+        },
+        {
+          "content": "Euro Bond Fund Sub-fund",
+          "source": "D(1,5.3445,3.2481,6.3383,3.2465,6.3388,3.5307,5.345,3.5323)",
+          "span": {
+            "offset": 214,
+            "length": 23
+          }
+        },
+        {
+          "content": "Multi-Asset Income Fund Sub-fund",
+          "source": "D(1,9.1305,3.2463,10.6381,3.2458,10.6382,3.5308,9.1306,3.5313)",
+          "span": {
+            "offset": 238,
+            "length": 32
+          }
+        },
+        {
+          "content": "Class A (EUR Acc)",
+          "source": "D(1,0.4198,4.9098,0.9547,4.9041,0.9578,5.2047,0.4229,5.2104)",
+          "span": {
+            "offset": 271,
+            "length": 17
+          }
+        },
+        {
+          "content": "Class I (USD Dist)",
+          "source": "D(1,1.5247,4.9066,2.0698,4.9017,2.0726,5.2101,1.5275,5.215)",
+          "span": {
+            "offset": 289,
+            "length": 18
+          }
+        },
+        {
+          "content": "Class Z (GBP Acc)",
+          "source": "D(1,2.6424,4.9073,3.1806,4.9073,3.1806,5.2093,2.6424,5.2093)",
+          "span": {
+            "offset": 308,
+            "length": 17
+          }
+        },
+        {
+          "content": "Class A (EUR Acc)",
+          "source": "D(1,4.4596,4.9141,5.0021,4.9141,5.0021,5.2053,4.4596,5.2053)",
+          "span": {
+            "offset": 326,
+            "length": 17
+          }
+        },
+        {
+          "content": "Class I (USD Dist)",
+          "source": "D(1,5.5731,4.9072,6.1099,4.9072,6.1099,5.2053,5.5731,5.2053)",
+          "span": {
+            "offset": 344,
+            "length": 18
+          }
+        },
+        {
+          "content": "Class Z (GBP Acc)",
+          "source": "D(1,6.6866,4.9148,7.2234,4.9148,7.2234,5.2053,6.6866,5.2053)",
+          "span": {
+            "offset": 363,
+            "length": 17
+          }
+        },
+        {
+          "content": "Class A (EUR Acc)",
+          "source": "D(1,8.5082,4.91,9.0392,4.91,9.0392,5.2067,8.5082,5.2067)",
+          "span": {
+            "offset": 381,
+            "length": 17
+          }
+        },
+        {
+          "content": "Class I (USD Dist)",
+          "source": "D(1,9.6102,4.9148,10.1584,4.9148,10.1584,5.2102,9.6102,5.2102)",
+          "span": {
+            "offset": 399,
+            "length": 18
+          }
+        },
+        {
+          "content": "Class Z (GBP Acc)",
+          "source": "D(1,10.7294,4.9149,11.2661,4.9148,11.2662,5.2145,10.7294,5.2146)",
+          "span": {
+            "offset": 418,
+            "length": 17
+          }
+        },
+        {
+          "role": "pageFooter",
+          "content": "Investment Manager: Aldgate Asset Management LLP | Administrator: Northern Trust | Auditor: KPMG",
+          "source": "D(1,0.3975,6.4797,6.3497,6.4771,6.3498,6.6259,0.3976,6.6285)",
+          "span": {
+            "offset": 452,
+            "length": 117
+          }
+        }
+      ],
+      "sections": [
+        {
+          "span": {
+            "offset": 0,
+            "length": 449
+          },
+          "elements": [
+            "/paragraphs/0",
+            "/figures/0"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "source": "D(1,0.1105,0.7107,11.5574,0.693,11.5574,5.3748,0.1153,5.3707)",
+          "span": {
+            "offset": 56,
+            "length": 393
+          },
+          "elements": [
+            "/paragraphs/1",
+            "/paragraphs/2",
+            "/paragraphs/3",
+            "/paragraphs/4",
+            "/paragraphs/5",
+            "/paragraphs/6",
+            "/paragraphs/7",
+            "/paragraphs/8",
+            "/paragraphs/9",
+            "/paragraphs/10",
+            "/paragraphs/11",
+            "/paragraphs/12",
+            "/paragraphs/13",
+            "/paragraphs/14",
+            "/paragraphs/15"
+          ],
+          "id": "1.1"
+        }
+      ],
+      "analyzerId": "prebuilt-layout",
+      "mimeType": "application/pdf"
+    }
+  ]
+}

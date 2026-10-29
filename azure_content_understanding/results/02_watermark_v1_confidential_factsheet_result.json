@@ -1,0 +1,5526 @@
+{
+  "analyzerId": "prebuilt-layout",
+  "apiVersion": "2025-11-01",
+  "createdAt": "2026-10-29T02:43:16Z",
+  "stringEncoding": "codePoint",
+  "warnings": [],
+  "contents": [
+    {
+      "path": "input1",
+      "markdown": "# Northbridge Global Equity Fund - Factsheet\n\nNAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014\nObjective: long-term capital growth through a diversified portfolio of global equities.\nTop holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.\nFees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.\nRisk: SRRI 6. Past performance is not a reliable indicator of future results.\n\nNAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014\nObjective: long-term capital growth through a diversified portfolio of global equities.\nTop holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.\nFees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.\nRisk: SRRI 6. Past performance is not a reliable indicator of future results.\n\nNAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014\nObjective: long-term capital growth through a diversified portfolio of global equities.\nTop holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.\nFees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.\nRisk: SRRI 6. Past performance is not a reliable indicator of future results.\n\nNAV per unit: USD 142.37 | Fund reliable indicator of future results.\n\nNAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014\nObjective: long-term capital growth through a diversified portfolio of global equities.\nTop holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.\nFees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.\nRisk: SRRI 6. Past performance is not a reliable indicator of future results.\n\nNAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014\nObjective: long-term capital growth through a diversified portfolio of global equities.\nTop holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.\nFees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.\nRisk: SRRI 6. Past performance is not a reliable indicator of future results.\n\nNAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014\nObjective: long-term capital growth through a diversified portfolio of global equities.\nTop holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.\nFees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.\nRisk: SRRI 6. Past performance is not a reliable indicator of future results.\n",
+      "kind": "document",
+      "startPageNumber": 1,
+      "endPageNumber": 1,
+      "unit": "inch",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "angle": -0.0272,
+          "width": 8.2639,
+          "height": 11.6806,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 2516
+            }
+          ],
+          "words": [
+            {
+              "content": "Northbridge",
+              "span": {
+                "offset": 2,
+                "length": 11
+              },
+              "confidence": 0.994,
+              "source": "D(1,0.6865,0.7361,2.2624,0.7361,2.2628,1.0312,0.687,1.0265)"
+            },
+            {
+              "content": "Global",
+              "span": {
+                "offset": 14,
+                "length": 6
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.3537,0.7361,3.2089,0.7363,3.2093,1.0305,2.3541,1.0315)"
+            },
+            {
+              "content": "Equity",
+              "span": {
+                "offset": 21,
+                "length": 6
+              },
+              "confidence": 0.983,
+              "source": "D(1,3.305,0.7363,4.1315,0.7364,4.1317,1.028,3.3053,1.0303)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 28,
+                "length": 4
+              },
+              "confidence": 0.983,
+              "source": "D(1,4.2179,0.7364,4.8762,0.7366,4.8764,1.0239,4.2182,1.0277)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 33,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,4.9675,0.7366,5.078,0.7367,5.0781,1.0222,4.9676,1.0231)"
+            },
+            {
+              "content": "Factsheet",
+              "span": {
+                "offset": 35,
+                "length": 9
+              },
+              "confidence": 0.99,
+              "source": "D(1,5.1501,0.7367,6.4521,0.7371,6.4521,1.0104,5.1502,1.0216)"
+            },
+            {
+              "content": "NAV",
+              "span": {
+                "offset": 46,
+                "length": 3
+              },
+              "confidence": 0.974,
+              "source": "D(1,0.6809,1.3857,1.0006,1.3858,1.0006,1.57,0.6809,1.5706)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 50,
+                "length": 3
+              },
+              "confidence": 0.97,
+              "source": "D(1,1.0398,1.3858,1.2691,1.3858,1.2691,1.5696,1.0398,1.57)"
+            },
+            {
+              "content": "unit",
+              "span": {
+                "offset": 54,
+                "length": 4
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.3083,1.3858,1.5556,1.3859,1.5556,1.5691,1.3083,1.5695)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 58,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.5556,1.3859,1.5888,1.3859,1.5888,1.5691,1.5556,1.5691)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 60,
+                "length": 3
+              },
+              "confidence": 0.992,
+              "source": "D(1,1.6431,1.3859,1.9507,1.386,1.9507,1.5685,1.6431,1.569)"
+            },
+            {
+              "content": "142.37",
+              "span": {
+                "offset": 64,
+                "length": 6
+              },
+              "confidence": 0.943,
+              "source": "D(1,2.0111,1.386,2.4695,1.3861,2.4695,1.5676,2.0111,1.5684)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 71,
+                "length": 1
+              },
+              "confidence": 0.964,
+              "source": "D(1,2.5841,1.3861,2.6294,1.3861,2.6294,1.5673,2.5841,1.5674)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 73,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,2.7591,1.3861,3.0999,1.3861,3.0999,1.5666,2.7591,1.5671)"
+            },
+            {
+              "content": "size",
+              "span": {
+                "offset": 78,
+                "length": 4
+              },
+              "confidence": 0.995,
+              "source": "D(1,3.1542,1.3861,3.4196,1.3861,3.4196,1.5661,3.1542,1.5665)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 82,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.4226,1.3861,3.4588,1.3861,3.4588,1.5661,3.4226,1.5661)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 84,
+                "length": 3
+              },
+              "confidence": 0.948,
+              "source": "D(1,3.5161,1.3861,3.8238,1.3861,3.8238,1.5655,3.5161,1.566)"
+            },
+            {
+              "content": "1.84bn",
+              "span": {
+                "offset": 88,
+                "length": 6
+              },
+              "confidence": 0.876,
+              "source": "D(1,3.8841,1.3861,4.3335,1.3861,4.3335,1.5647,3.8841,1.5654)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 95,
+                "length": 1
+              },
+              "confidence": 0.979,
+              "source": "D(1,4.4602,1.3861,4.5084,1.3861,4.5084,1.5645,4.4602,1.5646)"
+            },
+            {
+              "content": "Inception",
+              "span": {
+                "offset": 97,
+                "length": 9
+              },
+              "confidence": 0.914,
+              "source": "D(1,4.6381,1.3861,5.2474,1.3859,5.2474,1.5635,4.6381,1.5643)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 106,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.2565,1.3859,5.2896,1.3859,5.2896,1.5634,5.2565,1.5635)"
+            },
+            {
+              "content": "14",
+              "span": {
+                "offset": 108,
+                "length": 2
+              },
+              "confidence": 0.922,
+              "source": "D(1,5.3469,1.3859,5.5038,1.3858,5.5038,1.5631,5.3469,1.5633)"
+            },
+            {
+              "content": "March",
+              "span": {
+                "offset": 111,
+                "length": 5
+              },
+              "confidence": 0.671,
+              "source": "D(1,5.552,1.3858,5.9713,1.3857,5.9713,1.5625,5.552,1.5631)"
+            },
+            {
+              "content": "2014",
+              "span": {
+                "offset": 117,
+                "length": 4
+              },
+              "confidence": 0.713,
+              "source": "D(1,6.0165,1.3857,6.3755,1.3856,6.3755,1.5619,6.0165,1.5624)"
+            },
+            {
+              "content": "Objective",
+              "span": {
+                "offset": 122,
+                "length": 9
+              },
+              "confidence": 0.991,
+              "source": "D(1,0.6814,1.6922,1.3233,1.6926,1.3242,1.8729,0.6824,1.8708)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 131,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.3354,1.6926,1.3655,1.6926,1.3664,1.8731,1.3363,1.873)"
+            },
+            {
+              "content": "long",
+              "span": {
+                "offset": 133,
+                "length": 4
+              },
+              "confidence": 0.988,
+              "source": "D(1,1.4197,1.6926,1.694,1.6928,1.6948,1.8742,1.4206,1.8732)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 137,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.7,1.6928,1.7452,1.6928,1.746,1.8743,1.7008,1.8742)"
+            },
+            {
+              "content": "term",
+              "span": {
+                "offset": 138,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,1.7482,1.6929,2.0496,1.693,2.0503,1.8753,1.749,1.8743)"
+            },
+            {
+              "content": "capital",
+              "span": {
+                "offset": 143,
+                "length": 7
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.1008,1.6931,2.5408,1.6933,2.5415,1.877,2.1016,1.8755)"
+            },
+            {
+              "content": "growth",
+              "span": {
+                "offset": 151,
+                "length": 6
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.586,1.6934,3.0471,1.6933,3.0476,1.877,2.5867,1.877)"
+            },
+            {
+              "content": "through",
+              "span": {
+                "offset": 158,
+                "length": 7
+              },
+              "confidence": 0.925,
+              "source": "D(1,3.0832,1.6933,3.5895,1.6933,3.59,1.877,3.0838,1.877)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 166,
+                "length": 1
+              },
+              "confidence": 0.945,
+              "source": "D(1,3.6287,1.6933,3.7101,1.6933,3.7105,1.877,3.6292,1.877)"
+            },
+            {
+              "content": "diversified",
+              "span": {
+                "offset": 168,
+                "length": 11
+              },
+              "confidence": 0.876,
+              "source": "D(1,3.7553,1.6932,4.4423,1.6932,4.4427,1.8769,3.7557,1.877)"
+            },
+            {
+              "content": "portfolio",
+              "span": {
+                "offset": 180,
+                "length": 9
+              },
+              "confidence": 0.855,
+              "source": "D(1,4.4906,1.6931,5.036,1.6927,5.0362,1.8749,4.4909,1.8767)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 190,
+                "length": 2
+              },
+              "confidence": 0.88,
+              "source": "D(1,5.0752,1.6926,5.2138,1.6925,5.214,1.8743,5.0754,1.8747)"
+            },
+            {
+              "content": "global",
+              "span": {
+                "offset": 193,
+                "length": 6
+              },
+              "confidence": 0.603,
+              "source": "D(1,5.2409,1.6925,5.6478,1.6922,5.6479,1.8728,5.2411,1.8742)"
+            },
+            {
+              "content": "equities",
+              "span": {
+                "offset": 200,
+                "length": 8
+              },
+              "confidence": 0.836,
+              "source": "D(1,5.693,1.6921,6.2264,1.6917,6.2264,1.8709,5.6931,1.8727)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 208,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,6.2294,1.6917,6.2746,1.6917,6.2746,1.8707,6.2294,1.8709)"
+            },
+            {
+              "content": "Top",
+              "span": {
+                "offset": 210,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6809,2.0017,0.9465,2.0012,0.9485,2.1806,0.6829,2.181)"
+            },
+            {
+              "content": "holdings",
+              "span": {
+                "offset": 214,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.9937,2.0012,1.5545,2.0003,1.5562,2.1797,0.9957,2.1806)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 222,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5633,2.0003,1.5987,2.0002,1.6004,2.1796,1.565,2.1797)"
+            },
+            {
+              "content": "Microsoft",
+              "span": {
+                "offset": 224,
+                "length": 9
+              },
+              "confidence": 0.994,
+              "source": "D(1,1.6489,2.0001,2.2628,1.9991,2.2642,2.1786,1.6506,2.1796)"
+            },
+            {
+              "content": "5.8",
+              "span": {
+                "offset": 234,
+                "length": 3
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.2982,1.9991,2.5107,1.9987,2.512,2.1783,2.2996,2.1786)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 237,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5195,1.9987,2.6405,1.9985,2.6418,2.178,2.5209,2.1782)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 238,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.6494,1.9985,2.6848,1.9985,2.6861,2.1779,2.6507,2.1779)"
+            },
+            {
+              "content": "Apple",
+              "span": {
+                "offset": 240,
+                "length": 5
+              },
+              "confidence": 0.988,
+              "source": "D(1,2.7291,1.9984,3.1275,1.9979,3.1286,2.1766,2.7303,2.1777)"
+            },
+            {
+              "content": "5.1",
+              "span": {
+                "offset": 246,
+                "length": 3
+              },
+              "confidence": 0.968,
+              "source": "D(1,3.1688,1.9978,3.3606,1.9975,3.3617,2.176,3.1699,2.1765)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 249,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.3813,1.9975,3.5082,1.9973,3.5092,2.1756,3.3823,2.1759)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 250,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.5141,1.9973,3.5465,1.9973,3.5475,2.1755,3.5151,2.1756)"
+            },
+            {
+              "content": "NVIDIA",
+              "span": {
+                "offset": 252,
+                "length": 6
+              },
+              "confidence": 0.953,
+              "source": "D(1,3.6056,1.9972,4.1132,1.9965,4.114,2.174,3.6065,2.1753)"
+            },
+            {
+              "content": "4.7",
+              "span": {
+                "offset": 259,
+                "length": 3
+              },
+              "confidence": 0.928,
+              "source": "D(1,4.1427,1.9964,4.367,1.9961,4.3677,2.1733,4.1435,2.1739)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 262,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.3611,1.9961,4.488,1.9959,4.4886,2.1729,4.3618,2.1733)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 263,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.4909,1.9959,4.5293,1.9959,4.5299,2.1727,4.4916,2.1729)"
+            },
+            {
+              "content": "Nestle",
+              "span": {
+                "offset": 265,
+                "length": 6
+              },
+              "confidence": 0.991,
+              "source": "D(1,4.5883,1.9958,5.0162,1.9953,5.0167,2.1708,4.5889,2.1725)"
+            },
+            {
+              "content": "3.2",
+              "span": {
+                "offset": 272,
+                "length": 3
+              },
+              "confidence": 0.976,
+              "source": "D(1,5.0634,1.9952,5.273,1.995,5.2734,2.1698,5.0639,2.1706)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 275,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.2759,1.995,5.4028,1.9948,5.4032,2.1693,5.2763,2.1698)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 276,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.4028,1.9948,5.4382,1.9948,5.4386,2.1691,5.4032,2.1693)"
+            },
+            {
+              "content": "ASML",
+              "span": {
+                "offset": 278,
+                "length": 4
+              },
+              "confidence": 0.944,
+              "source": "D(1,5.4884,1.9947,5.9193,1.9942,5.9194,2.1672,5.4887,2.1689)"
+            },
+            {
+              "content": "2.9",
+              "span": {
+                "offset": 283,
+                "length": 3
+              },
+              "confidence": 0.915,
+              "source": "D(1,5.9547,1.9942,6.1613,1.9939,6.1614,2.1663,5.9548,2.1671)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 286,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,6.1701,1.9939,6.297,1.9937,6.2971,2.1658,6.1702,2.1663)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 287,
+                "length": 1
+              },
+              "confidence": 0.987,
+              "source": "D(1,6.297,1.9937,6.3472,1.9937,6.3472,2.1656,6.2971,2.1658)"
+            },
+            {
+              "content": "Fees",
+              "span": {
+                "offset": 289,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6829,2.3051,1.025,2.3048,1.0259,2.4785,0.6839,2.4779)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 293,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.0308,2.3048,1.0656,2.3047,1.0665,2.4785,1.0317,2.4785)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 295,
+                "length": 10
+              },
+              "confidence": 0.996,
+              "source": "D(1,1.1148,2.3047,2.0076,2.3038,2.0084,2.4801,1.1158,2.4786)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 306,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.0453,2.3037,2.2569,2.3035,2.2577,2.4805,2.0461,2.4802)"
+            },
+            {
+              "content": "0.85",
+              "span": {
+                "offset": 310,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,2.3062,2.3034,2.6019,2.3031,2.6026,2.481,2.3069,2.4806)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 314,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.6019,2.3031,2.7294,2.3031,2.7301,2.4808,2.6026,2.481)"
+            },
+            {
+              "content": "p",
+              "span": {
+                "offset": 316,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.7758,2.3031,2.8541,2.303,2.8547,2.4807,2.7764,2.4808)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 317,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8657,2.303,2.8946,2.303,2.8953,2.4806,2.8663,2.4806)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 318,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.9004,2.303,2.9787,2.303,2.9793,2.4805,2.9011,2.4806)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 319,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.9845,2.303,3.0135,2.3029,3.0141,2.4804,2.9851,2.4805)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 320,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.0193,2.3029,3.0599,2.3029,3.0605,2.4803,3.0199,2.4804)"
+            },
+            {
+              "content": "Ongoing",
+              "span": {
+                "offset": 322,
+                "length": 7
+              },
+              "confidence": 0.996,
+              "source": "D(1,3.1062,2.3029,3.6802,2.3026,3.6807,2.4794,3.1068,2.4803)"
+            },
+            {
+              "content": "charges",
+              "span": {
+                "offset": 330,
+                "length": 7
+              },
+              "confidence": 0.991,
+              "source": "D(1,3.7295,2.3026,4.2744,2.3024,4.2748,2.4786,3.7299,2.4794)"
+            },
+            {
+              "content": "1.02",
+              "span": {
+                "offset": 338,
+                "length": 4
+              },
+              "confidence": 0.964,
+              "source": "D(1,4.3266,2.3023,4.6078,2.3023,4.6081,2.4777,4.327,2.4785)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 342,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.6107,2.3023,4.7382,2.3023,4.7385,2.4771,4.611,2.4777)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 343,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.7411,2.3023,4.7788,2.3023,4.7791,2.4769,4.7414,2.4771)"
+            },
+            {
+              "content": "Performance",
+              "span": {
+                "offset": 345,
+                "length": 11
+              },
+              "confidence": 0.991,
+              "source": "D(1,4.8339,2.3023,5.7093,2.3024,5.7094,2.4726,4.8342,2.4766)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 357,
+                "length": 3
+              },
+              "confidence": 0.968,
+              "source": "D(1,5.747,2.3024,5.9586,2.3024,5.9586,2.4715,5.7471,2.4724)"
+            },
+            {
+              "content": "none",
+              "span": {
+                "offset": 361,
+                "length": 4
+              },
+              "confidence": 0.978,
+              "source": "D(1,6.0049,2.3024,6.3441,2.3024,6.3441,2.4697,6.005,2.4712)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 365,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,6.3528,2.3024,6.3876,2.3024,6.3876,2.4695,6.3528,2.4696)"
+            },
+            {
+              "content": "Risk",
+              "span": {
+                "offset": 367,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,0.6804,2.607,0.9898,2.6068,0.9908,2.781,0.6814,2.7805)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 371,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.984,2.6068,1.0161,2.6068,1.017,2.781,0.9849,2.781)"
+            },
+            {
+              "content": "SRRI",
+              "span": {
+                "offset": 373,
+                "length": 4
+              },
+              "confidence": 0.776,
+              "source": "D(1,1.0686,2.6067,1.4247,2.6065,1.4256,2.7816,1.0695,2.7811)"
+            },
+            {
+              "content": "6",
+              "span": {
+                "offset": 378,
+                "length": 1
+              },
+              "confidence": 0.476,
+              "source": "D(1,1.4743,2.6064,1.5531,2.6064,1.554,2.7818,1.4752,2.7817)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 379,
+                "length": 1
+              },
+              "confidence": 0.905,
+              "source": "D(1,1.5677,2.6063,1.5969,2.6063,1.5977,2.7819,1.5686,2.7818)"
+            },
+            {
+              "content": "Past",
+              "span": {
+                "offset": 381,
+                "length": 4
+              },
+              "confidence": 0.395,
+              "source": "D(1,1.6524,2.6063,1.9559,2.606,1.9567,2.7824,1.6532,2.782)"
+            },
+            {
+              "content": "performance",
+              "span": {
+                "offset": 386,
+                "length": 11
+              },
+              "confidence": 0.977,
+              "source": "D(1,1.9968,2.606,2.852,2.6057,2.8526,2.7826,1.9975,2.7825)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 398,
+                "length": 2
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8987,2.6057,3.0009,2.6057,3.0014,2.7825,2.8993,2.7826)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 401,
+                "length": 3
+              },
+              "confidence": 0.994,
+              "source": "D(1,3.0505,2.6057,3.2635,2.6057,3.264,2.7823,3.051,2.7825)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 405,
+                "length": 1
+              },
+              "confidence": 0.986,
+              "source": "D(1,3.3015,2.6057,3.3803,2.6057,3.3808,2.7822,3.302,2.7823)"
+            },
+            {
+              "content": "reliable",
+              "span": {
+                "offset": 407,
+                "length": 8
+              },
+              "confidence": 0.988,
+              "source": "D(1,3.4299,2.6057,3.9144,2.6057,3.9148,2.7818,3.4304,2.7822)"
+            },
+            {
+              "content": "indicator",
+              "span": {
+                "offset": 416,
+                "length": 9
+              },
+              "confidence": 0.995,
+              "source": "D(1,3.9641,2.6057,4.542,2.606,4.5422,2.7802,3.9644,2.7818)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 426,
+                "length": 2
+              },
+              "confidence": 0.993,
+              "source": "D(1,4.5741,2.6061,4.7142,2.6062,4.7144,2.7797,4.5743,2.7801)"
+            },
+            {
+              "content": "future",
+              "span": {
+                "offset": 429,
+                "length": 6
+              },
+              "confidence": 0.968,
+              "source": "D(1,4.7463,2.6062,5.1374,2.6064,5.1375,2.7785,4.7465,2.7796)"
+            },
+            {
+              "content": "results",
+              "span": {
+                "offset": 436,
+                "length": 7
+              },
+              "confidence": 0.986,
+              "source": "D(1,5.187,2.6065,5.6307,2.6068,5.6307,2.777,5.1871,2.7783)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 443,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.6365,2.6068,5.6774,2.6068,5.6774,2.7769,5.6365,2.777)"
+            },
+            {
+              "content": "NAV",
+              "span": {
+                "offset": 446,
+                "length": 3
+              },
+              "confidence": 0.979,
+              "source": "D(1,0.6804,2.9094,1.0069,2.9097,1.0074,3.09,0.6809,3.0902)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 450,
+                "length": 3
+              },
+              "confidence": 0.977,
+              "source": "D(1,1.0452,2.9098,1.2776,2.91,1.278,3.0898,1.0457,3.09)"
+            },
+            {
+              "content": "unit",
+              "span": {
+                "offset": 454,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,1.3158,2.91,1.56,2.9103,1.5604,3.0897,1.3163,3.0898)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 458,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.56,2.9103,1.5923,2.9103,1.5928,3.0896,1.5604,3.0897)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 460,
+                "length": 3
+              },
+              "confidence": 0.992,
+              "source": "D(1,1.6423,2.9104,1.9542,2.9107,1.9546,3.0894,1.6428,3.0896)"
+            },
+            {
+              "content": "142.37",
+              "span": {
+                "offset": 464,
+                "length": 6
+              },
+              "confidence": 0.952,
+              "source": "D(1,2.013,2.9107,2.4689,2.9112,2.4693,3.0891,2.0134,3.0894)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 471,
+                "length": 1
+              },
+              "confidence": 0.968,
+              "source": "D(1,2.5837,2.9113,2.6307,2.9113,2.6311,3.0889,2.584,3.089)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 473,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.7572,2.9112,3.0926,2.9109,3.0929,3.088,2.7576,3.0887)"
+            },
+            {
+              "content": "size",
+              "span": {
+                "offset": 478,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,3.1485,2.9108,3.4132,2.9106,3.4135,3.0873,3.1488,3.0879)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 482,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,3.4191,2.9106,3.4544,2.9106,3.4547,3.0873,3.4194,3.0873)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 484,
+                "length": 3
+              },
+              "confidence": 0.967,
+              "source": "D(1,3.5132,2.9105,3.828,2.9102,3.8282,3.0865,3.5135,3.0871)"
+            },
+            {
+              "content": "1.84bn",
+              "span": {
+                "offset": 488,
+                "length": 6
+              },
+              "confidence": 0.898,
+              "source": "D(1,3.8898,2.9102,4.3487,2.9098,4.3488,3.0854,3.89,3.0864)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 495,
+                "length": 1
+              },
+              "confidence": 0.98,
+              "source": "D(1,4.4663,2.9097,4.5105,2.9096,4.5106,3.0851,4.4665,3.0852)"
+            },
+            {
+              "content": "Inception",
+              "span": {
+                "offset": 497,
+                "length": 9
+              },
+              "confidence": 0.92,
+              "source": "D(1,4.6399,2.9092,5.2429,2.9075,5.243,3.0825,4.64,3.0846)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 506,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.2547,2.9075,5.2871,2.9074,5.2871,3.0824,5.2548,3.0825)"
+            },
+            {
+              "content": "14",
+              "span": {
+                "offset": 508,
+                "length": 2
+              },
+              "confidence": 0.968,
+              "source": "D(1,5.3459,2.9072,5.5047,2.9068,5.5048,3.0816,5.346,3.0822)"
+            },
+            {
+              "content": "March",
+              "span": {
+                "offset": 511,
+                "length": 5
+              },
+              "confidence": 0.699,
+              "source": "D(1,5.5489,2.9067,5.9666,2.9055,5.9666,3.08,5.5489,3.0815)"
+            },
+            {
+              "content": "2014",
+              "span": {
+                "offset": 517,
+                "length": 4
+              },
+              "confidence": 0.682,
+              "source": "D(1,6.0078,2.9054,6.3755,2.9044,6.3755,3.0786,6.0078,3.0799)"
+            },
+            {
+              "content": "Objective",
+              "span": {
+                "offset": 522,
+                "length": 9
+              },
+              "confidence": 0.98,
+              "source": "D(1,0.6829,3.2242,1.3197,3.2234,1.3206,3.4008,0.6839,3.3995)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 531,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.3286,3.2234,1.3612,3.2234,1.3621,3.4008,1.3295,3.4008)"
+            },
+            {
+              "content": "long",
+              "span": {
+                "offset": 533,
+                "length": 4
+              },
+              "confidence": 0.945,
+              "source": "D(1,1.4115,3.2233,1.6869,3.223,1.6878,3.4015,1.4124,3.4009)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 537,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.6958,3.223,1.7403,3.2229,1.7411,3.4016,1.6967,3.4015)"
+            },
+            {
+              "content": "term",
+              "span": {
+                "offset": 538,
+                "length": 4
+              },
+              "confidence": 0.986,
+              "source": "D(1,1.7432,3.2229,2.0453,3.2226,2.0461,3.4022,1.744,3.4016)"
+            },
+            {
+              "content": "capital",
+              "span": {
+                "offset": 543,
+                "length": 7
+              },
+              "confidence": 0.984,
+              "source": "D(1,2.0986,3.2225,2.5281,3.222,2.5287,3.4031,2.0994,3.4023)"
+            },
+            {
+              "content": "growth",
+              "span": {
+                "offset": 551,
+                "length": 6
+              },
+              "confidence": 0.983,
+              "source": "D(1,2.5755,3.222,3.0375,3.2218,3.0381,3.4028,2.5761,3.4031)"
+            },
+            {
+              "content": "through",
+              "span": {
+                "offset": 558,
+                "length": 7
+              },
+              "confidence": 0.943,
+              "source": "D(1,3.076,3.2218,3.5943,3.2215,3.5948,3.4024,3.0766,3.4028)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 566,
+                "length": 1
+              },
+              "confidence": 0.963,
+              "source": "D(1,3.6328,3.2215,3.7127,3.2215,3.7132,3.4023,3.6333,3.4023)"
+            },
+            {
+              "content": "diversified",
+              "span": {
+                "offset": 568,
+                "length": 11
+              },
+              "confidence": 0.881,
+              "source": "D(1,3.7631,3.2215,4.4502,3.2212,4.4505,3.4016,3.7635,3.4022)"
+            },
+            {
+              "content": "portfolio",
+              "span": {
+                "offset": 580,
+                "length": 9
+              },
+              "confidence": 0.878,
+              "source": "D(1,4.5005,3.2212,5.0396,3.2215,5.0398,3.3996,4.5009,3.4015)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 590,
+                "length": 2
+              },
+              "confidence": 0.94,
+              "source": "D(1,5.0781,3.2215,5.2173,3.2215,5.2175,3.399,5.0783,3.3995)"
+            },
+            {
+              "content": "global",
+              "span": {
+                "offset": 593,
+                "length": 6
+              },
+              "confidence": 0.715,
+              "source": "D(1,5.2469,3.2215,5.6556,3.2217,5.6557,3.3975,5.2471,3.3989)"
+            },
+            {
+              "content": "equities",
+              "span": {
+                "offset": 600,
+                "length": 8
+              },
+              "confidence": 0.812,
+              "source": "D(1,5.6971,3.2217,6.2272,3.2219,6.2272,3.3955,5.6972,3.3973)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 608,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,6.2302,3.2219,6.2746,3.2219,6.2746,3.3954,6.2302,3.3955)"
+            },
+            {
+              "content": "Top",
+              "span": {
+                "offset": 610,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6809,3.5269,0.9458,3.5261,0.9472,3.7074,0.6824,3.708)"
+            },
+            {
+              "content": "holdings",
+              "span": {
+                "offset": 614,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.9964,3.526,1.5559,3.5243,1.5572,3.7061,0.9978,3.7073)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 622,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5648,3.5243,1.6005,3.5242,1.6018,3.706,1.5661,3.706)"
+            },
+            {
+              "content": "Microsoft",
+              "span": {
+                "offset": 624,
+                "length": 9
+              },
+              "confidence": 0.99,
+              "source": "D(1,1.6481,3.524,2.2701,3.5221,2.2712,3.7045,1.6494,3.7059)"
+            },
+            {
+              "content": "5.8",
+              "span": {
+                "offset": 634,
+                "length": 3
+              },
+              "confidence": 0.974,
+              "source": "D(1,2.3028,3.522,2.5112,3.5214,2.5122,3.7039,2.3039,3.7044)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 637,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5171,3.5214,2.6361,3.5211,2.6372,3.7035,2.5181,3.7039)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 638,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.6451,3.5211,2.6808,3.521,2.6818,3.7033,2.6461,3.7035)"
+            },
+            {
+              "content": "Apple",
+              "span": {
+                "offset": 640,
+                "length": 5
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.7225,3.5209,3.1242,3.5201,3.1251,3.7016,2.7234,3.7032)"
+            },
+            {
+              "content": "5.1",
+              "span": {
+                "offset": 646,
+                "length": 3
+              },
+              "confidence": 0.964,
+              "source": "D(1,3.1689,3.52,3.3623,3.5196,3.3631,3.7006,3.1697,3.7014)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 649,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.3831,3.5195,3.5081,3.5192,3.5089,3.7,3.3839,3.7005)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 650,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.5141,3.5192,3.5468,3.5192,3.5476,3.6999,3.5148,3.7)"
+            },
+            {
+              "content": "NVIDIA",
+              "span": {
+                "offset": 652,
+                "length": 6
+              },
+              "confidence": 0.944,
+              "source": "D(1,3.6033,3.519,4.1122,3.518,4.1129,3.6976,3.6041,3.6997)"
+            },
+            {
+              "content": "4.7",
+              "span": {
+                "offset": 659,
+                "length": 3
+              },
+              "confidence": 0.913,
+              "source": "D(1,4.139,3.5179,4.3652,3.5174,4.3657,3.6966,4.1396,3.6975)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 662,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.3622,3.5174,4.4872,3.5172,4.4877,3.6961,4.3628,3.6966)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 663,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.4932,3.5172,4.5289,3.5172,4.5294,3.6959,4.4937,3.6961)"
+            },
+            {
+              "content": "Nestle",
+              "span": {
+                "offset": 665,
+                "length": 6
+              },
+              "confidence": 0.99,
+              "source": "D(1,4.5884,3.5171,5.014,3.5166,5.0143,3.6931,4.5889,3.6955)"
+            },
+            {
+              "content": "3.2",
+              "span": {
+                "offset": 672,
+                "length": 3
+              },
+              "confidence": 0.961,
+              "source": "D(1,5.0586,3.5165,5.2699,3.5163,5.2702,3.6916,5.059,3.6928)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 675,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.2788,3.5163,5.4038,3.5161,5.4041,3.6909,5.2791,3.6916)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 676,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.4068,3.5161,5.4425,3.5161,5.4428,3.6906,5.4071,3.6908)"
+            },
+            {
+              "content": "ASML",
+              "span": {
+                "offset": 678,
+                "length": 4
+              },
+              "confidence": 0.926,
+              "source": "D(1,5.4901,3.516,5.9187,3.5155,5.9188,3.6879,5.4904,3.6904)"
+            },
+            {
+              "content": "2.9",
+              "span": {
+                "offset": 683,
+                "length": 3
+              },
+              "confidence": 0.878,
+              "source": "D(1,5.9514,3.5154,6.1627,3.5152,6.1628,3.6865,5.9515,3.6877)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 686,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,6.1687,3.5152,6.2996,3.515,6.2996,3.6858,6.1687,3.6865)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 687,
+                "length": 1
+              },
+              "confidence": 0.97,
+              "source": "D(1,6.2996,3.515,6.3472,3.515,6.3472,3.6855,6.2996,3.6858)"
+            },
+            {
+              "content": "Fees",
+              "span": {
+                "offset": 689,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6814,3.8323,1.0206,3.8315,1.0216,4.0074,0.6824,4.0071)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 693,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.0295,3.8315,1.0619,3.8314,1.0629,4.0075,1.0304,4.0074)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 695,
+                "length": 10
+              },
+              "confidence": 0.996,
+              "source": "D(1,1.115,3.8313,2.0057,3.8292,2.0065,4.0085,1.1159,4.0075)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 706,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.0411,3.8292,2.2535,3.8287,2.2542,4.0088,2.0419,4.0085)"
+            },
+            {
+              "content": "0.85",
+              "span": {
+                "offset": 710,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,2.3036,3.8285,2.5986,3.8279,2.5993,4.0091,2.3044,4.0088)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 714,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5986,3.8279,2.7313,3.8277,2.732,4.0089,2.5993,4.0091)"
+            },
+            {
+              "content": "p",
+              "span": {
+                "offset": 716,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.7755,3.8277,2.8581,3.8276,2.8588,4.0086,2.7762,4.0088)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 717,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.864,3.8276,2.8935,3.8275,2.8942,4.0086,2.8647,4.0086)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 718,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,2.8994,3.8275,2.9791,3.8274,2.9797,4.0084,2.9001,4.0086)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 719,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.985,3.8274,3.0174,3.8274,3.018,4.0083,2.9856,4.0084)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 720,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.0233,3.8274,3.0616,3.8274,3.0622,4.0083,3.0239,4.0083)"
+            },
+            {
+              "content": "Ongoing",
+              "span": {
+                "offset": 722,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,3.1088,3.8273,3.681,3.8267,3.6815,4.0071,3.1094,4.0082)"
+            },
+            {
+              "content": "charges",
+              "span": {
+                "offset": 730,
+                "length": 7
+              },
+              "confidence": 0.991,
+              "source": "D(1,3.7282,3.8266,4.2739,3.826,4.2743,4.006,3.7287,4.007)"
+            },
+            {
+              "content": "1.02",
+              "span": {
+                "offset": 738,
+                "length": 4
+              },
+              "confidence": 0.963,
+              "source": "D(1,4.3299,3.826,4.6072,3.8258,4.6075,4.0051,4.3303,4.0059)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 742,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.6101,3.8258,4.734,3.8258,4.7343,4.0044,4.6104,4.005)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 743,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.7428,3.8258,4.7812,3.8258,4.7815,4.0042,4.7432,4.0044)"
+            },
+            {
+              "content": "Performance",
+              "span": {
+                "offset": 745,
+                "length": 11
+              },
+              "confidence": 0.992,
+              "source": "D(1,4.8372,3.8258,5.7103,3.826,5.7104,3.9998,4.8375,4.004)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 757,
+                "length": 3
+              },
+              "confidence": 0.988,
+              "source": "D(1,5.7486,3.826,5.961,3.826,5.9611,3.9986,5.7487,3.9996)"
+            },
+            {
+              "content": "none",
+              "span": {
+                "offset": 761,
+                "length": 4
+              },
+              "confidence": 0.981,
+              "source": "D(1,6.0082,3.826,6.3444,3.826,6.3444,3.9967,6.0082,3.9983)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 765,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,6.3533,3.826,6.3916,3.826,6.3916,3.9965,6.3533,3.9967)"
+            },
+            {
+              "content": "Risk",
+              "span": {
+                "offset": 767,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,0.6829,4.1348,0.9891,4.1349,0.9901,4.3058,0.6839,4.3052)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 771,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.9805,4.1349,1.012,4.1349,1.013,4.3058,0.9815,4.3058)"
+            },
+            {
+              "content": "SRRI",
+              "span": {
+                "offset": 773,
+                "length": 4
+              },
+              "confidence": 0.716,
+              "source": "D(1,1.0692,4.1349,1.4212,4.1349,1.4221,4.3066,1.0702,4.3059)"
+            },
+            {
+              "content": "6",
+              "span": {
+                "offset": 778,
+                "length": 1
+              },
+              "confidence": 0.553,
+              "source": "D(1,1.4756,4.1349,1.5557,4.135,1.5565,4.3069,1.4764,4.3067)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 779,
+                "length": 1
+              },
+              "confidence": 0.908,
+              "source": "D(1,1.5643,4.135,1.5929,4.135,1.5937,4.307,1.5651,4.3069)"
+            },
+            {
+              "content": "Past",
+              "span": {
+                "offset": 781,
+                "length": 4
+              },
+              "confidence": 0.435,
+              "source": "D(1,1.6501,4.135,1.9534,4.135,1.9542,4.3077,1.6509,4.3071)"
+            },
+            {
+              "content": "performance",
+              "span": {
+                "offset": 786,
+                "length": 11
+              },
+              "confidence": 0.968,
+              "source": "D(1,1.9935,4.135,2.8519,4.135,2.8525,4.308,1.9942,4.3077)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 798,
+                "length": 2
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.9006,4.135,2.9979,4.135,2.9984,4.3079,2.9011,4.308)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 801,
+                "length": 3
+              },
+              "confidence": 0.985,
+              "source": "D(1,3.0494,4.135,3.264,4.1349,3.2645,4.3077,3.0499,4.3079)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 805,
+                "length": 1
+              },
+              "confidence": 0.971,
+              "source": "D(1,3.3041,4.1349,3.3813,4.1349,3.3818,4.3077,3.3045,4.3077)"
+            },
+            {
+              "content": "reliable",
+              "span": {
+                "offset": 807,
+                "length": 8
+              },
+              "confidence": 0.98,
+              "source": "D(1,3.43,4.1349,3.9164,4.1348,3.9168,4.3073,3.4304,4.3076)"
+            },
+            {
+              "content": "indicator",
+              "span": {
+                "offset": 816,
+                "length": 9
+              },
+              "confidence": 0.993,
+              "source": "D(1,3.9679,4.1348,4.5402,4.1345,4.5404,4.3054,3.9683,4.3072)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 826,
+                "length": 2
+              },
+              "confidence": 0.982,
+              "source": "D(1,4.5745,4.1345,4.7148,4.1344,4.715,4.3048,4.5748,4.3052)"
+            },
+            {
+              "content": "future",
+              "span": {
+                "offset": 829,
+                "length": 6
+              },
+              "confidence": 0.945,
+              "source": "D(1,4.7462,4.1344,5.1354,4.1342,5.1355,4.3033,4.7464,4.3047)"
+            },
+            {
+              "content": "results",
+              "span": {
+                "offset": 836,
+                "length": 7
+              },
+              "confidence": 0.953,
+              "source": "D(1,5.1869,4.1342,5.6304,4.134,5.6304,4.3016,5.187,4.3031)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 843,
+                "length": 1
+              },
+              "confidence": 0.992,
+              "source": "D(1,5.6362,4.134,5.6734,4.134,5.6734,4.3015,5.6362,4.3016)"
+            },
+            {
+              "content": "NAV",
+              "span": {
+                "offset": 846,
+                "length": 3
+              },
+              "confidence": 0.976,
+              "source": "D(1,0.6804,4.4382,0.9999,4.4387,1.0004,4.6227,0.6809,4.6225)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 850,
+                "length": 3
+              },
+              "confidence": 0.964,
+              "source": "D(1,1.0391,4.4387,1.2682,4.4391,1.2687,4.6229,1.0396,4.6228)"
+            },
+            {
+              "content": "unit",
+              "span": {
+                "offset": 854,
+                "length": 4
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.3074,4.4391,1.5576,4.4395,1.558,4.6231,1.3078,4.6229)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 858,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5576,4.4395,1.5877,4.4395,1.5882,4.6231,1.558,4.6231)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 860,
+                "length": 3
+              },
+              "confidence": 0.992,
+              "source": "D(1,1.642,4.4396,1.9494,4.4401,1.9498,4.6233,1.6424,4.6231)"
+            },
+            {
+              "content": "142.37",
+              "span": {
+                "offset": 864,
+                "length": 6
+              },
+              "confidence": 0.947,
+              "source": "D(1,2.0127,4.4401,2.4679,4.4408,2.4683,4.6236,2.0131,4.6233)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 871,
+                "length": 1
+              },
+              "confidence": 0.97,
+              "source": "D(1,2.5824,4.441,2.6307,4.441,2.631,4.6236,2.5828,4.6237)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 873,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.7573,4.441,3.0979,4.4411,3.0982,4.623,2.7576,4.6235)"
+            },
+            {
+              "content": "size",
+              "span": {
+                "offset": 878,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,3.1552,4.4411,3.4174,4.4412,3.4177,4.6226,3.1555,4.623)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 882,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,3.4234,4.4412,3.4566,4.4412,3.4569,4.6226,3.4237,4.6226)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 884,
+                "length": 3
+              },
+              "confidence": 0.96,
+              "source": "D(1,3.5139,4.4412,3.8243,4.4413,3.8246,4.6221,3.5141,4.6225)"
+            },
+            {
+              "content": "1.84bn",
+              "span": {
+                "offset": 888,
+                "length": 6
+              },
+              "confidence": 0.878,
+              "source": "D(1,3.8816,4.4413,4.3338,4.4414,4.3339,4.6215,3.8818,4.6221)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 895,
+                "length": 1
+              },
+              "confidence": 0.97,
+              "source": "D(1,4.4604,4.4414,4.5086,4.4414,4.5088,4.6212,4.4605,4.6214)"
+            },
+            {
+              "content": "Inception",
+              "span": {
+                "offset": 897,
+                "length": 9
+              },
+              "confidence": 0.91,
+              "source": "D(1,4.6322,4.4412,5.2471,4.4406,5.2472,4.619,4.6323,4.6209)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 906,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.2561,4.4406,5.2893,4.4406,5.2894,4.6189,5.2562,4.619)"
+            },
+            {
+              "content": "14",
+              "span": {
+                "offset": 908,
+                "length": 2
+              },
+              "confidence": 0.928,
+              "source": "D(1,5.3466,4.4405,5.5033,4.4404,5.5034,4.6182,5.3467,4.6187)"
+            },
+            {
+              "content": "March",
+              "span": {
+                "offset": 911,
+                "length": 5
+              },
+              "confidence": 0.674,
+              "source": "D(1,5.5515,4.4403,5.9735,4.4399,5.9736,4.6168,5.5516,4.618)"
+            },
+            {
+              "content": "2014",
+              "span": {
+                "offset": 917,
+                "length": 4
+              },
+              "confidence": 0.716,
+              "source": "D(1,6.0157,4.4398,6.3714,4.4395,6.3714,4.6155,6.0158,4.6166)"
+            },
+            {
+              "content": "Objective",
+              "span": {
+                "offset": 922,
+                "length": 9
+              },
+              "confidence": 0.983,
+              "source": "D(1,0.6829,4.7467,1.3251,4.7451,1.326,4.9257,0.6839,4.9264)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 931,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.3371,4.7451,1.367,4.745,1.3678,4.9256,1.338,4.9257)"
+            },
+            {
+              "content": "long",
+              "span": {
+                "offset": 933,
+                "length": 4
+              },
+              "confidence": 0.968,
+              "source": "D(1,1.4177,4.7449,1.6866,4.7442,1.6874,4.9253,1.4186,4.9256)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 937,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.6896,4.7442,1.7344,4.7441,1.7352,4.9252,1.6904,4.9253)"
+            },
+            {
+              "content": "term",
+              "span": {
+                "offset": 938,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,1.7373,4.7441,2.039,4.7434,2.0398,4.9249,1.7382,4.9252)"
+            },
+            {
+              "content": "capital",
+              "span": {
+                "offset": 943,
+                "length": 7
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.0898,4.7432,2.5319,4.7421,2.5326,4.9243,2.0906,4.9248)"
+            },
+            {
+              "content": "growth",
+              "span": {
+                "offset": 951,
+                "length": 6
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.5797,4.7421,3.0427,4.7421,3.0432,4.9237,2.5803,4.9242)"
+            },
+            {
+              "content": "through",
+              "span": {
+                "offset": 958,
+                "length": 7
+              },
+              "confidence": 0.939,
+              "source": "D(1,3.0785,4.7421,3.5953,4.742,3.5957,4.923,3.0791,4.9236)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 966,
+                "length": 1
+              },
+              "confidence": 0.961,
+              "source": "D(1,3.6311,4.742,3.7117,4.742,3.7122,4.9229,3.6316,4.923)"
+            },
+            {
+              "content": "diversified",
+              "span": {
+                "offset": 968,
+                "length": 11
+              },
+              "confidence": 0.872,
+              "source": "D(1,3.7566,4.742,4.4465,4.742,4.4469,4.922,3.757,4.9228)"
+            },
+            {
+              "content": "portfolio",
+              "span": {
+                "offset": 980,
+                "length": 9
+              },
+              "confidence": 0.889,
+              "source": "D(1,4.4973,4.7421,5.0469,4.7433,5.0472,4.9213,4.4976,4.922)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 990,
+                "length": 2
+              },
+              "confidence": 0.957,
+              "source": "D(1,5.0828,4.7434,5.2232,4.7437,5.2234,4.9211,5.083,4.9213)"
+            },
+            {
+              "content": "global",
+              "span": {
+                "offset": 993,
+                "length": 6
+              },
+              "confidence": 0.757,
+              "source": "D(1,5.2471,4.7437,5.6473,4.7446,5.6474,4.9206,5.2472,4.9211)"
+            },
+            {
+              "content": "equities",
+              "span": {
+                "offset": 1000,
+                "length": 8
+              },
+              "confidence": 0.826,
+              "source": "D(1,5.6891,4.7447,6.2268,4.7459,6.2268,4.92,5.6892,4.9206)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1008,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,6.2298,4.7459,6.2746,4.746,6.2746,4.9199,6.2298,4.9199)"
+            },
+            {
+              "content": "Top",
+              "span": {
+                "offset": 1010,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6814,5.0593,0.9448,5.058,0.9458,5.2354,0.6824,5.2365)"
+            },
+            {
+              "content": "holdings",
+              "span": {
+                "offset": 1014,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.9946,5.0577,1.5594,5.0549,1.5602,5.2327,0.9955,5.2351)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1022,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5682,5.0548,1.6004,5.0547,1.6012,5.2326,1.569,5.2327)"
+            },
+            {
+              "content": "Microsoft",
+              "span": {
+                "offset": 1024,
+                "length": 9
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.6472,5.0544,2.2617,5.0514,2.2625,5.2297,1.648,5.2324)"
+            },
+            {
+              "content": "5.8",
+              "span": {
+                "offset": 1034,
+                "length": 3
+              },
+              "confidence": 0.989,
+              "source": "D(1,2.2998,5.0512,2.5164,5.0501,2.517,5.2287,2.3005,5.2296)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1037,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5222,5.0501,2.6451,5.0496,2.6458,5.2281,2.5229,5.2286)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1038,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.6481,5.0496,2.6861,5.0495,2.6868,5.228,2.6487,5.2281)"
+            },
+            {
+              "content": "Apple",
+              "span": {
+                "offset": 1040,
+                "length": 5
+              },
+              "confidence": 0.988,
+              "source": "D(1,2.7271,5.0494,3.1251,5.0485,3.1257,5.2263,2.7277,5.2278)"
+            },
+            {
+              "content": "5.1",
+              "span": {
+                "offset": 1046,
+                "length": 3
+              },
+              "confidence": 0.96,
+              "source": "D(1,3.1661,5.0484,3.3592,5.0479,3.3597,5.2254,3.1666,5.2261)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1049,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.3826,5.0479,3.5085,5.0476,3.509,5.2248,3.3832,5.2253)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1050,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.5114,5.0475,3.5465,5.0475,3.547,5.2247,3.5119,5.2248)"
+            },
+            {
+              "content": "NVIDIA",
+              "span": {
+                "offset": 1052,
+                "length": 6
+              },
+              "confidence": 0.95,
+              "source": "D(1,3.605,5.0473,4.1143,5.0461,4.1147,5.2225,3.6055,5.2245)"
+            },
+            {
+              "content": "4.7",
+              "span": {
+                "offset": 1059,
+                "length": 3
+              },
+              "confidence": 0.938,
+              "source": "D(1,4.1464,5.046,4.3659,5.0455,4.3663,5.2216,4.1468,5.2224)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1062,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.363,5.0455,4.4889,5.0453,4.4892,5.2211,4.3634,5.2216)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1063,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.4918,5.0453,4.5298,5.0453,4.5302,5.221,4.4921,5.2211)"
+            },
+            {
+              "content": "Nestle",
+              "span": {
+                "offset": 1065,
+                "length": 6
+              },
+              "confidence": 0.989,
+              "source": "D(1,4.5884,5.0453,5.0186,5.0454,5.0188,5.2193,4.5887,5.2208)"
+            },
+            {
+              "content": "3.2",
+              "span": {
+                "offset": 1072,
+                "length": 3
+              },
+              "confidence": 0.972,
+              "source": "D(1,5.0625,5.0454,5.2732,5.0454,5.2734,5.2184,5.0627,5.2192)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1075,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.279,5.0454,5.4049,5.0454,5.405,5.218,5.2792,5.2184)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1076,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,5.4078,5.0454,5.4429,5.0454,5.4431,5.2179,5.408,5.218)"
+            },
+            {
+              "content": "ASML",
+              "span": {
+                "offset": 1078,
+                "length": 4
+              },
+              "confidence": 0.942,
+              "source": "D(1,5.4897,5.0454,5.9199,5.0455,5.92,5.2163,5.4899,5.2177)"
+            },
+            {
+              "content": "2.9",
+              "span": {
+                "offset": 1083,
+                "length": 3
+              },
+              "confidence": 0.914,
+              "source": "D(1,5.9551,5.0455,6.1599,5.0456,6.1599,5.2154,5.9551,5.2161)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1086,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,6.1687,5.0456,6.2975,5.0456,6.2975,5.215,6.1687,5.2154)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1087,
+                "length": 1
+              },
+              "confidence": 0.981,
+              "source": "D(1,6.2975,5.0456,6.3472,5.0456,6.3472,5.2148,6.2975,5.215)"
+            },
+            {
+              "content": "Fees",
+              "span": {
+                "offset": 1089,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6829,5.3559,1.0222,5.3551,1.0231,5.5299,0.6839,5.5295)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1093,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.028,5.3551,1.0631,5.355,1.0641,5.5299,1.029,5.5299)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 1095,
+                "length": 10
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.1099,5.3549,2.0077,5.3527,2.0085,5.5309,1.1109,5.5299)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 1106,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.0428,5.3526,2.2534,5.3521,2.2541,5.5312,2.0436,5.531)"
+            },
+            {
+              "content": "0.85",
+              "span": {
+                "offset": 1110,
+                "length": 4
+              },
+              "confidence": 0.99,
+              "source": "D(1,2.3031,5.352,2.5985,5.3513,2.5992,5.5316,2.3039,5.5313)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1114,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.6014,5.3513,2.7301,5.3513,2.7308,5.5313,2.6021,5.5315)"
+            },
+            {
+              "content": "p",
+              "span": {
+                "offset": 1116,
+                "length": 1
+              },
+              "confidence": 0.992,
+              "source": "D(1,2.774,5.3512,2.8559,5.3512,2.8565,5.5311,2.7746,5.5313)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1117,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8617,5.3512,2.891,5.3512,2.8916,5.5311,2.8623,5.5311)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 1118,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.8997,5.3512,2.9787,5.3511,2.9793,5.5309,2.9004,5.5311)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1119,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.9845,5.3511,3.0167,5.3511,3.0173,5.5309,2.9851,5.5309)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 1120,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,3.0226,5.3511,3.0606,5.3511,3.0612,5.5308,3.0232,5.5309)"
+            },
+            {
+              "content": "Ongoing",
+              "span": {
+                "offset": 1122,
+                "length": 7
+              },
+              "confidence": 0.994,
+              "source": "D(1,3.1074,5.351,3.6835,5.3507,3.684,5.5298,3.108,5.5307)"
+            },
+            {
+              "content": "charges",
+              "span": {
+                "offset": 1130,
+                "length": 7
+              },
+              "confidence": 0.988,
+              "source": "D(1,3.7303,5.3507,4.2713,5.3504,4.2717,5.5289,3.7308,5.5297)"
+            },
+            {
+              "content": "1.02",
+              "span": {
+                "offset": 1138,
+                "length": 4
+              },
+              "confidence": 0.963,
+              "source": "D(1,4.3298,5.3504,4.6106,5.3504,4.6109,5.528,4.3302,5.5288)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1142,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.6135,5.3505,4.7363,5.3506,4.7366,5.5275,4.6138,5.528)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 1143,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,4.7392,5.3506,4.7773,5.3507,4.7776,5.5273,4.7396,5.5275)"
+            },
+            {
+              "content": "Performance",
+              "span": {
+                "offset": 1145,
+                "length": 11
+              },
+              "confidence": 0.991,
+              "source": "D(1,4.8358,5.3507,5.7073,5.3519,5.7074,5.5233,4.836,5.527)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 1157,
+                "length": 3
+              },
+              "confidence": 0.987,
+              "source": "D(1,5.7453,5.3519,5.9588,5.3522,5.9589,5.5222,5.7454,5.5231)"
+            },
+            {
+              "content": "none",
+              "span": {
+                "offset": 1161,
+                "length": 4
+              },
+              "confidence": 0.985,
+              "source": "D(1,6.0085,5.3523,6.3448,5.3527,6.3448,5.5206,6.0086,5.522)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1165,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,6.3536,5.3527,6.3916,5.3528,6.3916,5.5204,6.3536,5.5205)"
+            },
+            {
+              "content": "Risk",
+              "span": {
+                "offset": 1167,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,0.6829,5.6624,0.9894,5.6623,0.9904,5.8345,0.6839,5.834)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1171,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.9837,5.6623,1.0121,5.6623,1.0131,5.8345,0.9847,5.8345)"
+            },
+            {
+              "content": "SRRI",
+              "span": {
+                "offset": 1173,
+                "length": 4
+              },
+              "confidence": 0.728,
+              "source": "D(1,1.0689,5.6623,1.4208,5.6622,1.4216,5.8351,1.0698,5.8346)"
+            },
+            {
+              "content": "6",
+              "span": {
+                "offset": 1178,
+                "length": 1
+              },
+              "confidence": 0.522,
+              "source": "D(1,1.4718,5.6621,1.5513,5.6621,1.5521,5.8352,1.4727,5.8351)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1179,
+                "length": 1
+              },
+              "confidence": 0.896,
+              "source": "D(1,1.5655,5.6621,1.5939,5.6621,1.5947,5.8353,1.5663,5.8353)"
+            },
+            {
+              "content": "Past",
+              "span": {
+                "offset": 1181,
+                "length": 4
+              },
+              "confidence": 0.366,
+              "source": "D(1,1.6506,5.6621,1.9543,5.662,1.955,5.8358,1.6514,5.8354)"
+            },
+            {
+              "content": "performance",
+              "span": {
+                "offset": 1186,
+                "length": 11
+              },
+              "confidence": 0.968,
+              "source": "D(1,1.9997,5.662,2.8481,5.662,2.8487,5.8358,2.0004,5.8359)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 1198,
+                "length": 2
+              },
+              "confidence": 0.996,
+              "source": "D(1,2.8992,5.662,2.9957,5.662,2.9963,5.8356,2.8998,5.8357)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 1201,
+                "length": 3
+              },
+              "confidence": 0.979,
+              "source": "D(1,3.0468,5.662,3.2625,5.6621,3.263,5.8353,3.0473,5.8356)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 1205,
+                "length": 1
+              },
+              "confidence": 0.971,
+              "source": "D(1,3.305,5.6621,3.3816,5.6621,3.3821,5.8352,3.3055,5.8353)"
+            },
+            {
+              "content": "reliable",
+              "span": {
+                "offset": 1207,
+                "length": 8
+              },
+              "confidence": 0.976,
+              "source": "D(1,3.4271,5.6621,3.9208,5.6622,3.9212,5.8346,3.4275,5.8352)"
+            },
+            {
+              "content": "indicator",
+              "span": {
+                "offset": 1216,
+                "length": 9
+              },
+              "confidence": 0.994,
+              "source": "D(1,3.9634,5.6622,4.5423,5.6627,4.5425,5.8327,3.9637,5.8346)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1226,
+                "length": 2
+              },
+              "confidence": 0.99,
+              "source": "D(1,4.582,5.6627,4.7211,5.6628,4.7213,5.832,4.5822,5.8325)"
+            },
+            {
+              "content": "future",
+              "span": {
+                "offset": 1229,
+                "length": 6
+              },
+              "confidence": 0.975,
+              "source": "D(1,4.7438,5.6628,5.1382,5.6631,5.1383,5.8305,4.744,5.8319)"
+            },
+            {
+              "content": "results",
+              "span": {
+                "offset": 1236,
+                "length": 7
+              },
+              "confidence": 0.985,
+              "source": "D(1,5.1865,5.6632,5.6348,5.6635,5.6348,5.8288,5.1866,5.8304)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1243,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.6377,5.6635,5.6774,5.6635,5.6774,5.8286,5.6377,5.8288)"
+            },
+            {
+              "content": "NAV",
+              "span": {
+                "offset": 1246,
+                "length": 3
+              },
+              "confidence": 0.99,
+              "source": "D(1,0.688,5.9543,1.0086,5.9639,1.0085,6.1634,0.688,6.154)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 1250,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,1.0439,5.9649,1.2717,5.9658,1.2715,6.1623,1.0438,6.1645)"
+            },
+            {
+              "content": "unit",
+              "span": {
+                "offset": 1254,
+                "length": 4
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.3166,5.9658,1.5572,5.964,1.5568,6.158,1.3164,6.1616)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1258,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5604,5.964,1.5956,5.9635,1.5953,6.1574,1.5601,6.1579)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 1260,
+                "length": 3
+              },
+              "confidence": 0.994,
+              "source": "D(1,1.6438,5.9627,1.9549,5.958,1.9545,6.152,1.6434,6.1567)"
+            },
+            {
+              "content": "142.37",
+              "span": {
+                "offset": 1264,
+                "length": 6
+              },
+              "confidence": 0.983,
+              "source": "D(1,2.0094,5.9571,2.4774,5.9399,2.4768,6.134,2.009,6.1511)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 1271,
+                "length": 1
+              },
+              "confidence": 0.524,
+              "source": "D(1,2.5826,5.9292,2.6492,5.9191,2.6486,6.1137,2.582,6.1239)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 1273,
+                "length": 4
+              },
+              "confidence": 0.316,
+              "source": "D(1,2.7634,5.9018,3.1211,5.8432,3.1187,6.0295,2.7627,6.0964)"
+            },
+            {
+              "content": "reliable",
+              "span": {
+                "offset": 1278,
+                "length": 8
+              },
+              "confidence": 0.04,
+              "source": "D(1,3.396,5.7821,3.9354,5.6833,3.9362,5.8757,3.3938,5.9668)"
+            },
+            {
+              "content": "indicator",
+              "span": {
+                "offset": 1287,
+                "length": 9
+              },
+              "confidence": 0.908,
+              "source": "D(1,3.9641,5.6808,4.5444,5.668,4.545,5.8574,3.9649,5.8727)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1297,
+                "length": 2
+              },
+              "confidence": 0.991,
+              "source": "D(1,4.5829,5.6683,4.7144,5.6684,4.715,5.8564,4.5835,5.8574)"
+            },
+            {
+              "content": "future",
+              "span": {
+                "offset": 1300,
+                "length": 6
+              },
+              "confidence": 0.963,
+              "source": "D(1,4.7465,5.6676,5.141,5.6616,5.1412,5.8499,4.747,5.8553)"
+            },
+            {
+              "content": "results",
+              "span": {
+                "offset": 1307,
+                "length": 7
+              },
+              "confidence": 0.98,
+              "source": "D(1,5.1859,5.662,5.6318,5.6682,5.6318,5.8574,5.1861,5.8515)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1314,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,5.6382,5.6683,5.6895,5.6692,5.6895,5.8574,5.6382,5.8574)"
+            },
+            {
+              "content": "NAV",
+              "span": {
+                "offset": 1317,
+                "length": 3
+              },
+              "confidence": 0.977,
+              "source": "D(1,0.6829,5.9694,1.0015,5.9694,1.002,6.1426,0.6834,6.1427)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 1321,
+                "length": 3
+              },
+              "confidence": 0.973,
+              "source": "D(1,1.0413,5.9694,1.2745,5.9695,1.275,6.1426,1.0418,6.1426)"
+            },
+            {
+              "content": "unit",
+              "span": {
+                "offset": 1325,
+                "length": 4
+              },
+              "confidence": 0.989,
+              "source": "D(1,1.3144,5.9695,1.5618,5.9695,1.5622,6.1425,1.3148,6.1425)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1329,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5533,5.9695,1.5874,5.9695,1.5878,6.1425,1.5537,6.1425)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 1331,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.6386,5.9695,1.9486,5.9696,1.949,6.1424,1.639,6.1425)"
+            },
+            {
+              "content": "142.37",
+              "span": {
+                "offset": 1335,
+                "length": 6
+              },
+              "confidence": 0.942,
+              "source": "D(1,2.0112,5.9696,2.4748,5.9696,2.4752,6.1423,2.0116,6.1424)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 1342,
+                "length": 1
+              },
+              "confidence": 0.657,
+              "source": "D(1,2.5744,5.9696,2.6341,5.9696,2.6344,6.1422,2.5747,6.1423)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 1344,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,2.7507,5.9695,3.1005,5.9692,3.1008,6.1413,2.751,6.142)"
+            },
+            {
+              "content": "size",
+              "span": {
+                "offset": 1349,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,3.1546,5.9692,3.4276,5.969,3.4279,6.1407,3.1549,6.1412)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1353,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,3.4305,5.969,3.4646,5.969,3.4649,6.1406,3.4307,6.1407)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 1355,
+                "length": 3
+              },
+              "confidence": 0.963,
+              "source": "D(1,3.513,5.9689,3.8173,5.9687,3.8175,6.14,3.5132,6.1405)"
+            },
+            {
+              "content": "1.84bn",
+              "span": {
+                "offset": 1359,
+                "length": 6
+              },
+              "confidence": 0.902,
+              "source": "D(1,3.8742,5.9687,4.3463,5.9683,4.3465,6.1389,3.8744,6.1398)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 1366,
+                "length": 1
+              },
+              "confidence": 0.983,
+              "source": "D(1,4.4601,5.9682,4.5084,5.9681,4.5086,6.1386,4.4603,6.1387)"
+            },
+            {
+              "content": "Inception",
+              "span": {
+                "offset": 1368,
+                "length": 9
+              },
+              "confidence": 0.922,
+              "source": "D(1,4.6336,5.9679,5.248,5.9669,5.2481,6.1359,4.6338,6.1381)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1377,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.2593,5.9669,5.2935,5.9669,5.2936,6.1357,5.2594,6.1358)"
+            },
+            {
+              "content": "14",
+              "span": {
+                "offset": 1379,
+                "length": 2
+              },
+              "confidence": 0.931,
+              "source": "D(1,5.3447,5.9668,5.5039,5.9665,5.504,6.1349,5.3447,6.1355)"
+            },
+            {
+              "content": "March",
+              "span": {
+                "offset": 1382,
+                "length": 5
+              },
+              "confidence": 0.625,
+              "source": "D(1,5.5466,5.9665,5.9761,5.9658,5.9761,6.1332,5.5467,6.1348)"
+            },
+            {
+              "content": "2014",
+              "span": {
+                "offset": 1388,
+                "length": 4
+              },
+              "confidence": 0.711,
+              "source": "D(1,6.0159,5.9657,6.3714,5.9651,6.3714,6.1318,6.0159,6.1331)"
+            },
+            {
+              "content": "Objective",
+              "span": {
+                "offset": 1393,
+                "length": 9
+              },
+              "confidence": 0.965,
+              "source": "D(1,0.6855,6.2731,1.3239,6.2721,1.3248,6.454,0.6865,6.4541)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1402,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.3359,6.2721,1.369,6.272,1.3699,6.454,1.3368,6.454)"
+            },
+            {
+              "content": "long",
+              "span": {
+                "offset": 1404,
+                "length": 4
+              },
+              "confidence": 0.946,
+              "source": "D(1,1.4202,6.272,1.6943,6.2715,1.6951,6.454,1.4211,6.454)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 1408,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.7003,6.2715,1.7425,6.2715,1.7433,6.454,1.7011,6.454)"
+            },
+            {
+              "content": "term",
+              "span": {
+                "offset": 1409,
+                "length": 4
+              },
+              "confidence": 0.986,
+              "source": "D(1,1.7485,6.2714,2.0496,6.271,2.0504,6.454,1.7493,6.454)"
+            },
+            {
+              "content": "capital",
+              "span": {
+                "offset": 1414,
+                "length": 7
+              },
+              "confidence": 0.973,
+              "source": "D(1,2.1008,6.2709,2.5405,6.2702,2.5411,6.4539,2.1016,6.454)"
+            },
+            {
+              "content": "growth",
+              "span": {
+                "offset": 1422,
+                "length": 6
+              },
+              "confidence": 0.981,
+              "source": "D(1,2.5856,6.2702,3.0464,6.2703,3.047,6.4535,2.5863,6.4539)"
+            },
+            {
+              "content": "through",
+              "span": {
+                "offset": 1429,
+                "length": 7
+              },
+              "confidence": 0.903,
+              "source": "D(1,3.0825,6.2703,3.5914,6.2704,3.5919,6.4531,3.0831,6.4535)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 1437,
+                "length": 1
+              },
+              "confidence": 0.946,
+              "source": "D(1,3.6276,6.2705,3.7089,6.2705,3.7094,6.453,3.6281,6.4531)"
+            },
+            {
+              "content": "diversified",
+              "span": {
+                "offset": 1439,
+                "length": 11
+              },
+              "confidence": 0.846,
+              "source": "D(1,3.7571,6.2705,4.4407,6.2707,4.441,6.4524,3.7575,6.453)"
+            },
+            {
+              "content": "portfolio",
+              "span": {
+                "offset": 1451,
+                "length": 9
+              },
+              "confidence": 0.876,
+              "source": "D(1,4.4888,6.2708,5.0339,6.272,5.0341,6.4516,4.4892,6.4524)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1461,
+                "length": 2
+              },
+              "confidence": 0.92,
+              "source": "D(1,5.073,6.272,5.2116,6.2723,5.2118,6.4513,5.0733,6.4515)"
+            },
+            {
+              "content": "global",
+              "span": {
+                "offset": 1464,
+                "length": 6
+              },
+              "confidence": 0.657,
+              "source": "D(1,5.2417,6.2724,5.6482,6.2733,5.6483,6.4507,5.2419,6.4513)"
+            },
+            {
+              "content": "equities",
+              "span": {
+                "offset": 1471,
+                "length": 8
+              },
+              "confidence": 0.838,
+              "source": "D(1,5.6934,6.2733,6.2264,6.2745,6.2264,6.4499,5.6935,6.4506)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1479,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,6.2294,6.2745,6.2746,6.2746,6.2746,6.4498,6.2294,6.4499)"
+            },
+            {
+              "content": "Top",
+              "span": {
+                "offset": 1481,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6814,6.5775,0.9463,6.5759,0.9472,6.758,0.6824,6.7594)"
+            },
+            {
+              "content": "holdings",
+              "span": {
+                "offset": 1485,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.9969,6.5757,1.5563,6.5724,1.5571,6.7548,0.9978,6.7577)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1493,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5682,6.5723,1.6009,6.5722,1.6018,6.7546,1.569,6.7548)"
+            },
+            {
+              "content": "Microsoft",
+              "span": {
+                "offset": 1495,
+                "length": 9
+              },
+              "confidence": 0.989,
+              "source": "D(1,1.6485,6.5719,2.2705,6.5683,2.2712,6.7511,1.6494,6.7543)"
+            },
+            {
+              "content": "5.8",
+              "span": {
+                "offset": 1505,
+                "length": 3
+              },
+              "confidence": 0.972,
+              "source": "D(1,2.3002,6.5681,2.5115,6.5669,2.5122,6.7499,2.3009,6.751)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1508,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5174,6.5669,2.6394,6.5665,2.6401,6.7493,2.5181,6.7498)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1509,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.6454,6.5664,2.6811,6.5664,2.6818,6.7491,2.6461,6.7493)"
+            },
+            {
+              "content": "Apple",
+              "span": {
+                "offset": 1511,
+                "length": 5
+              },
+              "confidence": 0.985,
+              "source": "D(1,2.7198,6.5663,3.1245,6.5657,3.1251,6.7474,2.7204,6.749)"
+            },
+            {
+              "content": "5.1",
+              "span": {
+                "offset": 1517,
+                "length": 3
+              },
+              "confidence": 0.965,
+              "source": "D(1,3.1691,6.5657,3.3625,6.5654,3.3631,6.7465,3.1697,6.7473)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1520,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.3834,6.5654,3.5084,6.5652,3.5089,6.746,3.3839,6.7465)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1521,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.5143,6.5652,3.547,6.5651,3.5475,6.7458,3.5148,6.746)"
+            },
+            {
+              "content": "NVIDIA",
+              "span": {
+                "offset": 1523,
+                "length": 6
+              },
+              "confidence": 0.95,
+              "source": "D(1,3.6036,6.565,4.1095,6.5643,4.1099,6.7437,3.6041,6.7456)"
+            },
+            {
+              "content": "4.7",
+              "span": {
+                "offset": 1530,
+                "length": 3
+              },
+              "confidence": 0.93,
+              "source": "D(1,4.1392,6.5643,4.3654,6.5639,4.3657,6.7427,4.1396,6.7436)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1533,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.3624,6.5639,4.4874,6.5639,4.4877,6.7423,4.3627,6.7427)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1534,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.4933,6.5639,4.529,6.564,4.5294,6.7422,4.4937,6.7423)"
+            },
+            {
+              "content": "Nestle",
+              "span": {
+                "offset": 1536,
+                "length": 6
+              },
+              "confidence": 0.99,
+              "source": "D(1,4.5886,6.5642,5.0141,6.5654,5.0143,6.741,4.5889,6.742)"
+            },
+            {
+              "content": "3.2",
+              "span": {
+                "offset": 1543,
+                "length": 3
+              },
+              "confidence": 0.974,
+              "source": "D(1,5.0587,6.5655,5.267,6.5661,5.2672,6.7404,5.0589,6.7409)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1546,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.2789,6.5661,5.4039,6.5665,5.4041,6.74,5.2791,6.7403)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1547,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,5.4069,6.5665,5.4426,6.5666,5.4428,6.7399,5.407,6.74)"
+            },
+            {
+              "content": "ASML",
+              "span": {
+                "offset": 1549,
+                "length": 4
+              },
+              "confidence": 0.934,
+              "source": "D(1,5.4932,6.5668,5.9187,6.568,5.9188,6.7387,5.4933,6.7398)"
+            },
+            {
+              "content": "2.9",
+              "span": {
+                "offset": 1554,
+                "length": 3
+              },
+              "confidence": 0.878,
+              "source": "D(1,5.9514,6.5681,6.1627,6.5687,6.1628,6.7381,5.9515,6.7387)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1557,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,6.1687,6.5687,6.2996,6.5691,6.2996,6.7378,6.1687,6.7381)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1558,
+                "length": 1
+              },
+              "confidence": 0.98,
+              "source": "D(1,6.2996,6.5691,6.3472,6.5692,6.3472,6.7377,6.2996,6.7378)"
+            },
+            {
+              "content": "Fees",
+              "span": {
+                "offset": 1560,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6829,6.8886,1.0253,6.8874,1.0263,7.0591,0.6839,7.0592)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1564,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.0311,6.8874,1.0656,6.8873,1.0666,7.0591,1.032,7.0591)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 1566,
+                "length": 10
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.1145,6.8871,2.0094,6.884,2.0102,7.0588,1.1155,7.059)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 1577,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.0439,6.8839,2.254,6.8831,2.2547,7.0587,2.0447,7.0587)"
+            },
+            {
+              "content": "0.85",
+              "span": {
+                "offset": 1581,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,2.3058,6.883,2.5992,6.882,2.5999,7.0586,2.3065,7.0587)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1585,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5992,6.882,2.7287,6.8819,2.7294,7.0584,2.5999,7.0586)"
+            },
+            {
+              "content": "p",
+              "span": {
+                "offset": 1587,
+                "length": 1
+              },
+              "confidence": 0.993,
+              "source": "D(1,2.7719,6.8818,2.8525,6.8818,2.8531,7.0583,2.7725,7.0584)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1588,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8611,6.8818,2.8899,6.8818,2.8905,7.0582,2.8617,7.0583)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 1589,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,2.8956,6.8817,2.9762,6.8817,2.9768,7.0581,2.8962,7.0582)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1590,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.9819,6.8817,3.0136,6.8817,3.0142,7.0581,2.9825,7.0581)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 1591,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,3.0251,6.8816,3.0625,6.8816,3.0631,7.058,3.0257,7.0581)"
+            },
+            {
+              "content": "Ongoing",
+              "span": {
+                "offset": 1593,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,3.1114,6.8816,3.6811,6.8812,3.6816,7.0573,3.112,7.058)"
+            },
+            {
+              "content": "charges",
+              "span": {
+                "offset": 1601,
+                "length": 7
+              },
+              "confidence": 0.993,
+              "source": "D(1,3.7301,6.8811,4.2739,6.8807,4.2742,7.0566,3.7305,7.0573)"
+            },
+            {
+              "content": "1.02",
+              "span": {
+                "offset": 1609,
+                "length": 4
+              },
+              "confidence": 0.976,
+              "source": "D(1,4.3285,6.8807,4.6076,6.8808,4.608,7.0562,4.3289,7.0566)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1613,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.6105,6.8808,4.7371,6.8811,4.7374,7.0559,4.6108,7.0562)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 1614,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,4.7429,6.8811,4.7832,6.8811,4.7834,7.0558,4.7432,7.0559)"
+            },
+            {
+              "content": "Performance",
+              "span": {
+                "offset": 1616,
+                "length": 11
+              },
+              "confidence": 0.991,
+              "source": "D(1,4.8378,6.8813,5.7068,6.883,5.7069,7.054,4.8381,7.0557)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 1628,
+                "length": 3
+              },
+              "confidence": 0.988,
+              "source": "D(1,5.7442,6.8831,5.96,6.8835,5.9601,7.0535,5.7443,7.0539)"
+            },
+            {
+              "content": "none",
+              "span": {
+                "offset": 1632,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,6.006,6.8836,6.3427,6.8843,6.3427,7.0527,6.0061,7.0534)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1636,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,6.3513,6.8843,6.3916,6.8844,6.3916,7.0526,6.3513,7.0527)"
+            },
+            {
+              "content": "Risk",
+              "span": {
+                "offset": 1638,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,0.6855,7.1879,0.9863,7.1871,0.9873,7.3575,0.6865,7.358)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1642,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.9863,7.1871,1.017,7.187,1.0179,7.3575,0.9873,7.3575)"
+            },
+            {
+              "content": "SRRI",
+              "span": {
+                "offset": 1644,
+                "length": 4
+              },
+              "confidence": 0.716,
+              "source": "D(1,1.0727,7.1869,1.4209,7.186,1.4217,7.3569,1.0736,7.3574)"
+            },
+            {
+              "content": "6",
+              "span": {
+                "offset": 1649,
+                "length": 1
+              },
+              "confidence": 0.53,
+              "source": "D(1,1.4766,7.1859,1.5546,7.1856,1.5554,7.3567,1.4774,7.3568)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1650,
+                "length": 1
+              },
+              "confidence": 0.905,
+              "source": "D(1,1.563,7.1856,1.5908,7.1856,1.5916,7.3566,1.5638,7.3567)"
+            },
+            {
+              "content": "Past",
+              "span": {
+                "offset": 1652,
+                "length": 4
+              },
+              "confidence": 0.397,
+              "source": "D(1,1.6493,7.1854,1.9585,7.1846,1.9593,7.3561,1.6501,7.3565)"
+            },
+            {
+              "content": "performance",
+              "span": {
+                "offset": 1657,
+                "length": 11
+              },
+              "confidence": 0.96,
+              "source": "D(1,2.0003,7.1845,2.8499,7.184,2.8505,7.3548,2.001,7.356)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 1669,
+                "length": 2
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8973,7.184,3.0031,7.1841,3.0037,7.3545,2.8978,7.3547)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 1672,
+                "length": 3
+              },
+              "confidence": 0.985,
+              "source": "D(1,3.0449,7.1841,3.2622,7.1843,3.2627,7.3542,3.0455,7.3545)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 1676,
+                "length": 1
+              },
+              "confidence": 0.977,
+              "source": "D(1,3.304,7.1843,3.382,7.1844,3.3825,7.354,3.3045,7.3541)"
+            },
+            {
+              "content": "reliable",
+              "span": {
+                "offset": 1678,
+                "length": 8
+              },
+              "confidence": 0.978,
+              "source": "D(1,3.4294,7.1844,3.9141,7.1848,3.9144,7.3532,3.4298,7.3539)"
+            },
+            {
+              "content": "indicator",
+              "span": {
+                "offset": 1687,
+                "length": 9
+              },
+              "confidence": 0.993,
+              "source": "D(1,3.9642,7.1848,4.5408,7.187,4.5411,7.3524,3.9645,7.3532)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1697,
+                "length": 2
+              },
+              "confidence": 0.98,
+              "source": "D(1,4.5798,7.1871,4.7136,7.1877,4.7137,7.3522,4.5801,7.3523)"
+            },
+            {
+              "content": "future",
+              "span": {
+                "offset": 1700,
+                "length": 6
+              },
+              "confidence": 0.945,
+              "source": "D(1,4.7498,7.1878,5.137,7.1894,5.1371,7.3516,4.7499,7.3521)"
+            },
+            {
+              "content": "results",
+              "span": {
+                "offset": 1707,
+                "length": 7
+              },
+              "confidence": 0.961,
+              "source": "D(1,5.1871,7.1896,5.6328,7.1914,5.6328,7.3509,5.1872,7.3515)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1714,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,5.6356,7.1914,5.6774,7.1916,5.6774,7.3509,5.6356,7.3509)"
+            },
+            {
+              "content": "NAV",
+              "span": {
+                "offset": 1717,
+                "length": 3
+              },
+              "confidence": 0.961,
+              "source": "D(1,0.6814,7.4943,0.9998,7.4944,1.0002,7.6723,0.6819,7.6731)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 1721,
+                "length": 3
+              },
+              "confidence": 0.967,
+              "source": "D(1,1.0399,7.4944,1.2722,7.4945,1.2727,7.6715,1.0404,7.6722)"
+            },
+            {
+              "content": "unit",
+              "span": {
+                "offset": 1725,
+                "length": 4
+              },
+              "confidence": 0.989,
+              "source": "D(1,1.3124,7.4945,1.559,7.4946,1.5594,7.6708,1.3128,7.6714)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1729,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.5619,7.4946,1.5934,7.4946,1.5939,7.6707,1.5623,7.6707)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 1731,
+                "length": 3
+              },
+              "confidence": 0.991,
+              "source": "D(1,1.6508,7.4947,1.9548,7.4948,1.9552,7.6697,1.6512,7.6705)"
+            },
+            {
+              "content": "142.37",
+              "span": {
+                "offset": 1735,
+                "length": 6
+              },
+              "confidence": 0.956,
+              "source": "D(1,2.015,7.4948,2.4653,7.495,2.4656,7.6683,2.0154,7.6695)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 1742,
+                "length": 1
+              },
+              "confidence": 0.958,
+              "source": "D(1,2.5857,7.495,2.6316,7.495,2.632,7.6679,2.5861,7.668)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 1744,
+                "length": 4
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.7607,7.495,3.102,7.495,3.1023,7.667,2.761,7.6677)"
+            },
+            {
+              "content": "size",
+              "span": {
+                "offset": 1749,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.1565,7.495,3.426,7.4949,3.4263,7.6663,3.1567,7.6669)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1753,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,3.4318,7.4949,3.4662,7.4949,3.4665,7.6662,3.432,7.6663)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 1755,
+                "length": 3
+              },
+              "confidence": 0.961,
+              "source": "D(1,3.5121,7.4949,3.819,7.4949,3.8192,7.6655,3.5123,7.6661)"
+            },
+            {
+              "content": "1.84bn",
+              "span": {
+                "offset": 1759,
+                "length": 6
+              },
+              "confidence": 0.917,
+              "source": "D(1,3.8763,7.4949,4.3409,7.4948,4.3411,7.6645,3.8765,7.6654)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 1766,
+                "length": 1
+              },
+              "confidence": 0.978,
+              "source": "D(1,4.4614,7.4948,4.5073,7.4948,4.5074,7.6642,4.4615,7.6642)"
+            },
+            {
+              "content": "Inception",
+              "span": {
+                "offset": 1768,
+                "length": 9
+              },
+              "confidence": 0.933,
+              "source": "D(1,4.6449,7.4947,5.2386,7.4944,5.2387,7.6632,4.6451,7.664)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1777,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.2529,7.4944,5.2845,7.4944,5.2846,7.6631,5.253,7.6632)"
+            },
+            {
+              "content": "14",
+              "span": {
+                "offset": 1779,
+                "length": 2
+              },
+              "confidence": 0.969,
+              "source": "D(1,5.3476,7.4943,5.5053,7.4942,5.5054,7.6628,5.3477,7.6631)"
+            },
+            {
+              "content": "March",
+              "span": {
+                "offset": 1782,
+                "length": 5
+              },
+              "confidence": 0.657,
+              "source": "D(1,5.5512,7.4942,5.9785,7.494,5.9786,7.6622,5.5513,7.6628)"
+            },
+            {
+              "content": "2014",
+              "span": {
+                "offset": 1788,
+                "length": 4
+              },
+              "confidence": 0.589,
+              "source": "D(1,6.0215,7.4939,6.3714,7.4937,6.3714,7.6617,6.0216,7.6622)"
+            },
+            {
+              "content": "Objective",
+              "span": {
+                "offset": 1793,
+                "length": 9
+              },
+              "confidence": 0.977,
+              "source": "D(1,0.6839,7.7971,1.3206,7.7959,1.3215,7.9764,0.685,7.9763)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1802,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.3295,7.7959,1.3621,7.7959,1.3629,7.9764,1.3304,7.9764)"
+            },
+            {
+              "content": "long",
+              "span": {
+                "offset": 1804,
+                "length": 4
+              },
+              "confidence": 0.943,
+              "source": "D(1,1.4124,7.7958,1.6878,7.7953,1.6886,7.9764,1.4133,7.9764)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 1808,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.6967,7.7952,1.7381,7.7952,1.7389,7.9764,1.6975,7.9764)"
+            },
+            {
+              "content": "term",
+              "span": {
+                "offset": 1809,
+                "length": 4
+              },
+              "confidence": 0.985,
+              "source": "D(1,1.744,7.7952,2.049,7.7946,2.0498,7.9765,1.7449,7.9764)"
+            },
+            {
+              "content": "capital",
+              "span": {
+                "offset": 1814,
+                "length": 7
+              },
+              "confidence": 0.981,
+              "source": "D(1,2.0994,7.7945,2.5287,7.7937,2.5294,7.9765,2.1001,7.9765)"
+            },
+            {
+              "content": "growth",
+              "span": {
+                "offset": 1822,
+                "length": 6
+              },
+              "confidence": 0.982,
+              "source": "D(1,2.5732,7.7937,3.0381,7.7942,3.0386,7.9763,2.5738,7.9765)"
+            },
+            {
+              "content": "through",
+              "span": {
+                "offset": 1829,
+                "length": 7
+              },
+              "confidence": 0.94,
+              "source": "D(1,3.0766,7.7943,3.5948,7.7949,3.5952,7.9759,3.0771,7.9762)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 1837,
+                "length": 1
+              },
+              "confidence": 0.96,
+              "source": "D(1,3.6333,7.795,3.7132,7.7951,3.7137,7.9759,3.6337,7.9759)"
+            },
+            {
+              "content": "diversified",
+              "span": {
+                "offset": 1839,
+                "length": 11
+              },
+              "confidence": 0.877,
+              "source": "D(1,3.7635,7.7951,4.4505,7.7961,4.4509,7.9754,3.764,7.9759)"
+            },
+            {
+              "content": "portfolio",
+              "span": {
+                "offset": 1851,
+                "length": 9
+              },
+              "confidence": 0.877,
+              "source": "D(1,4.5009,7.7963,5.0398,7.7986,5.04,7.9747,4.5012,7.9754)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1861,
+                "length": 2
+              },
+              "confidence": 0.94,
+              "source": "D(1,5.0783,7.7988,5.2175,7.7994,5.2176,7.9745,5.0785,7.9747)"
+            },
+            {
+              "content": "global",
+              "span": {
+                "offset": 1864,
+                "length": 6
+              },
+              "confidence": 0.711,
+              "source": "D(1,5.2471,7.7995,5.6557,7.8013,5.6558,7.9739,5.2473,7.9745)"
+            },
+            {
+              "content": "equities",
+              "span": {
+                "offset": 1871,
+                "length": 8
+              },
+              "confidence": 0.802,
+              "source": "D(1,5.6942,7.8015,6.2242,7.8038,6.2243,7.9732,5.6943,7.9739)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1879,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,6.2302,7.8038,6.2746,7.804,6.2746,7.9732,6.2302,7.9732)"
+            },
+            {
+              "content": "Top",
+              "span": {
+                "offset": 1881,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6784,8.0981,0.9471,8.0979,0.9495,8.281,0.6809,8.2815)"
+            },
+            {
+              "content": "holdings",
+              "span": {
+                "offset": 1885,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.9943,8.0979,1.5553,8.0975,1.5574,8.28,0.9967,8.2809)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1893,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5642,8.0975,1.5966,8.0975,1.5987,8.2799,1.5663,8.28)"
+            },
+            {
+              "content": "Microsoft",
+              "span": {
+                "offset": 1895,
+                "length": 9
+              },
+              "confidence": 0.992,
+              "source": "D(1,1.6468,8.0974,2.2639,8.097,2.2657,8.2788,1.6489,8.2799)"
+            },
+            {
+              "content": "5.8",
+              "span": {
+                "offset": 1905,
+                "length": 3
+              },
+              "confidence": 0.982,
+              "source": "D(1,2.2964,8.097,2.509,8.0969,2.5107,8.2784,2.2982,8.2788)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1908,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5208,8.0969,2.6448,8.0969,2.6464,8.2782,2.5225,8.2784)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1909,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.6507,8.0969,2.6861,8.0969,2.6877,8.2781,2.6523,8.2781)"
+            },
+            {
+              "content": "Apple",
+              "span": {
+                "offset": 1911,
+                "length": 5
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.7274,8.0969,3.126,8.097,3.1275,8.277,2.7291,8.278)"
+            },
+            {
+              "content": "5.1",
+              "span": {
+                "offset": 1917,
+                "length": 3
+              },
+              "confidence": 0.967,
+              "source": "D(1,3.1674,8.097,3.3622,8.0971,3.3636,8.2764,3.1688,8.2769)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1920,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.3829,8.0971,3.5069,8.0971,3.5082,8.2761,3.3842,8.2764)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1921,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.5128,8.0971,3.5482,8.0971,3.5495,8.276,3.5141,8.2761)"
+            },
+            {
+              "content": "NVIDIA",
+              "span": {
+                "offset": 1923,
+                "length": 6
+              },
+              "confidence": 0.952,
+              "source": "D(1,3.6043,8.0972,4.1122,8.0973,4.1132,8.2746,3.6056,8.2758)"
+            },
+            {
+              "content": "4.7",
+              "span": {
+                "offset": 1930,
+                "length": 3
+              },
+              "confidence": 0.92,
+              "source": "D(1,4.1446,8.0973,4.369,8.0974,4.3699,8.274,4.1456,8.2745)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1933,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.3602,8.0974,4.4871,8.0975,4.488,8.2737,4.3611,8.274)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1934,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.493,8.0975,4.5285,8.0975,4.5293,8.2736,4.4939,8.2737)"
+            },
+            {
+              "content": "Nestle",
+              "span": {
+                "offset": 1936,
+                "length": 6
+              },
+              "confidence": 0.99,
+              "source": "D(1,4.5875,8.0976,5.0156,8.0981,5.0162,8.272,4.5883,8.2734)"
+            },
+            {
+              "content": "3.2",
+              "span": {
+                "offset": 1943,
+                "length": 3
+              },
+              "confidence": 0.972,
+              "source": "D(1,5.0629,8.0982,5.2725,8.0984,5.273,8.2712,5.0634,8.2719)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1946,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.2755,8.0984,5.4024,8.0986,5.4028,8.2708,5.2759,8.2712)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1947,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.4024,8.0986,5.4378,8.0987,5.4383,8.2707,5.4028,8.2708)"
+            },
+            {
+              "content": "ASML",
+              "span": {
+                "offset": 1949,
+                "length": 4
+              },
+              "confidence": 0.938,
+              "source": "D(1,5.488,8.0987,5.9191,8.0993,5.9193,8.2691,5.4884,8.2705)"
+            },
+            {
+              "content": "2.9",
+              "span": {
+                "offset": 1954,
+                "length": 3
+              },
+              "confidence": 0.896,
+              "source": "D(1,5.9545,8.0993,6.1612,8.0996,6.1613,8.2684,5.9547,8.269)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1957,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,6.1701,8.0996,6.297,8.0997,6.297,8.2679,6.1701,8.2683)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1958,
+                "length": 1
+              },
+              "confidence": 0.986,
+              "source": "D(1,6.297,8.0997,6.3472,8.0998,6.3472,8.2678,6.297,8.2679)"
+            },
+            {
+              "content": "Fees",
+              "span": {
+                "offset": 1960,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6804,8.4079,1.0202,8.4076,1.0212,8.5784,0.6814,8.5773)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1964,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.0259,8.4076,1.0631,8.4075,1.064,8.5785,1.0269,8.5784)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 1966,
+                "length": 10
+              },
+              "confidence": 0.996,
+              "source": "D(1,1.1116,8.4074,2.0083,8.4064,2.009,8.5815,1.1125,8.5787)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 1977,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.0454,8.4064,2.2538,8.4061,2.2546,8.5823,2.0462,8.5816)"
+            },
+            {
+              "content": "0.85",
+              "span": {
+                "offset": 1981,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,2.2995,8.4061,2.5994,8.4058,2.6001,8.5833,2.3003,8.5824)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 1985,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.6022,8.4058,2.7307,8.4057,2.7314,8.5831,2.6029,8.5833)"
+            },
+            {
+              "content": "p",
+              "span": {
+                "offset": 1987,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.7764,8.4057,2.8564,8.4057,2.857,8.5829,2.7771,8.583)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1988,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.8621,8.4057,2.8906,8.4057,2.8913,8.5829,2.8627,8.5829)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 1989,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8964,8.4057,2.9763,8.4057,2.9769,8.5828,2.897,8.5829)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1990,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.9877,8.4057,3.0163,8.4057,3.0169,8.5827,2.9883,8.5828)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 1991,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.0249,8.4057,3.0648,8.4056,3.0654,8.5827,3.0255,8.5827)"
+            },
+            {
+              "content": "Ongoing",
+              "span": {
+                "offset": 1993,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,3.1105,8.4056,3.6816,8.4055,3.6821,8.5818,3.1111,8.5826)"
+            },
+            {
+              "content": "charges",
+              "span": {
+                "offset": 2001,
+                "length": 7
+              },
+              "confidence": 0.989,
+              "source": "D(1,3.7302,8.4055,4.2756,8.4053,4.276,8.581,3.7307,8.5818)"
+            },
+            {
+              "content": "1.02",
+              "span": {
+                "offset": 2009,
+                "length": 4
+              },
+              "confidence": 0.946,
+              "source": "D(1,4.3299,8.4053,4.6126,8.4054,4.6129,8.58,4.3302,8.5809)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2013,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.6097,8.4054,4.7382,8.4054,4.7385,8.5793,4.61,8.58)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 2014,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.7411,8.4055,4.7782,8.4055,4.7785,8.579,4.7414,8.5793)"
+            },
+            {
+              "content": "Performance",
+              "span": {
+                "offset": 2016,
+                "length": 11
+              },
+              "confidence": 0.991,
+              "source": "D(1,4.8353,8.4055,5.7063,8.4061,5.7064,8.5736,4.8356,8.5787)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 2028,
+                "length": 3
+              },
+              "confidence": 0.984,
+              "source": "D(1,5.7462,8.4061,5.9576,8.4062,5.9576,8.5722,5.7464,8.5734)"
+            },
+            {
+              "content": "none",
+              "span": {
+                "offset": 2032,
+                "length": 4
+              },
+              "confidence": 0.988,
+              "source": "D(1,6.0061,8.4063,6.3431,8.4065,6.3431,8.5699,6.0062,8.5719)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2036,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,6.3545,8.4065,6.3916,8.4065,6.3916,8.5696,6.3545,8.5699)"
+            },
+            {
+              "content": "Risk",
+              "span": {
+                "offset": 2038,
+                "length": 4
+              },
+              "confidence": 0.987,
+              "source": "D(1,0.6824,8.717,0.989,8.7155,0.9905,8.8818,0.6839,8.8819)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2042,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.9863,8.7155,1.0169,8.7154,1.0183,8.8818,0.9877,8.8818)"
+            },
+            {
+              "content": "SRRI",
+              "span": {
+                "offset": 2044,
+                "length": 4
+              },
+              "confidence": 0.657,
+              "source": "D(1,1.0727,8.7151,1.4239,8.7135,1.4252,8.8816,1.0741,8.8817)"
+            },
+            {
+              "content": "6",
+              "span": {
+                "offset": 2049,
+                "length": 1
+              },
+              "confidence": 0.523,
+              "source": "D(1,1.4768,8.7133,1.5549,8.7129,1.5561,8.8815,1.4781,8.8815)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2050,
+                "length": 1
+              },
+              "confidence": 0.913,
+              "source": "D(1,1.5632,8.7129,1.5911,8.7128,1.5924,8.8815,1.5645,8.8815)"
+            },
+            {
+              "content": "Past",
+              "span": {
+                "offset": 2052,
+                "length": 4
+              },
+              "confidence": 0.365,
+              "source": "D(1,1.6496,8.7125,1.959,8.7111,1.9602,8.8813,1.6509,8.8814)"
+            },
+            {
+              "content": "performance",
+              "span": {
+                "offset": 2057,
+                "length": 11
+              },
+              "confidence": 0.969,
+              "source": "D(1,2.0009,8.7109,2.8482,8.7092,2.8491,8.8805,2.002,8.8813)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 2069,
+                "length": 2
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8956,8.7092,3.0015,8.7091,3.0023,8.8803,2.8964,8.8805)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 2072,
+                "length": 3
+              },
+              "confidence": 0.986,
+              "source": "D(1,3.0461,8.7091,3.2607,8.7091,3.2615,8.88,3.0469,8.8803)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 2076,
+                "length": 1
+              },
+              "confidence": 0.979,
+              "source": "D(1,3.3026,8.7091,3.3806,8.7091,3.3813,8.8799,3.3033,8.88)"
+            },
+            {
+              "content": "reliable",
+              "span": {
+                "offset": 2078,
+                "length": 8
+              },
+              "confidence": 0.981,
+              "source": "D(1,3.428,8.7091,3.913,8.709,3.9135,8.8793,3.4287,8.8798)"
+            },
+            {
+              "content": "indicator",
+              "span": {
+                "offset": 2087,
+                "length": 9
+              },
+              "confidence": 0.994,
+              "source": "D(1,3.9632,8.709,4.5429,8.7112,4.5433,8.8782,3.9637,8.8792)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 2097,
+                "length": 2
+              },
+              "confidence": 0.982,
+              "source": "D(1,4.5792,8.7114,4.7158,8.712,4.716,8.8779,4.5795,8.8782)"
+            },
+            {
+              "content": "future",
+              "span": {
+                "offset": 2100,
+                "length": 6
+              },
+              "confidence": 0.947,
+              "source": "D(1,4.7464,8.7121,5.1366,8.7138,5.1368,8.8772,4.7467,8.8779)"
+            },
+            {
+              "content": "results",
+              "span": {
+                "offset": 2107,
+                "length": 7
+              },
+              "confidence": 0.96,
+              "source": "D(1,5.1868,8.714,5.6328,8.7159,5.6328,8.8763,5.187,8.8771)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2114,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,5.6356,8.7159,5.6774,8.7161,5.6774,8.8762,5.6356,8.8763)"
+            },
+            {
+              "content": "NAV",
+              "span": {
+                "offset": 2117,
+                "length": 3
+              },
+              "confidence": 0.978,
+              "source": "D(1,0.6794,9.0239,1.0013,9.0237,1.0018,9.1941,0.6799,9.1941)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 2121,
+                "length": 3
+              },
+              "confidence": 0.987,
+              "source": "D(1,1.0436,9.0236,1.2752,9.0235,1.2756,9.1942,1.0441,9.1941)"
+            },
+            {
+              "content": "unit",
+              "span": {
+                "offset": 2125,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,1.3147,9.0234,1.5547,9.0233,1.5551,9.1942,1.3151,9.1942)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2129,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5547,9.0233,1.5857,9.0232,1.5862,9.1942,1.5551,9.1942)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 2131,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.6422,9.0232,1.9499,9.023,1.9503,9.1943,1.6426,9.1942)"
+            },
+            {
+              "content": "142.37",
+              "span": {
+                "offset": 2135,
+                "length": 6
+              },
+              "confidence": 0.966,
+              "source": "D(1,2.0121,9.0229,2.4695,9.0226,2.4698,9.1943,2.0125,9.1943)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 2142,
+                "length": 1
+              },
+              "confidence": 0.953,
+              "source": "D(1,2.5909,9.0225,2.636,9.0225,2.6364,9.1943,2.5912,9.1943)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 2144,
+                "length": 4
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.7659,9.0225,3.0991,9.0224,3.0994,9.1939,2.7662,9.1942)"
+            },
+            {
+              "content": "size",
+              "span": {
+                "offset": 2149,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,3.1527,9.0224,3.4238,9.0224,3.424,9.1937,3.153,9.1939)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2153,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,3.4294,9.0224,3.4633,9.0224,3.4636,9.1937,3.4297,9.1937)"
+            },
+            {
+              "content": "USD",
+              "span": {
+                "offset": 2155,
+                "length": 3
+              },
+              "confidence": 0.963,
+              "source": "D(1,3.5141,9.0224,3.8191,9.0224,3.8193,9.1934,3.5144,9.1936)"
+            },
+            {
+              "content": "1.84bn",
+              "span": {
+                "offset": 2159,
+                "length": 6
+              },
+              "confidence": 0.891,
+              "source": "D(1,3.8783,9.0224,4.3357,9.0223,4.3359,9.193,3.8786,9.1934)"
+            },
+            {
+              "content": "|",
+              "span": {
+                "offset": 2166,
+                "length": 1
+              },
+              "confidence": 0.986,
+              "source": "D(1,4.4571,9.0223,4.4995,9.0223,4.4997,9.1929,4.4573,9.1929)"
+            },
+            {
+              "content": "Inception",
+              "span": {
+                "offset": 2168,
+                "length": 9
+              },
+              "confidence": 0.877,
+              "source": "D(1,4.6378,9.0224,5.2421,9.0227,5.2422,9.1917,4.638,9.1926)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2177,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.2562,9.0227,5.2901,9.0227,5.2902,9.1916,5.2563,9.1916)"
+            },
+            {
+              "content": "14",
+              "span": {
+                "offset": 2179,
+                "length": 2
+              },
+              "confidence": 0.878,
+              "source": "D(1,5.3493,9.0228,5.5103,9.0229,5.5104,9.1912,5.3494,9.1915)"
+            },
+            {
+              "content": "March",
+              "span": {
+                "offset": 2182,
+                "length": 5
+              },
+              "confidence": 0.523,
+              "source": "D(1,5.5555,9.0229,5.9733,9.0231,5.9734,9.1905,5.5555,9.1911)"
+            },
+            {
+              "content": "2014",
+              "span": {
+                "offset": 2188,
+                "length": 4
+              },
+              "confidence": 0.625,
+              "source": "D(1,6.0129,9.0231,6.3714,9.0233,6.3714,9.1898,6.0129,9.1904)"
+            },
+            {
+              "content": "Objective",
+              "span": {
+                "offset": 2193,
+                "length": 9
+              },
+              "confidence": 0.987,
+              "source": "D(1,0.6809,9.3316,1.3219,9.3295,1.3237,9.5047,0.6829,9.5035)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2202,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.3335,9.3295,1.3627,9.3294,1.3644,9.5047,1.3353,9.5047)"
+            },
+            {
+              "content": "long",
+              "span": {
+                "offset": 2204,
+                "length": 4
+              },
+              "confidence": 0.977,
+              "source": "D(1,1.418,9.3292,1.6889,9.3283,1.6906,9.5053,1.4198,9.5048)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 2208,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.6948,9.3283,1.7385,9.3282,1.7401,9.5054,1.6964,9.5054)"
+            },
+            {
+              "content": "term",
+              "span": {
+                "offset": 2209,
+                "length": 4
+              },
+              "confidence": 0.986,
+              "source": "D(1,1.7443,9.3282,2.0444,9.3272,2.0459,9.506,1.7459,9.5055)"
+            },
+            {
+              "content": "capital",
+              "span": {
+                "offset": 2214,
+                "length": 7
+              },
+              "confidence": 0.977,
+              "source": "D(1,2.0939,9.327,2.5309,9.3256,2.5323,9.5069,2.0954,9.5061)"
+            },
+            {
+              "content": "growth",
+              "span": {
+                "offset": 2222,
+                "length": 6
+              },
+              "confidence": 0.98,
+              "source": "D(1,2.5775,9.3256,3.0349,9.3257,3.0361,9.5066,2.5789,9.5069)"
+            },
+            {
+              "content": "through",
+              "span": {
+                "offset": 2229,
+                "length": 7
+              },
+              "confidence": 0.914,
+              "source": "D(1,3.0757,9.3257,3.5943,9.3258,3.5953,9.5063,3.0769,9.5066)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 2237,
+                "length": 1
+              },
+              "confidence": 0.942,
+              "source": "D(1,3.6351,9.3258,3.7137,9.3258,3.7147,9.5062,3.636,9.5062)"
+            },
+            {
+              "content": "diversified",
+              "span": {
+                "offset": 2239,
+                "length": 11
+              },
+              "confidence": 0.847,
+              "source": "D(1,3.7633,9.3258,4.445,9.3261,4.4457,9.5056,3.7642,9.5061)"
+            },
+            {
+              "content": "portfolio",
+              "span": {
+                "offset": 2251,
+                "length": 9
+              },
+              "confidence": 0.894,
+              "source": "D(1,4.4945,9.3263,5.0393,9.3283,5.0398,9.5037,4.4952,9.5054)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 2261,
+                "length": 2
+              },
+              "confidence": 0.95,
+              "source": "D(1,5.0801,9.3284,5.2199,9.3289,5.2203,9.5031,5.0805,9.5036)"
+            },
+            {
+              "content": "global",
+              "span": {
+                "offset": 2264,
+                "length": 6
+              },
+              "confidence": 0.807,
+              "source": "D(1,5.2462,9.329,5.6511,9.3305,5.6514,9.5017,5.2465,9.503)"
+            },
+            {
+              "content": "equities",
+              "span": {
+                "offset": 2271,
+                "length": 8
+              },
+              "confidence": 0.796,
+              "source": "D(1,5.6977,9.3306,6.2221,9.3325,6.2222,9.4999,5.6979,9.5016)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2279,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,6.228,9.3325,6.2746,9.3327,6.2746,9.4998,6.228,9.4999)"
+            },
+            {
+              "content": "Top",
+              "span": {
+                "offset": 2281,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.6789,9.635,0.9432,9.6342,0.9446,9.8108,0.6804,9.8114)"
+            },
+            {
+              "content": "holdings",
+              "span": {
+                "offset": 2285,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.9954,9.634,1.5559,9.6322,1.5571,9.8095,0.9969,9.8107)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2293,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.5675,9.6322,1.5994,9.6321,1.6007,9.8094,1.5688,9.8094)"
+            },
+            {
+              "content": "Microsoft",
+              "span": {
+                "offset": 2295,
+                "length": 9
+              },
+              "confidence": 0.994,
+              "source": "D(1,1.6488,9.6319,2.2644,9.63,2.2655,9.8079,1.65,9.8092)"
+            },
+            {
+              "content": "5.8",
+              "span": {
+                "offset": 2305,
+                "length": 3
+              },
+              "confidence": 0.989,
+              "source": "D(1,2.2992,9.6299,2.5112,9.6292,2.5123,9.8074,2.3003,9.8078)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2308,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.517,9.6292,2.6419,9.6289,2.6429,9.807,2.5181,9.8074)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2309,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.6506,9.6289,2.6884,9.6288,2.6894,9.8069,2.6516,9.807)"
+            },
+            {
+              "content": "Apple",
+              "span": {
+                "offset": 2311,
+                "length": 5
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.7232,9.6288,3.1239,9.6283,3.1248,9.8055,2.7242,9.8068)"
+            },
+            {
+              "content": "5.1",
+              "span": {
+                "offset": 2317,
+                "length": 3
+              },
+              "confidence": 0.959,
+              "source": "D(1,3.1646,9.6282,3.3592,9.628,3.36,9.8048,3.1655,9.8054)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2320,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.3824,9.6279,3.5072,9.6278,3.508,9.8043,3.3832,9.8047)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2321,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.5131,9.6278,3.5479,9.6277,3.5487,9.8042,3.5138,9.8043)"
+            },
+            {
+              "content": "NVIDIA",
+              "span": {
+                "offset": 2323,
+                "length": 6
+              },
+              "confidence": 0.946,
+              "source": "D(1,3.606,9.6276,4.1112,9.627,4.1119,9.8024,3.6067,9.804)"
+            },
+            {
+              "content": "4.7",
+              "span": {
+                "offset": 2330,
+                "length": 3
+              },
+              "confidence": 0.943,
+              "source": "D(1,4.1461,9.6269,4.3668,9.6267,4.3673,9.8016,4.1467,9.8023)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2333,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.3639,9.6267,4.4917,9.6266,4.4922,9.8012,4.3644,9.8016)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2334,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.4946,9.6266,4.5294,9.6266,4.5299,9.8011,4.4951,9.8012)"
+            },
+            {
+              "content": "Nestle",
+              "span": {
+                "offset": 2336,
+                "length": 6
+              },
+              "confidence": 0.986,
+              "source": "D(1,4.5846,9.6266,5.0202,9.6269,5.0205,9.7991,4.5851,9.8008)"
+            },
+            {
+              "content": "3.2",
+              "span": {
+                "offset": 2343,
+                "length": 3
+              },
+              "confidence": 0.972,
+              "source": "D(1,5.0666,9.6269,5.2699,9.627,5.2702,9.7981,5.067,9.7989)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2346,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.2844,9.627,5.4035,9.6271,5.4037,9.7975,5.2847,9.798)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2347,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,5.4064,9.6271,5.4412,9.6271,5.4415,9.7974,5.4066,9.7975)"
+            },
+            {
+              "content": "ASML",
+              "span": {
+                "offset": 2349,
+                "length": 4
+              },
+              "confidence": 0.931,
+              "source": "D(1,5.4877,9.6271,5.9174,9.6274,5.9176,9.7954,5.4879,9.7972)"
+            },
+            {
+              "content": "2.9",
+              "span": {
+                "offset": 2354,
+                "length": 3
+              },
+              "confidence": 0.845,
+              "source": "D(1,5.9552,9.6274,6.1643,9.6275,6.1643,9.7944,5.9553,9.7953)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2357,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,6.1701,9.6275,6.3008,9.6276,6.3008,9.7939,6.1701,9.7944)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2358,
+                "length": 1
+              },
+              "confidence": 0.977,
+              "source": "D(1,6.2978,9.6276,6.3472,9.6276,6.3472,9.7937,6.2979,9.7939)"
+            },
+            {
+              "content": "Fees",
+              "span": {
+                "offset": 2360,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,0.6814,9.9356,1.0238,9.9347,1.0248,10.1081,0.6824,10.1073)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2364,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.0296,9.9347,1.0644,9.9346,1.0654,10.1082,1.0306,10.1081)"
+            },
+            {
+              "content": "Management",
+              "span": {
+                "offset": 2366,
+                "length": 10
+              },
+              "confidence": 0.995,
+              "source": "D(1,1.1138,9.9345,2.0074,9.9321,2.0082,10.1104,1.1147,10.1083)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 2377,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.0451,9.932,2.2569,9.9315,2.2577,10.111,2.0459,10.1105)"
+            },
+            {
+              "content": "0.85",
+              "span": {
+                "offset": 2381,
+                "length": 4
+              },
+              "confidence": 0.99,
+              "source": "D(1,2.3063,9.9314,2.6022,9.9306,2.6029,10.1117,2.307,10.1111)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2385,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.5993,9.9306,2.7328,9.9305,2.7335,10.1114,2.6,10.1117)"
+            },
+            {
+              "content": "p",
+              "span": {
+                "offset": 2387,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,2.7763,9.9305,2.8547,9.9304,2.8553,10.1112,2.777,10.1114)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2388,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.8634,9.9304,2.8924,9.9303,2.893,10.1111,2.864,10.1112)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 2389,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.9011,9.9303,2.9765,9.9303,2.9771,10.111,2.9017,10.1111)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2390,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.9823,9.9303,3.0142,9.9302,3.0149,10.1109,2.9829,10.111)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 2391,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,3.02,9.9302,3.0578,9.9302,3.0584,10.1108,3.0207,10.1109)"
+            },
+            {
+              "content": "Ongoing",
+              "span": {
+                "offset": 2393,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,3.1071,9.9302,3.6787,9.9296,3.6792,10.1097,3.1077,10.1107)"
+            },
+            {
+              "content": "charges",
+              "span": {
+                "offset": 2401,
+                "length": 7
+              },
+              "confidence": 0.989,
+              "source": "D(1,3.728,9.9296,4.2706,9.9291,4.271,10.1086,3.7285,10.1096)"
+            },
+            {
+              "content": "1.02",
+              "span": {
+                "offset": 2409,
+                "length": 4
+              },
+              "confidence": 0.966,
+              "source": "D(1,4.3257,9.9291,4.6072,9.929,4.6075,10.1075,4.3261,10.1085)"
+            },
+            {
+              "content": "%",
+              "span": {
+                "offset": 2413,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,4.613,9.929,4.7377,9.9291,4.738,10.1067,4.6133,10.1074)"
+            },
+            {
+              "content": ";",
+              "span": {
+                "offset": 2414,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,4.7406,9.9291,4.7813,9.9292,4.7816,10.1064,4.741,10.1067)"
+            },
+            {
+              "content": "Performance",
+              "span": {
+                "offset": 2416,
+                "length": 11
+              },
+              "confidence": 0.99,
+              "source": "D(1,4.8335,9.9292,5.7097,9.9299,5.7099,10.1009,4.8338,10.1061)"
+            },
+            {
+              "content": "fee",
+              "span": {
+                "offset": 2428,
+                "length": 3
+              },
+              "confidence": 0.98,
+              "source": "D(1,5.7475,9.9299,5.9593,9.9301,5.9594,10.0994,5.7476,10.1006)"
+            },
+            {
+              "content": "none",
+              "span": {
+                "offset": 2432,
+                "length": 4
+              },
+              "confidence": 0.988,
+              "source": "D(1,6.0086,9.9301,6.3452,9.9304,6.3452,10.0971,6.0087,10.0991)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2436,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,6.3539,9.9304,6.3916,9.9305,6.3916,10.0968,6.3539,10.097)"
+            },
+            {
+              "content": "Risk",
+              "span": {
+                "offset": 2438,
+                "length": 4
+              },
+              "confidence": 0.991,
+              "source": "D(1,0.6824,10.2439,0.9887,10.2436,0.9906,10.4138,0.6845,10.4135)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 2442,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,0.983,10.2436,1.0114,10.2435,1.0133,10.4138,0.9849,10.4138)"
+            },
+            {
+              "content": "SRRI",
+              "span": {
+                "offset": 2444,
+                "length": 4
+              },
+              "confidence": 0.738,
+              "source": "D(1,1.0681,10.2435,1.4197,10.2431,1.4215,10.4142,1.07,10.4139)"
+            },
+            {
+              "content": "6",
+              "span": {
+                "offset": 2449,
+                "length": 1
+              },
+              "confidence": 0.523,
+              "source": "D(1,1.4736,10.243,1.5502,10.2429,1.5518,10.4143,1.4753,10.4143)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2450,
+                "length": 1
+              },
+              "confidence": 0.912,
+              "source": "D(1,1.5644,10.2429,1.5927,10.2429,1.5944,10.4144,1.566,10.4144)"
+            },
+            {
+              "content": "Past",
+              "span": {
+                "offset": 2452,
+                "length": 4
+              },
+              "confidence": 0.476,
+              "source": "D(1,1.6523,10.2428,1.9529,10.2425,1.9544,10.4147,1.6539,10.4145)"
+            },
+            {
+              "content": "performance",
+              "span": {
+                "offset": 2457,
+                "length": 11
+              },
+              "confidence": 0.977,
+              "source": "D(1,1.9982,10.2424,2.8489,10.2423,2.8501,10.4148,1.9997,10.4148)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 2469,
+                "length": 2
+              },
+              "confidence": 0.997,
+              "source": "D(1,2.9,10.2423,2.9936,10.2424,2.9947,10.4147,2.9011,10.4147)"
+            },
+            {
+              "content": "not",
+              "span": {
+                "offset": 2472,
+                "length": 3
+              },
+              "confidence": 0.983,
+              "source": "D(1,3.0475,10.2424,3.263,10.2425,3.2639,10.4145,3.0485,10.4146)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 2476,
+                "length": 1
+              },
+              "confidence": 0.971,
+              "source": "D(1,3.3055,10.2425,3.3821,10.2426,3.383,10.4144,3.3065,10.4144)"
+            },
+            {
+              "content": "reliable",
+              "span": {
+                "offset": 2478,
+                "length": 8
+              },
+              "confidence": 0.979,
+              "source": "D(1,3.4274,10.2426,3.918,10.2429,3.9187,10.414,3.4284,10.4143)"
+            },
+            {
+              "content": "indicator",
+              "span": {
+                "offset": 2487,
+                "length": 9
+              },
+              "confidence": 0.994,
+              "source": "D(1,3.9634,10.2429,4.5419,10.244,4.5423,10.4126,3.9641,10.4139)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 2497,
+                "length": 2
+              },
+              "confidence": 0.986,
+              "source": "D(1,4.5816,10.2441,4.7205,10.2444,4.7209,10.4121,4.582,10.4125)"
+            },
+            {
+              "content": "future",
+              "span": {
+                "offset": 2500,
+                "length": 6
+              },
+              "confidence": 0.964,
+              "source": "D(1,4.7461,10.2445,5.1346,10.2453,5.1348,10.4111,4.7464,10.4121)"
+            },
+            {
+              "content": "results",
+              "span": {
+                "offset": 2507,
+                "length": 7
+              },
+              "confidence": 0.978,
+              "source": "D(1,5.1856,10.2454,5.6337,10.2464,5.6337,10.4099,5.1858,10.411)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2514,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,5.6393,10.2464,5.6734,10.2465,5.6734,10.4098,5.6393,10.4099)"
+            }
+          ],
+          "lines": [
+            {
+              "content": "Northbridge Global Equity Fund - Factsheet",
+              "source": "D(1,0.6865,0.7361,6.4521,0.7363,6.4521,1.0323,0.6865,1.0322)",
+              "span": {
+                "offset": 2,
+                "length": 42
+              }
+            },
+            {
+              "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014",
+              "source": "D(1,0.6809,1.3857,6.3755,1.3856,6.3755,1.5705,0.6809,1.5706)",
+              "span": {
+                "offset": 46,
+                "length": 75
+              }
+            },
+            {
+              "content": "Objective: long-term capital growth through a diversified portfolio of global equities.",
+              "source": "D(1,0.6814,1.6922,6.2746,1.6917,6.2746,1.8768,0.6814,1.8773)",
+              "span": {
+                "offset": 122,
+                "length": 87
+              }
+            },
+            {
+              "content": "Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.",
+              "source": "D(1,0.6809,2.0015,6.3472,1.9929,6.3475,2.1724,0.6812,2.181)",
+              "span": {
+                "offset": 210,
+                "length": 78
+              }
+            },
+            {
+              "content": "Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.",
+              "source": "D(1,0.6829,2.3041,6.3876,2.3013,6.3877,2.4792,0.683,2.482)",
+              "span": {
+                "offset": 289,
+                "length": 77
+              }
+            },
+            {
+              "content": "Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+              "source": "D(1,0.6804,2.6058,5.6774,2.6056,5.6774,2.7828,0.6804,2.7831)",
+              "span": {
+                "offset": 367,
+                "length": 77
+              }
+            },
+            {
+              "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014",
+              "source": "D(1,0.6804,2.9094,6.3755,2.9044,6.3756,3.0857,0.6806,3.0907)",
+              "span": {
+                "offset": 446,
+                "length": 75
+              }
+            },
+            {
+              "content": "Objective: long-term capital growth through a diversified portfolio of global equities.",
+              "source": "D(1,0.6829,3.2227,6.2746,3.2204,6.2747,3.4016,0.683,3.4039)",
+              "span": {
+                "offset": 522,
+                "length": 87
+              }
+            },
+            {
+              "content": "Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.",
+              "source": "D(1,0.6809,3.5255,6.3472,3.5133,6.3476,3.6952,0.6813,3.708)",
+              "span": {
+                "offset": 610,
+                "length": 78
+              }
+            },
+            {
+              "content": "Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.",
+              "source": "D(1,0.6814,3.83,6.3916,3.8237,6.3918,4.005,0.6816,4.0095)",
+              "span": {
+                "offset": 689,
+                "length": 77
+              }
+            },
+            {
+              "content": "Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+              "source": "D(1,0.6829,4.1348,5.6734,4.134,5.6734,4.3079,0.683,4.3087)",
+              "span": {
+                "offset": 767,
+                "length": 77
+              }
+            },
+            {
+              "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014",
+              "source": "D(1,0.6804,4.4382,6.3715,4.4395,6.3714,4.6245,0.6804,4.6232)",
+              "span": {
+                "offset": 846,
+                "length": 75
+              }
+            },
+            {
+              "content": "Objective: long-term capital growth through a diversified portfolio of global equities.",
+              "source": "D(1,0.6829,4.7443,6.2746,4.7395,6.2748,4.9199,0.6832,4.9264)",
+              "span": {
+                "offset": 922,
+                "length": 87
+              }
+            },
+            {
+              "content": "Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.",
+              "source": "D(1,0.6814,5.057,6.3472,5.0418,6.3479,5.2148,0.6821,5.2365)",
+              "span": {
+                "offset": 1010,
+                "length": 78
+              }
+            },
+            {
+              "content": "Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.",
+              "source": "D(1,0.6829,5.3524,6.3916,5.3498,6.3917,5.5295,0.683,5.5323)",
+              "span": {
+                "offset": 1089,
+                "length": 77
+              }
+            },
+            {
+              "content": "Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+              "source": "D(1,0.6829,5.6619,5.6774,5.6619,5.6774,5.8363,0.6829,5.8363)",
+              "span": {
+                "offset": 1167,
+                "length": 77
+              }
+            },
+            {
+              "content": "NAV per unit: USD 142.37 | Fund reliable indicator of future results.",
+              "source": "D(1,0.6849,5.9557,5.6785,5.6578,5.69,5.8661,0.6989,6.1654)",
+              "span": {
+                "offset": 1246,
+                "length": 69
+              }
+            },
+            {
+              "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014",
+              "source": "D(1,0.6829,5.9694,6.3714,5.9651,6.3716,6.1395,0.6831,6.1437)",
+              "span": {
+                "offset": 1317,
+                "length": 75
+              }
+            },
+            {
+              "content": "Objective: long-term capital growth through a diversified portfolio of global equities.",
+              "source": "D(1,0.6855,6.2703,6.2746,6.2698,6.2746,6.4536,0.6855,6.4541)",
+              "span": {
+                "offset": 1393,
+                "length": 87
+              }
+            },
+            {
+              "content": "Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.",
+              "source": "D(1,0.6814,6.5738,6.3472,6.5589,6.3479,6.7377,0.6821,6.7594)",
+              "span": {
+                "offset": 1481,
+                "length": 78
+              }
+            },
+            {
+              "content": "Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.",
+              "source": "D(1,0.6829,6.8834,6.3916,6.8791,6.3917,7.0557,0.6831,7.06)",
+              "span": {
+                "offset": 1560,
+                "length": 77
+              }
+            },
+            {
+              "content": "Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+              "source": "D(1,0.6855,7.186,5.6774,7.1806,5.6776,7.3509,0.6857,7.358)",
+              "span": {
+                "offset": 1638,
+                "length": 77
+              }
+            },
+            {
+              "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014",
+              "source": "D(1,0.6814,7.4943,6.3714,7.4937,6.3714,7.6726,0.6814,7.6731)",
+              "span": {
+                "offset": 1717,
+                "length": 75
+              }
+            },
+            {
+              "content": "Objective: long-term capital growth through a diversified portfolio of global equities.",
+              "source": "D(1,0.6839,7.7936,6.2746,7.7936,6.2746,7.9765,0.6839,7.9765)",
+              "span": {
+                "offset": 1793,
+                "length": 87
+              }
+            },
+            {
+              "content": "Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.",
+              "source": "D(1,0.6784,8.0981,6.3472,8.0944,6.3473,8.2778,0.6785,8.2815)",
+              "span": {
+                "offset": 1881,
+                "length": 78
+              }
+            },
+            {
+              "content": "Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.",
+              "source": "D(1,0.6804,8.4062,6.3916,8.4048,6.3916,8.5824,0.6805,8.5836)",
+              "span": {
+                "offset": 1960,
+                "length": 77
+              }
+            },
+            {
+              "content": "Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+              "source": "D(1,0.6824,8.7101,5.6774,8.7076,5.6775,8.8794,0.6825,8.8819)",
+              "span": {
+                "offset": 2038,
+                "length": 77
+              }
+            },
+            {
+              "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014",
+              "source": "D(1,0.6794,9.0227,6.3714,9.0221,6.3714,9.194,0.6794,9.1945)",
+              "span": {
+                "offset": 2117,
+                "length": 75
+              }
+            },
+            {
+              "content": "Objective: long-term capital growth through a diversified portfolio of global equities.",
+              "source": "D(1,0.6809,9.3256,6.2746,9.3256,6.2746,9.507,0.6809,9.507)",
+              "span": {
+                "offset": 2193,
+                "length": 87
+              }
+            },
+            {
+              "content": "Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%.",
+              "source": "D(1,0.6789,9.6331,6.3472,9.6216,6.3476,9.799,0.6793,9.8114)",
+              "span": {
+                "offset": 2281,
+                "length": 78
+              }
+            },
+            {
+              "content": "Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none.",
+              "source": "D(1,0.6814,9.9323,6.3916,9.9272,6.3918,10.1083,0.6816,10.1121)",
+              "span": {
+                "offset": 2360,
+                "length": 77
+              }
+            },
+            {
+              "content": "Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+              "source": "D(1,0.6824,10.2421,5.6734,10.2421,5.6734,10.4151,0.6824,10.4151)",
+              "span": {
+                "offset": 2438,
+                "length": 77
+              }
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "role": "title",
+          "content": "Northbridge Global Equity Fund - Factsheet",
+          "source": "D(1,0.6865,0.7361,6.4521,0.7362,6.4521,1.0323,0.6865,1.0322)",
+          "span": {
+            "offset": 0,
+            "length": 44
+          }
+        },
+        {
+          "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014 Objective: long-term capital growth through a diversified portfolio of global equities. Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%. Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none. Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+          "source": "D(1,0.6804,1.3857,6.3876,1.3856,6.3877,2.783,0.6804,2.7831)",
+          "span": {
+            "offset": 46,
+            "length": 398
+          }
+        },
+        {
+          "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014 Objective: long-term capital growth through a diversified portfolio of global equities. Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%. Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none. Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+          "source": "D(1,0.6804,2.9094,6.3908,2.9044,6.3921,4.3072,0.6816,4.3122)",
+          "span": {
+            "offset": 446,
+            "length": 398
+          }
+        },
+        {
+          "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014 Objective: long-term capital growth through a diversified portfolio of global equities. Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%. Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none. Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+          "source": "D(1,0.6804,4.4382,6.3917,4.4382,6.3917,5.8363,0.6804,5.8363)",
+          "span": {
+            "offset": 846,
+            "length": 398
+          }
+        },
+        {
+          "content": "NAV per unit: USD 142.37 | Fund reliable indicator of future results.",
+          "source": "D(1,5.6785,5.6578,5.691,5.8675,0.6974,6.1655,0.6849,5.9557)",
+          "span": {
+            "offset": 1246,
+            "length": 69
+          }
+        },
+        {
+          "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014 Objective: long-term capital growth through a diversified portfolio of global equities. Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%. Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none. Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+          "source": "D(1,0.6806,5.9694,6.3903,5.9613,6.3923,7.3499,0.6825,7.358)",
+          "span": {
+            "offset": 1317,
+            "length": 398
+          }
+        },
+        {
+          "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014 Objective: long-term capital growth through a diversified portfolio of global equities. Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%. Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none. Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+          "source": "D(1,0.6781,7.4943,6.3911,7.4914,6.3918,8.879,0.6788,8.8819)",
+          "span": {
+            "offset": 1717,
+            "length": 398
+          }
+        },
+        {
+          "content": "NAV per unit: USD 142.37 | Fund size: USD 1.84bn | Inception: 14 March 2014 Objective: long-term capital growth through a diversified portfolio of global equities. Top holdings: Microsoft 5.8%, Apple 5.1%, NVIDIA 4.7%, Nestle 3.2%, ASML 2.9%. Fees: Management fee 0.85% p.a.; Ongoing charges 1.02%; Performance fee none. Risk: SRRI 6. Past performance is not a reliable indicator of future results.",
+          "source": "D(1,0.6788,9.0227,6.3917,9.0221,6.3918,10.4151,0.679,10.4156)",
+          "span": {
+            "offset": 2117,
+            "length": 398
+          }
+        }
+      ],
+      "sections": [
+        {
+          "span": {
+            "offset": 0,
+            "length": 2515
+          },
+          "elements": [
+            "/paragraphs/0",
+            "/paragraphs/1",
+            "/paragraphs/2",
+            "/paragraphs/3",
+            "/paragraphs/4",
+            "/paragraphs/5",
+            "/paragraphs/6",
+            "/paragraphs/7"
+          ]
+        }
+      ],
+      "analyzerId": "prebuilt-layout",
+      "mimeType": "application/pdf"
+    }
+  ]
+}

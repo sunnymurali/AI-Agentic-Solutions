@@ -1,0 +1,1132 @@
+{
+  "analyzerId": "prebuilt-layout",
+  "apiVersion": "2025-11-01",
+  "createdAt": "2026-10-29T02:43:37Z",
+  "stringEncoding": "codePoint",
+  "warnings": [],
+  "contents": [
+    {
+      "path": "input1",
+      "markdown": "# Orion Strategies - Master-Feeder Structure\n\n\n![Orion Capital GP Ltd General Partner / Investment Manager manages Orion Master Fund LP Cayman Islands invests Orion Onshore Feeder LP Delaware - US taxable Orion Offshore Feeder Ltd Cayman - non-US / tax-exempt Orion Europe Feeder SICAV Luxembourg - UCITS-like US Taxable Investors Non-US Investors EU Investors](figures/1.1)\n\n\nService providers (to the Master Fund):\n\nPrime Broker: Goldman Sachs\n\nAdministrator: Apex Fund Services\n\nCustodian: BNP Paribas\n",
+      "kind": "document",
+      "startPageNumber": 1,
+      "endPageNumber": 1,
+      "unit": "inch",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "angle": 0,
+          "width": 11.6944,
+          "height": 8.2639,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 505
+            }
+          ],
+          "words": [
+            {
+              "content": "Orion",
+              "span": {
+                "offset": 2,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,0.4026,0.3148,0.914,0.3137,0.914,0.5289,0.4026,0.5288)"
+            },
+            {
+              "content": "Strategies",
+              "span": {
+                "offset": 8,
+                "length": 10
+              },
+              "confidence": 0.993,
+              "source": "D(1,0.9784,0.3135,1.9155,0.3118,1.9155,0.5288,0.9784,0.5289)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 19,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,1.9727,0.3117,2.0442,0.3117,2.0442,0.5287,1.9727,0.5288)"
+            },
+            {
+              "content": "Master",
+              "span": {
+                "offset": 21,
+                "length": 6
+              },
+              "confidence": 0.993,
+              "source": "D(1,2.0979,0.3117,2.7238,0.3113,2.7238,0.5277,2.0979,0.5286)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 27,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.7202,0.3113,2.7846,0.3113,2.7846,0.5276,2.7202,0.5277)"
+            },
+            {
+              "content": "Feeder",
+              "span": {
+                "offset": 28,
+                "length": 6
+              },
+              "confidence": 0.987,
+              "source": "D(1,2.7882,0.3113,3.4284,0.3116,3.4284,0.526,2.7882,0.5276)"
+            },
+            {
+              "content": "Structure",
+              "span": {
+                "offset": 35,
+                "length": 9
+              },
+              "confidence": 0.993,
+              "source": "D(1,3.4713,0.3117,4.3512,0.3127,4.3512,0.5231,3.4713,0.5258)"
+            },
+            {
+              "content": "Orion",
+              "span": {
+                "offset": 49,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.222,0.8865,5.5534,0.885,5.5534,1.0296,5.222,1.0312)"
+            },
+            {
+              "content": "Capital",
+              "span": {
+                "offset": 55,
+                "length": 7
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.5924,0.8848,6.0066,0.8837,6.0066,1.0286,5.5924,1.0294)"
+            },
+            {
+              "content": "GP",
+              "span": {
+                "offset": 63,
+                "length": 2
+              },
+              "confidence": 0.995,
+              "source": "D(1,6.0481,0.8835,6.2259,0.8833,6.2259,1.0289,6.0481,1.0286)"
+            },
+            {
+              "content": "Ltd",
+              "span": {
+                "offset": 66,
+                "length": 3
+              },
+              "confidence": 0.992,
+              "source": "D(1,6.2649,0.8833,6.4696,0.8831,6.4696,1.0293,6.2649,1.0289)"
+            },
+            {
+              "content": "General",
+              "span": {
+                "offset": 70,
+                "length": 7
+              },
+              "confidence": 0.994,
+              "source": "D(1,4.8879,1.05,5.2852,1.0489,5.2852,1.1807,4.8879,1.1803)"
+            },
+            {
+              "content": "Partner",
+              "span": {
+                "offset": 78,
+                "length": 7
+              },
+              "confidence": 0.99,
+              "source": "D(1,5.3206,1.0489,5.687,1.0487,5.687,1.1814,5.3206,1.1807)"
+            },
+            {
+              "content": "/",
+              "span": {
+                "offset": 86,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.7047,1.0487,5.7532,1.0488,5.7532,1.1816,5.7047,1.1815)"
+            },
+            {
+              "content": "Investment",
+              "span": {
+                "offset": 88,
+                "length": 10
+              },
+              "confidence": 0.936,
+              "source": "D(1,5.7819,1.0489,6.3227,1.0507,6.3227,1.1835,5.7819,1.1817)"
+            },
+            {
+              "content": "Manager",
+              "span": {
+                "offset": 99,
+                "length": 7
+              },
+              "confidence": 0.981,
+              "source": "D(1,6.3514,1.0509,6.7951,1.0538,6.7951,1.1857,6.3514,1.1837)"
+            },
+            {
+              "content": "manages",
+              "span": {
+                "offset": 107,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,5.8872,1.4745,6.3097,1.4752,6.3097,1.5821,5.8872,1.5799)"
+            },
+            {
+              "content": "Orion",
+              "span": {
+                "offset": 115,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,5.1791,1.9989,5.5112,1.9985,5.5112,2.1338,5.1791,2.1325)"
+            },
+            {
+              "content": "Master",
+              "span": {
+                "offset": 121,
+                "length": 6
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.557,1.9985,5.9646,1.9976,5.9646,2.1347,5.557,2.134)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 128,
+                "length": 4
+              },
+              "confidence": 0.989,
+              "source": "D(1,5.9967,1.9976,6.2921,1.9967,6.2921,2.1345,5.9967,2.1347)"
+            },
+            {
+              "content": "LP",
+              "span": {
+                "offset": 133,
+                "length": 2
+              },
+              "confidence": 0.994,
+              "source": "D(1,6.3356,1.9966,6.4982,1.9961,6.4982,2.1343,6.3356,2.1345)"
+            },
+            {
+              "content": "Cayman",
+              "span": {
+                "offset": 136,
+                "length": 6
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.4361,2.1649,5.8521,2.1646,5.8521,2.2896,5.4361,2.29)"
+            },
+            {
+              "content": "Islands",
+              "span": {
+                "offset": 143,
+                "length": 7
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.8922,2.1645,6.2469,2.1634,6.2469,2.2885,5.8922,2.2896)"
+            },
+            {
+              "content": "invests",
+              "span": {
+                "offset": 151,
+                "length": 7
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.8872,2.7769,6.207,2.7779,6.207,2.8738,5.8872,2.8698)"
+            },
+            {
+              "content": "Orion",
+              "span": {
+                "offset": 159,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.0271,3.5217,1.3634,3.5235,1.3645,3.6579,1.0285,3.6576)"
+            },
+            {
+              "content": "Onshore",
+              "span": {
+                "offset": 165,
+                "length": 7
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.4038,3.5238,1.9194,3.5246,1.92,3.6578,1.4048,3.6579)"
+            },
+            {
+              "content": "Feeder",
+              "span": {
+                "offset": 173,
+                "length": 6
+              },
+              "confidence": 0.991,
+              "source": "D(1,1.9575,3.5246,2.37,3.5229,2.3702,3.6572,1.9581,3.6578)"
+            },
+            {
+              "content": "LP",
+              "span": {
+                "offset": 180,
+                "length": 2
+              },
+              "confidence": 0.986,
+              "source": "D(1,2.4037,3.5228,2.5696,3.5219,2.5696,3.6569,2.4038,3.6572)"
+            },
+            {
+              "content": "Delaware",
+              "span": {
+                "offset": 183,
+                "length": 8
+              },
+              "confidence": 0.992,
+              "source": "D(1,1.237,3.6906,1.7117,3.6889,1.7117,3.8134,1.237,3.8155)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 192,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,1.7447,3.6887,1.7839,3.6885,1.7839,3.8128,1.7447,3.8131)"
+            },
+            {
+              "content": "US",
+              "span": {
+                "offset": 194,
+                "length": 2
+              },
+              "confidence": 0.99,
+              "source": "D(1,1.8107,3.6883,1.9635,3.6874,1.9635,3.8111,1.8108,3.8125)"
+            },
+            {
+              "content": "taxable",
+              "span": {
+                "offset": 197,
+                "length": 7
+              },
+              "confidence": 0.971,
+              "source": "D(1,1.9944,3.6872,2.3597,3.6841,2.3597,3.8054,1.9944,3.8108)"
+            },
+            {
+              "content": "Orion",
+              "span": {
+                "offset": 205,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.0507,3.5226,5.3857,3.5226,5.3857,3.6596,5.0507,3.6603)"
+            },
+            {
+              "content": "Offshore",
+              "span": {
+                "offset": 211,
+                "length": 8
+              },
+              "confidence": 0.995,
+              "source": "D(1,5.4247,3.5226,5.9479,3.5226,5.9479,3.6589,5.4247,3.6595)"
+            },
+            {
+              "content": "Feeder",
+              "span": {
+                "offset": 220,
+                "length": 6
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.987,3.5226,6.3954,3.5226,6.3954,3.6589,5.987,3.6588)"
+            },
+            {
+              "content": "Ltd",
+              "span": {
+                "offset": 227,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,6.4276,3.5226,6.6295,3.5226,6.6295,3.6591,6.4276,3.6589)"
+            },
+            {
+              "content": "Cayman",
+              "span": {
+                "offset": 231,
+                "length": 6
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.0706,3.6916,5.4845,3.6888,5.4845,3.8224,5.0706,3.8262)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 238,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.5182,3.6885,5.561,3.6882,5.561,3.8217,5.5182,3.8221)"
+            },
+            {
+              "content": "non",
+              "span": {
+                "offset": 240,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,5.5902,3.6881,5.7656,3.6882,5.7656,3.8215,5.5902,3.8215)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 243,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.7746,3.6883,5.8084,3.6883,5.8084,3.8215,5.7746,3.8215)"
+            },
+            {
+              "content": "US",
+              "span": {
+                "offset": 244,
+                "length": 2
+              },
+              "confidence": 0.998,
+              "source": "D(1,5.8129,3.6883,5.9613,3.6884,5.9613,3.8215,5.8129,3.8215)"
+            },
+            {
+              "content": "/",
+              "span": {
+                "offset": 247,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.9861,3.6885,6.0356,3.6885,6.0356,3.8216,5.9861,3.8216)"
+            },
+            {
+              "content": "tax",
+              "span": {
+                "offset": 249,
+                "length": 3
+              },
+              "confidence": 0.99,
+              "source": "D(1,6.0558,3.6885,6.2065,3.6895,6.2065,3.8226,6.0558,3.8216)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 252,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,6.2065,3.6895,6.2425,3.6898,6.2425,3.8229,6.2065,3.8226)"
+            },
+            {
+              "content": "exempt",
+              "span": {
+                "offset": 253,
+                "length": 6
+              },
+              "confidence": 0.994,
+              "source": "D(1,6.2402,3.6898,6.6181,3.6931,6.6181,3.8265,6.2402,3.8229)"
+            },
+            {
+              "content": "Orion",
+              "span": {
+                "offset": 260,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,9.0392,3.5219,9.3795,3.5201,9.3795,3.6653,9.0392,3.6674)"
+            },
+            {
+              "content": "Europe",
+              "span": {
+                "offset": 266,
+                "length": 6
+              },
+              "confidence": 0.997,
+              "source": "D(1,9.4212,3.5199,9.8472,3.5186,9.8472,3.6639,9.4212,3.6651)"
+            },
+            {
+              "content": "Feeder",
+              "span": {
+                "offset": 273,
+                "length": 6
+              },
+              "confidence": 0.996,
+              "source": "D(1,9.8888,3.5185,10.3026,3.5184,10.3026,3.6644,9.8888,3.6638)"
+            },
+            {
+              "content": "SICAV",
+              "span": {
+                "offset": 280,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,10.3295,3.5184,10.7237,3.5193,10.7237,3.6666,10.3295,3.6646)"
+            },
+            {
+              "content": "Luxembourg",
+              "span": {
+                "offset": 286,
+                "length": 10
+              },
+              "confidence": 0.992,
+              "source": "D(1,9.2505,3.692,9.8707,3.6883,9.8707,3.8225,9.2505,3.8263)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 297,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,9.8979,3.6882,9.9386,3.688,9.9386,3.8221,9.8979,3.8224)"
+            },
+            {
+              "content": "UCITS",
+              "span": {
+                "offset": 299,
+                "length": 5
+              },
+              "confidence": 0.991,
+              "source": "D(1,9.9703,3.6878,10.3031,3.6862,10.3031,3.8205,9.9703,3.822)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 304,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,10.3008,3.6862,10.3325,3.686,10.3325,3.8203,10.3008,3.8205)"
+            },
+            {
+              "content": "like",
+              "span": {
+                "offset": 305,
+                "length": 4
+              },
+              "confidence": 0.995,
+              "source": "D(1,10.3371,3.686,10.5181,3.6851,10.5181,3.8196,10.3371,3.8203)"
+            },
+            {
+              "content": "US",
+              "span": {
+                "offset": 310,
+                "length": 2
+              },
+              "confidence": 0.993,
+              "source": "D(1,1.1592,5.1281,1.3324,5.1282,1.3324,5.2655,1.1592,5.2669)"
+            },
+            {
+              "content": "Taxable",
+              "span": {
+                "offset": 313,
+                "length": 7
+              },
+              "confidence": 0.987,
+              "source": "D(1,1.3679,5.1282,1.832,5.1296,1.832,5.2624,1.3679,5.2652)"
+            },
+            {
+              "content": "Investors",
+              "span": {
+                "offset": 321,
+                "length": 9
+              },
+              "confidence": 0.987,
+              "source": "D(1,1.872,5.1298,2.4382,5.1343,2.4382,5.2618,1.872,5.2623)"
+            },
+            {
+              "content": "Non",
+              "span": {
+                "offset": 331,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.3048,5.1308,5.5523,5.1321,5.5523,5.2636,5.3048,5.2631)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 334,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.5653,5.1321,5.604,5.1323,5.604,5.2637,5.5653,5.2636)"
+            },
+            {
+              "content": "US",
+              "span": {
+                "offset": 335,
+                "length": 2
+              },
+              "confidence": 0.993,
+              "source": "D(1,5.604,5.1323,5.7719,5.1322,5.7719,5.263,5.604,5.2637)"
+            },
+            {
+              "content": "Investors",
+              "span": {
+                "offset": 338,
+                "length": 9
+              },
+              "confidence": 0.962,
+              "source": "D(1,5.8128,5.1321,6.3726,5.1269,6.3726,5.2554,5.8128,5.2627)"
+            },
+            {
+              "content": "EU",
+              "span": {
+                "offset": 348,
+                "length": 2
+              },
+              "confidence": 0.993,
+              "source": "D(1,9.4846,5.1327,9.6688,5.1327,9.6688,5.2618,9.4846,5.2618)"
+            },
+            {
+              "content": "Investors",
+              "span": {
+                "offset": 351,
+                "length": 9
+              },
+              "confidence": 0.946,
+              "source": "D(1,9.7094,5.1327,10.2726,5.1327,10.2726,5.2618,9.7094,5.2618)"
+            },
+            {
+              "content": "Service",
+              "span": {
+                "offset": 377,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,0.3961,6.0687,0.8232,6.0675,0.8234,6.2136,0.3965,6.2127)"
+            },
+            {
+              "content": "providers",
+              "span": {
+                "offset": 385,
+                "length": 9
+              },
+              "confidence": 0.99,
+              "source": "D(1,0.8598,6.0674,1.3722,6.0665,1.3724,6.2143,0.86,6.2136)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 395,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,1.4136,6.0665,1.4502,6.0664,1.4504,6.2143,1.4138,6.2143)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 396,
+                "length": 2
+              },
+              "confidence": 0.974,
+              "source": "D(1,1.4502,6.0664,1.5576,6.0664,1.5578,6.2144,1.4504,6.2143)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 399,
+                "length": 3
+              },
+              "confidence": 0.941,
+              "source": "D(1,1.5844,6.0664,1.7601,6.0663,1.7603,6.2145,1.5846,6.2144)"
+            },
+            {
+              "content": "Master",
+              "span": {
+                "offset": 403,
+                "length": 6
+              },
+              "confidence": 0.82,
+              "source": "D(1,1.7967,6.0662,2.1896,6.0668,2.1896,6.2143,1.7969,6.2145)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 410,
+                "length": 4
+              },
+              "confidence": 0.964,
+              "source": "D(1,2.2237,6.0668,2.497,6.0673,2.497,6.214,2.2238,6.2143)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 414,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.4995,6.0673,2.5409,6.0674,2.541,6.214,2.4995,6.214)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 415,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.5434,6.0674,2.5824,6.0675,2.5824,6.214,2.5434,6.214)"
+            },
+            {
+              "content": "Prime",
+              "span": {
+                "offset": 418,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,1.5774,6.7991,1.9358,6.7991,1.9358,6.9363,1.5774,6.9363)"
+            },
+            {
+              "content": "Broker",
+              "span": {
+                "offset": 424,
+                "length": 6
+              },
+              "confidence": 0.998,
+              "source": "D(1,1.9768,6.7991,2.3831,6.7991,2.3831,6.9363,1.9768,6.9363)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 430,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,2.3831,6.7991,2.415,6.7991,2.415,6.9363,2.3831,6.9363)"
+            },
+            {
+              "content": "Goldman",
+              "span": {
+                "offset": 432,
+                "length": 7
+              },
+              "confidence": 0.998,
+              "source": "D(1,2.4561,6.7991,2.9879,6.7991,2.9879,6.9363,2.4561,6.9363)"
+            },
+            {
+              "content": "Sachs",
+              "span": {
+                "offset": 440,
+                "length": 5
+              },
+              "confidence": 0.998,
+              "source": "D(1,3.029,6.7991,3.4033,6.7991,3.4033,6.9363,3.029,6.9363)"
+            },
+            {
+              "content": "Administrator",
+              "span": {
+                "offset": 447,
+                "length": 13
+              },
+              "confidence": 0.999,
+              "source": "D(1,4.7766,6.804,5.6195,6.7993,5.6195,6.9441,4.7766,6.9416)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 460,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,5.6219,6.7993,5.6526,6.7993,5.6526,6.9441,5.6219,6.9441)"
+            },
+            {
+              "content": "Apex",
+              "span": {
+                "offset": 462,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,5.6856,6.7993,5.9973,6.7991,5.9973,6.9445,5.6856,6.9442)"
+            },
+            {
+              "content": "Fund",
+              "span": {
+                "offset": 467,
+                "length": 4
+              },
+              "confidence": 0.993,
+              "source": "D(1,6.0351,6.7991,6.3255,6.7998,6.3255,6.9446,6.0351,6.9446)"
+            },
+            {
+              "content": "Services",
+              "span": {
+                "offset": 472,
+                "length": 8
+              },
+              "confidence": 0.997,
+              "source": "D(1,6.368,6.8,6.8922,6.803,6.8922,6.944,6.368,6.9446)"
+            },
+            {
+              "content": "Custodian",
+              "span": {
+                "offset": 482,
+                "length": 9
+              },
+              "confidence": 0.997,
+              "source": "D(1,8.4625,6.8027,9.0754,6.8004,9.0754,6.9305,8.4625,6.9317)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 491,
+                "length": 1
+              },
+              "confidence": 0.999,
+              "source": "D(1,9.0884,6.8004,9.1165,6.8004,9.1165,6.9305,9.0884,6.9305)"
+            },
+            {
+              "content": "BNP",
+              "span": {
+                "offset": 493,
+                "length": 3
+              },
+              "confidence": 0.994,
+              "source": "D(1,9.1618,6.8005,9.4165,6.8006,9.4165,6.9309,9.1618,6.9306)"
+            },
+            {
+              "content": "Paribas",
+              "span": {
+                "offset": 497,
+                "length": 7
+              },
+              "confidence": 0.995,
+              "source": "D(1,9.4575,6.8008,9.9129,6.8037,9.9129,6.9335,9.4575,6.9311)"
+            }
+          ],
+          "lines": [
+            {
+              "content": "Orion Strategies - Master-Feeder Structure",
+              "source": "D(1,0.4025,0.3126,4.3512,0.3105,4.3512,0.5277,0.4026,0.5298)",
+              "span": {
+                "offset": 2,
+                "length": 42
+              }
+            },
+            {
+              "content": "Orion Capital GP Ltd",
+              "source": "D(1,5.2217,0.8848,6.4696,0.8829,6.4696,1.0293,5.222,1.0312)",
+              "span": {
+                "offset": 49,
+                "length": 20
+              }
+            },
+            {
+              "content": "General Partner / Investment Manager",
+              "source": "D(1,4.8879,1.046,6.7951,1.0514,6.7951,1.1857,4.8879,1.1803)",
+              "span": {
+                "offset": 70,
+                "length": 36
+              }
+            },
+            {
+              "content": "manages",
+              "source": "D(1,5.8872,1.4745,6.3097,1.4752,6.3097,1.5821,5.8872,1.5814)",
+              "span": {
+                "offset": 107,
+                "length": 7
+              }
+            },
+            {
+              "content": "Orion Master Fund LP",
+              "source": "D(1,5.1791,1.9977,6.4982,1.9961,6.4982,2.1343,5.1791,2.1359)",
+              "span": {
+                "offset": 115,
+                "length": 20
+              }
+            },
+            {
+              "content": "Cayman Islands",
+              "source": "D(1,5.4361,2.1649,6.2469,2.1634,6.2469,2.2889,5.4361,2.2901)",
+              "span": {
+                "offset": 136,
+                "length": 14
+              }
+            },
+            {
+              "content": "invests",
+              "source": "D(1,5.8872,2.7769,6.207,2.7779,6.207,2.8738,5.8872,2.8728)",
+              "span": {
+                "offset": 151,
+                "length": 7
+              }
+            },
+            {
+              "content": "Orion Onshore Feeder LP",
+              "source": "D(1,1.0271,3.5217,2.5696,3.5219,2.5696,3.6581,1.0271,3.6579)",
+              "span": {
+                "offset": 159,
+                "length": 23
+              }
+            },
+            {
+              "content": "Delaware - US taxable",
+              "source": "D(1,1.2362,3.6906,2.3597,3.6841,2.3605,3.81,1.237,3.8165)",
+              "span": {
+                "offset": 183,
+                "length": 21
+              }
+            },
+            {
+              "content": "Orion Offshore Feeder Ltd",
+              "source": "D(1,5.0507,3.5226,6.6295,3.5226,6.6295,3.6603,5.0507,3.6603)",
+              "span": {
+                "offset": 205,
+                "length": 25
+              }
+            },
+            {
+              "content": "Cayman - non-US / tax-exempt",
+              "source": "D(1,5.0706,3.688,6.6181,3.6883,6.6181,3.8265,5.0706,3.8262)",
+              "span": {
+                "offset": 231,
+                "length": 28
+              }
+            },
+            {
+              "content": "Orion Europe Feeder SICAV",
+              "source": "D(1,9.0392,3.5186,10.7237,3.518,10.7237,3.6666,9.0392,3.6674)",
+              "span": {
+                "offset": 260,
+                "length": 25
+              }
+            },
+            {
+              "content": "Luxembourg - UCITS-like",
+              "source": "D(1,9.2505,3.6916,10.5181,3.6849,10.5181,3.8196,9.2505,3.8263)",
+              "span": {
+                "offset": 286,
+                "length": 23
+              }
+            },
+            {
+              "content": "US Taxable Investors",
+              "source": "D(1,1.1592,5.1281,2.4382,5.1281,2.4382,5.2669,1.1592,5.2669)",
+              "span": {
+                "offset": 310,
+                "length": 20
+              }
+            },
+            {
+              "content": "Non-US Investors",
+              "source": "D(1,5.3048,5.1308,6.3726,5.1269,6.3726,5.2612,5.3048,5.2651)",
+              "span": {
+                "offset": 331,
+                "length": 16
+              }
+            },
+            {
+              "content": "EU Investors",
+              "source": "D(1,9.4846,5.1327,10.2726,5.1327,10.2726,5.2618,9.4846,5.2618)",
+              "span": {
+                "offset": 348,
+                "length": 12
+              }
+            },
+            {
+              "content": "Service providers (to the Master Fund):",
+              "source": "D(1,0.3961,6.0662,2.5824,6.0662,2.5824,6.2146,0.3961,6.2146)",
+              "span": {
+                "offset": 377,
+                "length": 39
+              }
+            },
+            {
+              "content": "Prime Broker: Goldman Sachs",
+              "source": "D(1,1.5774,6.7991,3.4033,6.7991,3.4033,6.9363,1.5774,6.9363)",
+              "span": {
+                "offset": 418,
+                "length": 27
+              }
+            },
+            {
+              "content": "Administrator: Apex Fund Services",
+              "source": "D(1,4.7766,6.799,6.8922,6.799,6.8922,6.9448,4.7766,6.9448)",
+              "span": {
+                "offset": 447,
+                "length": 33
+              }
+            },
+            {
+              "content": "Custodian: BNP Paribas",
+              "source": "D(1,8.4625,6.7994,9.9129,6.8012,9.9129,6.9335,8.4625,6.9317)",
+              "span": {
+                "offset": 482,
+                "length": 22
+              }
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "role": "title",
+          "content": "Orion Strategies - Master-Feeder Structure",
+          "source": "D(1,0.4025,0.3126,4.3512,0.3105,4.3513,0.5277,0.4026,0.5298)",
+          "span": {
+            "offset": 0,
+            "length": 44
+          }
+        },
+        {
+          "content": "Orion Capital GP Ltd General Partner / Investment Manager",
+          "source": "D(1,4.8884,0.8783,6.796,0.8838,6.7951,1.1857,4.8875,1.1803)",
+          "span": {
+            "offset": 49,
+            "length": 57
+          }
+        },
+        {
+          "content": "manages",
+          "source": "D(1,5.8872,1.4745,6.3099,1.4752,6.3097,1.5821,5.887,1.5814)",
+          "span": {
+            "offset": 107,
+            "length": 7
+          }
+        },
+        {
+          "content": "Orion Master Fund LP Cayman Islands",
+          "source": "D(1,5.179,1.9977,6.4982,1.9961,6.4985,2.2888,5.1793,2.2904)",
+          "span": {
+            "offset": 115,
+            "length": 35
+          }
+        },
+        {
+          "content": "invests",
+          "source": "D(1,5.8872,2.7769,6.2073,2.7779,6.207,2.8738,5.8869,2.8728)",
+          "span": {
+            "offset": 151,
+            "length": 7
+          }
+        },
+        {
+          "content": "Orion Onshore Feeder LP Delaware - US taxable",
+          "source": "D(1,1.0271,3.5217,2.5696,3.5219,2.5696,3.8167,1.0271,3.8165)",
+          "span": {
+            "offset": 159,
+            "length": 45
+          }
+        },
+        {
+          "content": "Orion Offshore Feeder Ltd Cayman - non-US / tax-exempt",
+          "source": "D(1,5.0507,3.5226,6.6295,3.5226,6.6295,3.8265,5.0507,3.8265)",
+          "span": {
+            "offset": 205,
+            "length": 54
+          }
+        },
+        {
+          "content": "Orion Europe Feeder SICAV Luxembourg - UCITS-like",
+          "source": "D(1,9.0392,3.5186,10.7237,3.518,10.7238,3.8258,9.0393,3.8264)",
+          "span": {
+            "offset": 260,
+            "length": 49
+          }
+        },
+        {
+          "content": "US Taxable Investors",
+          "source": "D(1,1.1592,5.1281,2.4382,5.1281,2.4382,5.2669,1.1592,5.2669)",
+          "span": {
+            "offset": 310,
+            "length": 20
+          }
+        },
+        {
+          "content": "Non-US Investors",
+          "source": "D(1,5.3043,5.1308,6.3726,5.1269,6.373,5.2612,5.3048,5.2651)",
+          "span": {
+            "offset": 331,
+            "length": 16
+          }
+        },
+        {
+          "content": "EU Investors",
+          "source": "D(1,9.4846,5.1326,10.2726,5.1326,10.2726,5.2618,9.4846,5.2618)",
+          "span": {
+            "offset": 348,
+            "length": 12
+          }
+        },
+        {
+          "content": "Service providers (to the Master Fund):",
+          "source": "D(1,0.3961,6.0662,2.5824,6.0662,2.5824,6.2146,0.3961,6.2146)",
+          "span": {
+            "offset": 377,
+            "length": 39
+          }
+        },
+        {
+          "content": "Prime Broker: Goldman Sachs",
+          "source": "D(1,1.5774,6.7991,3.4033,6.7991,3.4033,6.9363,1.5774,6.9363)",
+          "span": {
+            "offset": 418,
+            "length": 27
+          }
+        },
+        {
+          "content": "Administrator: Apex Fund Services",
+          "source": "D(1,4.7766,6.799,6.8922,6.799,6.8922,6.9448,4.7766,6.9448)",
+          "span": {
+            "offset": 447,
+            "length": 33
+          }
+        },
+        {
+          "content": "Custodian: BNP Paribas",
+          "source": "D(1,8.4625,6.7994,9.913,6.8012,9.9129,6.9335,8.4623,6.9317)",
+          "span": {
+            "offset": 482,
+            "length": 22
+          }
+        }
+      ],
+      "sections": [
+        {
+          "span": {
+            "offset": 0,
+            "length": 504
+          },
+          "elements": [
+            "/paragraphs/0",
+            "/figures/0",
+            "/paragraphs/11",
+            "/paragraphs/12",
+            "/paragraphs/13",
+            "/paragraphs/14"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "source": "D(1,0.3883,0.7525,11.3176,0.7304,11.3004,5.4353,0.3642,5.4555)",
+          "span": {
+            "offset": 47,
+            "length": 327
+          },
+          "elements": [
+            "/paragraphs/1",
+            "/paragraphs/2",
+            "/paragraphs/3",
+            "/paragraphs/4",
+            "/paragraphs/5",
+            "/paragraphs/6",
+            "/paragraphs/7",
+            "/paragraphs/8",
+            "/paragraphs/9",
+            "/paragraphs/10"
+          ],
+          "id": "1.1"
+        }
+      ],
+      "analyzerId": "prebuilt-layout",
+      "mimeType": "application/pdf"
+    }
+  ]
+}
